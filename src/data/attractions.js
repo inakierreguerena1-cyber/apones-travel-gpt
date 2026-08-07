@@ -19128,5 +19128,504 @@ export const attractions = [
         "Templo histórico de la ciudad vinculado a la identidad religiosa y cultural de La Paz.",
 
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiubs2rfgadF-bYZ6nM-174hNeNe8qICbDbAelsXL_IKhyxoVjc38whdc&s=10"
-}
+},
+
+{
+    id: "parque-de-la-democracia-resistencia",
+
+    city: "resistencia",
+
+    name: "Parque de la Democracia",
+
+    category: [
+        "Parques",
+        "Naturaleza"
+    ],
+
+    description:
+        "Gran espacio verde de la ciudad con lagunas, senderos y sectores recreativos.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lZmcaOSBQGAhy691_bft01oOkeaTc7EFtuqiOemUiQ&s=10"
+},
+
+
+{
+    id: "laguna-arguelles",
+
+    city: "resistencia",
+
+    name: "Laguna Argüello",
+
+    category: [
+        "Lagunas",
+        "Naturaleza"
+    ],
+
+    description:
+        "Laguna urbana histórica utilizada como espacio recreativo y de esparcimiento.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtOx3gYnXgdWPunFIhtaxILVsPMUwfohd3TroljOUUQ&s=10"
+},
+
+{
+    id: "parque-nacional-el-impenetrable",
+
+    city: "juan-jose-castelli",
+
+    name: "Parque Nacional El Impenetrable",
+
+    category: [
+        "Parques Nacionales",
+        "Naturaleza",
+        "Bosques",
+        "Animales",
+        "Aventura"
+    ],
+
+    description:
+        "Área protegida de más de 128 mil hectáreas que conserva bosques chaqueños, fauna autóctona y paisajes únicos del Gran Chaco.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlhDgtflNDePXiroUpZpOAnbICBNeKOO6-uwBL_WhPA&s=10"
+},
+
+
+{
+    id: "rio-bermejo-impenetrable",
+
+    city: "juan-jose-castelli",
+
+    name: "Río Bermejo",
+
+    category: [
+        "Naturaleza",
+        "Aventura"
+    ],
+
+    description:
+        "Río que atraviesa la región del Impenetrable y forma parte de los paisajes naturales más destacados del Chaco.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wqwKF54w7goHBZVuGSvbFy8vWj8SMVIWFqckDx9APw&s=10"
+},
+
+{
+    id: "balneario-villa-rio-bermejito",
+
+    city: "villa-rio-bermejito",
+
+    name: "Balneario Villa Río Bermejito",
+
+    category: [
+        "Playas",
+        "Naturaleza"
+    ],
+
+    description:
+        "Balneario sobre el río Bermejo utilizado como destino turístico de verano por sus playas y paisajes naturales.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLP0Cq95bGKQqxbQsgOSYZLhAF_BoVPbaeqz_ONs8ER7peJ5dZTosSPsO&s=10"
+},
+
+{
+    id: "parque-provincial-isla-del-cerrito",
+
+    city: "isla-del-cerrito",
+
+    name: "Parque Provincial Isla del Cerrito",
+
+    category: [
+        "Naturaleza",
+        "Reservas Naturales",
+        "Bosques",
+        "Animales"
+    ],
+
+    description:
+        "Área natural protegida con bosques, humedales y gran diversidad de aves junto a los ríos Paraná y Paraguay.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhTWYLGxSUpVjCi_PXOy8h2YEtkhST7f2rD8cEbQlIg&s=10"
+},
+
+{
+    id: "plaza-25-de-mayo-resistencia",
+
+    city: "resistencia",
+
+    name: "Plaza 25 de Mayo",
+
+    category: [
+        "Plaza",
+        "Historia",
+        "Monumento"
+    ],
+
+    description:
+        "Plaza principal de Resistencia y corazón histórico de la ciudad, rodeada por edificios emblemáticos y numerosas esculturas urbanas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfD7vxccs_J6-8SyfEGbMTXSrxY22S1LlFSJhvGSLzQ&s=10"
+},
+
+
+{
+    id: "catedral-san-fernando-resistencia",
+
+    city: "resistencia",
+
+    name: "Catedral San Fernando Rey",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Templo histórico de Resistencia inaugurado en el siglo XIX, ubicado frente a la Plaza 25 de Mayo.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zGPW3ZTR9PgJWyVir-UMXmHcJ5gHzrgx_cDa-Iegi4MEykreAP42ovSy&s=10"
+},
+
+
+{
+    id: "casa-gobierno-chaco",
+
+    city: "resistencia",
+
+    name: "Casa de Gobierno del Chaco",
+
+    category: [
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Edificio institucional destacado de la ciudad que conserva obras de artistas argentinos.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt1e9-CF_uZINL4QsDL5Ur31-l7wHDvGYgKT2aMx0w7599S-reCZq9l0&s=10"
+},
+
+
+{
+    id: "casa-de-las-culturas-resistencia",
+
+    city: "resistencia",
+
+    name: "Casa de las Culturas",
+
+    category: [
+        "Museo",
+        "Teatro",
+        "Arquitectura"
+    ],
+
+    description:
+        "Centro cultural provincial con exposiciones, actividades artísticas y espacios dedicados a las artes chaqueñas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqy5WUpdS4FrF8feB2etoGDcqMZkjVjU2AdppboYmLRw4rEwz4Dr0a-4B&s=10"
+},
+
+
+{
+    id: "muba-resistencia",
+
+    city: "resistencia",
+
+    name: "Museo Provincial de Bellas Artes René Brusau",
+
+    category: [
+        "Museo",
+        "Arte"
+    ],
+
+    description:
+        "Museo que reúne obras de artistas chaqueños y nacionales, formando parte del patrimonio cultural de la provincia.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3bEQjtrDeli-hu6ScPVg1d2FbaYrLbSxDNqzAk9fDmGeRI64URwHZcw&s=10"
+},
+
+
+{
+    id: "museo-hombre-chaqueno",
+
+    city: "resistencia",
+
+    name: "Museo del Hombre Chaqueño",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a la historia y cultura del Chaco, incluyendo pueblos originarios, inmigrantes y tradiciones regionales.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFaFtK--o07c2ATZGFiRPUxw00pOroC4hQ7dtIanC2w&s=10"
+},
+
+
+{
+    id: "museo-ciencias-naturales-augusto-schulz",
+
+    city: "resistencia",
+
+    name: "Museo de Ciencias Naturales Augusto Schulz",
+
+    category: [
+        "Museo",
+        "Naturaleza",
+        "Animales"
+    ],
+
+    description:
+        "Museo dedicado a la biodiversidad chaqueña, con colecciones de fauna, flora y patrimonio natural.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLgcUXwaW1bFkTTQqk7xPyuAe6hMkU0fAQDvaIhyspO9zzUP2CLE4ZNU&s=10"
+},
+
+
+{
+    id: "fogon-de-los-arrieros",
+
+    city: "resistencia",
+
+    name: "Fogón de los Arrieros",
+
+    category: [
+        "Museo",
+        "Historia",
+        "Arquitectura"
+    ],
+
+    description:
+        "Espacio cultural histórico con obras de arte, objetos antiguos, esculturas y colecciones particulares.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOVHzQIGGjKsdGqg0k9Fjndfqzjn1WSkLtf15dnIologTWk6kErxdqpQ&s=10"
+},
+
+
+{
+    id: "parque-2-febrero-resistencia",
+
+    city: "resistencia",
+
+    name: "Parque 2 de Febrero",
+
+    category: [
+        "Parques",
+        "Naturaleza"
+    ],
+
+    description:
+        "Principal espacio verde de Resistencia, con sectores recreativos, esculturas, anfiteatro y el Domo del Centenario.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GS5BXYrloZWuaAjlYcsuyg8tZknbFaWQvGOuRhmSdsp5IFEJRPXZPLU&s=10"
+},
+
+
+{
+    id: "domo-del-centenario",
+
+    city: "resistencia",
+
+    name: "Domo del Centenario Zitto Segovia",
+
+    category: [
+        "Arquitectura",
+        "Teatro"
+    ],
+
+    description:
+        "Espacio cultural y de espectáculos ubicado dentro del Parque 2 de Febrero, sede de importantes eventos.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13jc1PUE6o3VeDzYhO2fDnkOYImD2jWvHI1xecde2HQ5f-cuIJnH5QLFn&s=10"
+},
+
+{
+    id: "paseo-artistas-artesanos",
+
+    city: "resistencia",
+
+    name: "Paseo de Artistas y Artesanos",
+
+    category: [
+        "Shopping",
+        "Historia"
+    ],
+
+    description:
+        "Feria donde se encuentran artesanías regionales, productos culturales y trabajos de artistas chaqueños.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPkgSUHvktH2VSa5LnwVezTYihJyy_tJrbZ_2j79X9Q&s=10"
+},
+
+
+{
+    id: "bienal-escultura-resistencia",
+
+    city: "resistencia",
+
+    name: "Bienal Internacional de Escultura",
+
+    category: [
+        "Fiesta Nacional",
+        "Arte",
+        "Monumento"
+    ],
+
+    description:
+        "Evento internacional de arte que transforma a Resistencia en una gran galería al aire libre y deja esculturas como patrimonio permanente.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxJ5EPFBL-w6wSR0jGNcoy71GtSZDt1M9rUGf52HUdp0Xw7dlIeYC3jQU&s=10"
+},
+
+
+{
+    id: "museo-a-cielo-abierto-resistencia",
+
+    city: "resistencia",
+
+    name: "Museo a Cielo Abierto de Resistencia",
+
+    category: [
+        "Monumento",
+        "Arquitectura"
+    ],
+
+    description:
+        "Recorrido urbano formado por cientos de esculturas instaladas en calles, plazas y espacios públicos de la ciudad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdQ_L3H5BPmmsaJ3FyBltTa6h3mPnisO8WrAlUOUkN_ZIs_Wd-otdGMNd&s=10"
+},
+
+
+{
+    id: "encuentro-internacional-escultores-impenetrable",
+
+    city: "juan-jose-castelli",
+
+    name: "Encuentro Internacional de Escultores del Impenetrable",
+
+    category: [
+        "Fiesta Nacional",
+        "Monumento",
+        "Arte"
+    ],
+
+    description:
+        "Evento cultural que reúne escultores y deja obras de arte público en la localidad, combinando naturaleza, identidad chaqueña y cultura.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5evF4PhWswcQIymp4q34tN7nk1qwMNINu-97mDw0QehX27d2A0TOh9lq&s=10"
+},
+
+
+{
+    id: "la-fidelidad",
+
+    city: "juan-jose-castelli",
+
+    name: "Estancia La Fidelidad",
+
+    category: [
+        "Naturaleza",
+        "Historia",
+        "Reservas Naturales"
+    ],
+
+    description:
+        "Antigua estancia cuya conservación permitió la creación del Parque Nacional El Impenetrable. Es uno de los lugares claves para la protección del bosque chaqueño.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlaVo6YA6Zdk406tnwFEUoWneyV49T4sdqhwTK7YK4u0r_8McjLxpQNxAI&s=10"
+},
+
+{
+    id: "parque-nacional-chaco",
+
+    city: "capitan-solari",
+
+    name: "Parque Nacional Chaco",
+
+    category: [
+        "Parques Nacionales",
+        "Naturaleza",
+        "Bosques",
+        "Animales",
+        "Aventura"
+    ],
+
+    description:
+        "Área protegida del Chaco Húmedo con montes, sabanas, esteros y lagunas. Conserva grandes extensiones de quebracho colorado y una enorme biodiversidad con más de 300 especies de aves.",
+
+    image: "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/03/31163214/gran-chaco-argentina-13-PN-Chaco-Foto-Parques-Nacionales-04-768x481.jpg"
+},
+
+{
+    id: "la-cangaye",
+
+    city: "villa-rio-bermejito",
+
+    name: "Reducción La Cangayé",
+
+    category: [
+        "Historia",
+    ],
+
+    description:
+        "Restos históricos de una antigua reducción jesuítica donde convivieron españoles y pueblos originarios, uno de los sitios históricos más relevantes de la zona.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRml7L4mbXNeqADwf1RaDwQUi7r9VEz2pBd8TLspR_MHeHUzhJSICiuSTlo&s=10"
+},
+
+{
+    id: "confluencia-parana-paraguay",
+
+    city: "isla-del-cerrito",
+
+    name: "Confluencia de los ríos Paraná y Paraguay",
+
+    category: [
+        "Naturaleza",
+    ],
+
+    description:
+        "Punto natural donde se encuentran dos de los grandes ríos del litoral argentino, rodeado de islas, bosques y paisajes ribereños.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cv6L797-UDPL9lMCJFl-9rWwEwtZzlqNb9uUQfJZM7hushFi4J4yS30&s=10"
+},
+
+{
+    id: "museo-historico-isla-del-cerrito",
+
+    city: "isla-del-cerrito",
+
+    name: "Museo Histórico de Isla del Cerrito",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a la historia de la isla y su importancia durante la Guerra de la Triple Alianza.",
+
+    image: "https://cultura.chaco.gob.ar/uploads/files/img-20260521-wa0066-1-6a0f799a5f309785873478.jpg"
+},
+
+{
+    id: "capilla-virgen-del-pilar",
+
+    city: "isla-del-cerrito",
+
+    name: "Capilla Virgen del Pilar",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Capilla histórica ubicada sobre la isla, uno de los símbolos culturales y arquitectónicos del lugar.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovWuDzPwS-rxIRt-3kanFZ43a1g03rCiOI0K0Df27-Anr0oV4db0lH9Jb&s=10"
+},
+
 ]

@@ -5475,4 +5475,160 @@ export const locations = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdb-FUAqsh9K5JHRzU0Dhx3mEpkQPod--D2ZfU-74fRhu1u15Oq6SkmPEN&s=10"
 },
 
+{
+    id: "resistencia",
+
+    name: "Resistencia",
+
+    country: {
+        name: "Argentina",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+
+    province: {
+        name: "Chaco",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+    },
+
+    municipality: {
+        name: "Resistencia",
+        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZMcoG1TWd_wc15G4waNPclsXlYVe1itgpHFUjjI0_Q&s=10"
+    },
+
+    distance: {
+        km: 970,
+        hours: "11h 30m"
+    },
+
+    description:
+        "Capital de la provincia del Chaco, conocida como la Ciudad de las Esculturas por sus numerosas obras de arte urbano y como puerta de entrada al litoral chaqueño.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjOJRShVBaonyjNFE2fZXPyL3sVkjODaiwtMclsnA6A&s=10"
+},
+
+{
+    id: "juan-jose-castelli",
+
+    name: "Juan José Castelli",
+
+    country: {
+        name: "Argentina",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+
+    province: {
+        name: "Chaco",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+    },
+
+    municipality: {
+        name: "Juan José Castelli",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandera_de_Juan_Jos%C3%A9_Castelli.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+
+    distance: {
+        km: 1300,
+        hours: "15h"
+    },
+
+    description:
+        "Ciudad conocida como la puerta de entrada al Impenetrable chaqueño y base para recorrer uno de los ambientes naturales más importantes del norte argentino.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfS9j0jYt5ZyU1u6C2pHdIU8wNwL_NY25uRF23iZfptJ30Vt6J2GhLKTk&s=10"
+},
+
+{
+    id: "villa-rio-bermejito",
+
+    name: "Villa Río Bermejito",
+
+    country: {
+        name: "Argentina",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+
+    province: {
+        name: "Chaco",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+    },
+
+    municipality: {
+        name: "Villa Río Bermejito",
+        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7WrkOeiDv7v0vm-a10uu6QeqLMB1Vv6-bJlG4yUGU2dwPCJ2oac1XlTt&s=10"
+    },
+
+    distance: {
+        km: 1300,
+        hours: "15h"
+    },
+
+    description:
+        "Localidad turística del norte chaqueño conocida por sus playas de río, naturaleza y cercanía al Impenetrable.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDD1Kap_P71lDoHoM5nuIq-7iiYjSWH6zaLID4Vya5w&s=10"
+},
+
+{
+    id: "isla-del-cerrito",
+
+    name: "Isla del Cerrito",
+
+    country: {
+        name: "Argentina",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+
+    province: {
+        name: "Chaco",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+    },
+
+    municipality: {
+        name: "Isla del Cerrito",
+        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxDkB_jfumgFrvjGRoiZHgJZXfbuKM7_sn54oVWOXAeAjhG9UddWj8YA&s=10"
+    },
+
+    distance: {
+        km: 1050,
+        hours: "12h 30m"
+    },
+
+    description:
+        "Localidad ubicada en la confluencia de los ríos Paraná y Paraguay, famosa por sus paisajes ribereños y turismo de naturaleza.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3vlD3M61dEFS8xKGKTvfsEWS_7MvlrObiUCHk75YfzuIWs-DytBMFFXf&s=10"
+},
+
+{
+    id: "capitan-solari",
+
+    name: "Capitán Solari",
+
+    country: {
+        name: "Argentina",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+
+    province: {
+        name: "Chaco",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+    },
+
+    municipality: {
+        name: "Capitán Solari",
+        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Parque_Nacional_Chaco.jpg/250px-Parque_Nacional_Chaco.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    },
+
+    distance: {
+        km: 1090,
+        hours: "13h"
+    },
+
+    description:
+        "Localidad chaqueña conocida como puerta de entrada al Parque Nacional Chaco, uno de los principales destinos de naturaleza de la provincia.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mOT0YLOgUi7ytesel2m6_Ukln4Q2rilYMb0R_4RVaP9iwbttedlUGP8&s=10"
+},
+
+
 ];
