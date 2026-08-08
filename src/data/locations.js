@@ -4980,7 +4980,7 @@ export const locations = [
 
         province: {
             name: "Santa Fe",
-            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
         },
 
         municipality: {
@@ -5012,7 +5012,7 @@ export const locations = [
 
         province: {
             name: "Santa Fe",
-            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
         },
 
         municipality: {
@@ -5044,7 +5044,7 @@ export const locations = [
 
         province: {
             name: "Santa Fe",
-            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
         },
 
         municipality: {
@@ -5076,7 +5076,7 @@ export const locations = [
 
         province: {
             name: "Santa Fe",
-            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
         },
 
         municipality: {
