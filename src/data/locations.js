@@ -4432,226 +4432,226 @@ export const locations = [
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO--LyKL4pmx0R7O_8YXvxG8hyWZ2dj-DMGUGI7PXImrP80VJ2_Ue-_WU&s=10"
     },
 
-{
-    id:"general-belgrano",
+    {
+        id: "general-belgrano",
 
-    name:"General Belgrano",
+        name: "General Belgrano",
 
-    country:{
-        name:"Argentina",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "General Belgrano",
+            flag: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2VVhdWD7WVYU04pOrV3leAlmdKMESPVrJiMbTiqGd-_T4tBofkJABuABH-DQ1qsPjdhuVRo3PhZwThOQi9KJ1AGXlMg7SlgEnSqU-SD87EO0NR6urHyE-vj_pKniHYx8hCIAz_rxFS4t1/s1600/b+gral+belgrano.png"
+        },
+
+        distance: {
+            km: 160,
+            hours: "2h 30m"
+        },
+
+        description:
+            "Ciudad bonaerense conocida por sus aguas termales, espacios naturales y fiestas tradicionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsDJzSbfxVMFfLUI2t0hqiAmJ66oRSDNkB5Uc-3Hf2NFKJoagMtQuLOM&s=10"
     },
 
-    province:{
-        name:"Buenos Aires",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+
+    {
+        id: "ayacucho",
+
+        name: "Ayacucho",
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "Ayacucho",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Partido_de_Ayacucho.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+        },
+
+        distance: {
+            km: 320,
+            hours: "4h"
+        },
+
+        description:
+            "Ciudad del centro bonaerense reconocida por sus tradiciones rurales, fiestas populares y espacios naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVgT3HG72XU9ZD406xTN7EmYNiV-QFTXCHn9u9OXStQEtsLMQMclWKLg&s=10"
     },
 
-    municipality:{
-        name:"General Belgrano",
-        flag:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2VVhdWD7WVYU04pOrV3leAlmdKMESPVrJiMbTiqGd-_T4tBofkJABuABH-DQ1qsPjdhuVRo3PhZwThOQi9KJ1AGXlMg7SlgEnSqU-SD87EO0NR6urHyE-vj_pKniHYx8hCIAz_rxFS4t1/s1600/b+gral+belgrano.png"
+
+    {
+        id: "general-madariaga",
+
+        name: "General Madariaga",
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "General Madariaga",
+            flag: "https://www.madariagafutura.madariaga.gob.ar/img/logos/madariaga.png"
+        },
+
+        distance: {
+            km: 350,
+            hours: "4h 30m"
+        },
+
+        description:
+            "Ciudad cercana a la costa atlántica con identidad gaucha, lagunas y patrimonio histórico.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgtNhM_l_dEU7Bd4XCFgMyihs-4j4g_4sOyTwwVARkw&s=10"
     },
 
-    distance:{
-        km:160,
-        hours:"2h 30m"
+
+    {
+        id: "pergamino",
+
+        name: "Pergamino",
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "Pergamino",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1q_jiwCiPWTPkOXnN7p2HffOInnqHZQUdSKRvvnzceA&s=10"
+        },
+
+        distance: {
+            km: 220,
+            hours: "3h"
+        },
+
+        description:
+            "Ciudad del norte bonaerense vinculada a la producción agropecuaria, la cultura y la historia argentina.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzc8mYMCLrstfC8mKhu5iy7DcZCyiIthlo7YuS3KaUxA&s=10"
     },
 
-    description:
-    "Ciudad bonaerense conocida por sus aguas termales, espacios naturales y fiestas tradicionales.",
 
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsDJzSbfxVMFfLUI2t0hqiAmJ66oRSDNkB5Uc-3Hf2NFKJoagMtQuLOM&s=10"
-},
+    {
+        id: "nueve-de-julio",
 
+        name: "Nueve de Julio",
 
-{
-    id:"ayacucho",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
 
-    name:"Ayacucho",
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
 
-    country:{
-        name:"Argentina",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        municipality: {
+            name: "Nueve de Julio",
+            flag: "https://diarioel9dejulio.com.ar/wp-content/uploads/2009/10/BANDERA27.JPG"
+        },
+
+        distance: {
+            km: 260,
+            hours: "3h 30m"
+        },
+
+        description:
+            "Ciudad del interior bonaerense con espacios verdes, historia local y tradición rural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BsdJt4s9gHMZEMRyHOTAeIzCGAdyPZqG0HtvcaiYGQ&s=10"
     },
 
-    province:{
-        name:"Buenos Aires",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
+    {
+        id: "trenque-lauquen",
 
-    municipality:{
-        name:"Ayacucho",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Partido_de_Ayacucho.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
-    },
-
-    distance:{
-        km:320,
-        hours:"4h"
-    },
-
-    description:
-    "Ciudad del centro bonaerense reconocida por sus tradiciones rurales, fiestas populares y espacios naturales.",
-
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgVgT3HG72XU9ZD406xTN7EmYNiV-QFTXCHn9u9OXStQEtsLMQMclWKLg&s=10"
-},
-
-
-{
-    id:"general-madariaga",
-
-    name:"General Madariaga",
-
-    country:{
-        name:"Argentina",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province:{
-        name:"Buenos Aires",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality:{
-        name:"General Madariaga",
-        flag:"https://www.madariagafutura.madariaga.gob.ar/img/logos/madariaga.png"
-    },
-
-    distance:{
-        km:350,
-        hours:"4h 30m"
-    },
-
-    description:
-    "Ciudad cercana a la costa atlántica con identidad gaucha, lagunas y patrimonio histórico.",
-
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgtNhM_l_dEU7Bd4XCFgMyihs-4j4g_4sOyTwwVARkw&s=10"
-},
-
-
-{
-    id:"pergamino",
-
-    name:"Pergamino",
-
-    country:{
-        name:"Argentina",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province:{
-        name:"Buenos Aires",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality:{
-        name:"Pergamino",
-        flag:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1q_jiwCiPWTPkOXnN7p2HffOInnqHZQUdSKRvvnzceA&s=10"
-    },
-
-    distance:{
-        km:220,
-        hours:"3h"
-    },
-
-    description:
-    "Ciudad del norte bonaerense vinculada a la producción agropecuaria, la cultura y la historia argentina.",
-
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzc8mYMCLrstfC8mKhu5iy7DcZCyiIthlo7YuS3KaUxA&s=10"
-},
-
-
-{
-    id:"nueve-de-julio",
-
-    name:"Nueve de Julio",
-
-    country:{
-        name:"Argentina",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province:{
-        name:"Buenos Aires",
-        flag:"https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality:{
-        name:"Nueve de Julio",
-        flag:"https://diarioel9dejulio.com.ar/wp-content/uploads/2009/10/BANDERA27.JPG"
-    },
-
-    distance:{
-        km:260,
-        hours:"3h 30m"
-    },
-
-    description:
-    "Ciudad del interior bonaerense con espacios verdes, historia local y tradición rural.",
-
-    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BsdJt4s9gHMZEMRyHOTAeIzCGAdyPZqG0HtvcaiYGQ&s=10"
-},
-
-{
-    id: "trenque-lauquen",
-
-    name: "Trenque Lauquen",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Buenos Aires",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality: {
         name: "Trenque Lauquen",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEmr4kj6uw5n4lGee6pcSojmwVldJNows-FmTbacVnQ&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "Trenque Lauquen",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEmr4kj6uw5n4lGee6pcSojmwVldJNows-FmTbacVnQ&s=10"
+        },
+
+        distance: {
+            km: 440,
+            hours: "5h 10m"
+        },
+
+        description:
+            "Ciudad del oeste bonaerense reconocida por sus espacios verdes, lagunas y su fuerte identidad cultural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OLyYrYT5OozHO1pnfMAKtvBHkD-D7XwTOnufVQdW_w&s=10"
     },
 
-    distance: {
-        km: 440,
-        hours: "5h 10m"
-    },
+    {
+        id: "vicente-lopez",
 
-    description:
-        "Ciudad del oeste bonaerense reconocida por sus espacios verdes, lagunas y su fuerte identidad cultural.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6OLyYrYT5OozHO1pnfMAKtvBHkD-D7XwTOnufVQdW_w&s=10"
-},
-
-{
-    id: "vicente-lopez",
-
-    name: "Vicente López",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Buenos Aires",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality: {
         name: "Vicente López",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandera_de_Vicente_L%C3%B3pez.JPG"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "Vicente López",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bandera_de_Vicente_L%C3%B3pez.JPG"
+        },
+
+        distance: {
+            km: 35,
+            hours: "1h"
+        },
+
+        description:
+            "Ciudad costera del norte del Gran Buenos Aires con espacios verdes, costa del Río de la Plata y reservas naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i2Xsv3jcZKZCAGQX2IuCJGT3pzIZyrs71lxX7uCWxw&s"
     },
-
-    distance: {
-        km: 35,
-        hours: "1h"
-    },
-
-    description:
-        "Ciudad costera del norte del Gran Buenos Aires con espacios verdes, costa del Río de la Plata y reservas naturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3i2Xsv3jcZKZCAGQX2IuCJGT3pzIZyrs71lxX7uCWxw&s"
-},
 
     {
         id: "avellaneda",
@@ -4684,951 +4684,1207 @@ export const locations = [
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZJqHdxD_SfDaNJPjmiwvlHSlPFy4d5uf7df43Ir_a6w&s=10"
     },
 
-{
-    id: "general-lavalle",
+    {
+        id: "general-lavalle",
 
-    name: "General Lavalle",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Buenos Aires",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality: {
         name: "General Lavalle",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKp_iYvOcgNmvC1x56rMbC9YMiYDoxPbA5mhuZiaiRm1Jk13d0JzX_IA&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "General Lavalle",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbKp_iYvOcgNmvC1x56rMbC9YMiYDoxPbA5mhuZiaiRm1Jk13d0JzX_IA&s=10"
+        },
+
+        distance: {
+            km: 310,
+            hours: "4h"
+        },
+
+        description:
+            "Localidad costera de la provincia de Buenos Aires conocida por sus paisajes naturales, la Bahía Samborombón y el Parque Nacional Campos del Tuyú.",
+
+        image: "https://media.ambito.com/p/63044345d3f85e3e87b218c694dc5ffd/adjuntos/239/imagenes/041/822/0041822380/1200x675/smart/general-lavalle-turismo-tuenos-airesjpg.jpg"
     },
 
-    distance: {
-        km: 310,
-        hours: "4h"
-    },
+    {
+        id: "castelli",
 
-    description:
-        "Localidad costera de la provincia de Buenos Aires conocida por sus paisajes naturales, la Bahía Samborombón y el Parque Nacional Campos del Tuyú.",
-
-    image: "https://media.ambito.com/p/63044345d3f85e3e87b218c694dc5ffd/adjuntos/239/imagenes/041/822/0041822380/1200x675/smart/general-lavalle-turismo-tuenos-airesjpg.jpg"
-},
-
-{
-    id: "castelli",
-
-    name: "Castelli",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Buenos Aires",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
-    },
-
-    municipality: {
         name: "Castelli",
-        flag: "https://www.crwflags.com/fotw/images/a/ar-b-cas.gif"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Buenos Aires",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg"
+        },
+
+        municipality: {
+            name: "Castelli",
+            flag: "https://www.crwflags.com/fotw/images/a/ar-b-cas.gif"
+        },
+
+        distance: {
+            km: 180,
+            hours: "2h 20m"
+        },
+
+        description:
+            "Ciudad del sudeste bonaerense conocida por su patrimonio rural, la Laguna La Rosita y la histórica Estancia La Raquel.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx30-oP6MMJOMm8luZWMOHqSrS--y9GG-aIDzUWu9W_3oYfL7QcxLqxU8&s=10"
     },
 
-    distance: {
-        km: 180,
-        hours: "2h 20m"
-    },
+    {
+        id: "rosario",
 
-    description:
-        "Ciudad del sudeste bonaerense conocida por su patrimonio rural, la Laguna La Rosita y la histórica Estancia La Raquel.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx30-oP6MMJOMm8luZWMOHqSrS--y9GG-aIDzUWu9W_3oYfL7QcxLqxU8&s=10"
-},
-
-{
-    id: "rosario",
-
-    name: "Rosario",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Rosario",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandera_de_la_Ciudad_de_Rosario.svg"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Rosario",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/b/be/Bandera_de_la_Ciudad_de_Rosario.svg"
+        },
+
+        distance: {
+            km: 300,
+            hours: "3h 30m"
+        },
+
+        description:
+            "Una de las ciudades más importantes del país, ubicada sobre el río Paraná. Destaca por su costanera, el Monumento Nacional a la Bandera, parques, museos y gastronomía.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRufPA8ihMAtdAZG3l4id5u1ntNv84Ls4ETnKForuNcTg&s=10"
     },
 
-    distance: {
-        km: 300,
-        hours: "3h 30m"
-    },
 
-    description:
-        "Una de las ciudades más importantes del país, ubicada sobre el río Paraná. Destaca por su costanera, el Monumento Nacional a la Bandera, parques, museos y gastronomía.",
+    {
+        id: "santa-fe-capital",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRufPA8ihMAtdAZG3l4id5u1ntNv84Ls4ETnKForuNcTg&s=10"
-},
-
-
-{
-    id: "santa-fe-capital",
-
-    name: "Santa Fe",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
         name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Santa Fe",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqSskQGMK8cllPCDq7C2cgeivcOoaRjDjrlzr6Q-M9gpEMdtw6uL09h-U&s=10"
+        },
+
+        distance: {
+            km: 470,
+            hours: "5h 20m"
+        },
+
+        description:
+            "Capital provincial histórica a orillas del río Paraná, reconocida por su patrimonio colonial, museos, iglesias y su importancia política nacional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qE_TEibg_vBAoiTclJaF8aI73g5mSOEezyGWrqjVZl_e52DrIWD-u1E&s=10"
     },
 
-    municipality: {
-        name: "Santa Fe",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmqSskQGMK8cllPCDq7C2cgeivcOoaRjDjrlzr6Q-M9gpEMdtw6uL09h-U&s=10"
-    },
 
-    distance: {
-        km: 470,
-        hours: "5h 20m"
-    },
+    {
+        id: "rafaela",
 
-    description:
-        "Capital provincial histórica a orillas del río Paraná, reconocida por su patrimonio colonial, museos, iglesias y su importancia política nacional.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9qE_TEibg_vBAoiTclJaF8aI73g5mSOEezyGWrqjVZl_e52DrIWD-u1E&s=10"
-},
-
-
-{
-    id: "rafaela",
-
-    name: "Rafaela",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Rafaela",
-        flag: "https://cdnartic.ar/LnVXUEEqrHyFlsEEVtzIArC5KuE=/1500x0/filters:no_upscale():format(webp):quality(60)/https://radiorafaelacdn.eleco.com.ar/media/2026/05/bandera_de_rafaela.png"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Rafaela",
+            flag: "https://cdnartic.ar/LnVXUEEqrHyFlsEEVtzIArC5KuE=/1500x0/filters:no_upscale():format(webp):quality(60)/https://radiorafaelacdn.eleco.com.ar/media/2026/05/bandera_de_rafaela.png"
+        },
+
+        distance: {
+            km: 530,
+            hours: "6h"
+        },
+
+        description:
+            "Ciudad santafesina conocida por su tradición industrial, arquitectura, gastronomía y eventos culturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwX62K0xSkD1zLXAVEQKBOhniVlFdvBc59KBwgPmI-7qCrZtsJyC1QBYc1&s=10"
     },
 
-    distance: {
-        km: 530,
-        hours: "6h"
-    },
 
-    description:
-        "Ciudad santafesina conocida por su tradición industrial, arquitectura, gastronomía y eventos culturales.",
+    {
+        id: "reconquista",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwX62K0xSkD1zLXAVEQKBOhniVlFdvBc59KBwgPmI-7qCrZtsJyC1QBYc1&s=10"
-},
-
-
-{
-    id: "reconquista",
-
-    name: "Reconquista",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Reconquista",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX1Z6Q3y2cm2EGx5PklVAjHoPR06t8pQJQEbm6inV8A&s"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Reconquista",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX1Z6Q3y2cm2EGx5PklVAjHoPR06t8pQJQEbm6inV8A&s"
+        },
+
+        distance: {
+            km: 820,
+            hours: "9h"
+        },
+
+        description:
+            "Ciudad del norte santafesino cercana al río Paraná, destacada por su cultura, museos, pesca deportiva y naturaleza.",
+
+        image: "https://www.ellitoral.com/images/2025/05/02/UaLHgu2J1_870x580__1.jpg"
     },
 
-    distance: {
-        km: 820,
-        hours: "9h"
-    },
 
-    description:
-        "Ciudad del norte santafesino cercana al río Paraná, destacada por su cultura, museos, pesca deportiva y naturaleza.",
+    {
+        id: "esperanza",
 
-    image: "https://www.ellitoral.com/images/2025/05/02/UaLHgu2J1_870x580__1.jpg"
-},
-
-
-{
-    id: "esperanza",
-
-    name: "Esperanza",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Esperanza",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhY_jzltkzvUlQPeW2ke52XS61-FyBgviW-825Dc-B9w&s"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Esperanza",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhY_jzltkzvUlQPeW2ke52XS61-FyBgviW-825Dc-B9w&s"
+        },
+
+        distance: {
+            km: 500,
+            hours: "5h 40m"
+        },
+
+        description:
+            "Primera colonia agrícola organizada del país, con fuerte herencia inmigrante, museos y turismo histórico.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonLYF-wZjVz0AAdQMOyD2bP-ByuCiYtHqqP_7YVj9CA&s=10"
     },
 
-    distance: {
-        km: 500,
-        hours: "5h 40m"
-    },
 
-    description:
-        "Primera colonia agrícola organizada del país, con fuerte herencia inmigrante, museos y turismo histórico.",
+    {
+        id: "san-lorenzo-santa-fe",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSonLYF-wZjVz0AAdQMOyD2bP-ByuCiYtHqqP_7YVj9CA&s=10"
-},
-
-
-{
-    id: "san-lorenzo-santa-fe",
-
-    name: "San Lorenzo",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "San Lorenzo",
-        flag: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOGbjefJCTdlQpQiPfv5-03j4PrgtVQdEfKUqeKXbUgkissQCVFDafxRcFMMfbpKFK0sa_vuOitQuf6dgN4rp5PJ7Nu49B-9OvkkaronRtKuZx3zkt3NWKlvEKLzqFrsqMFw0_RdaQaAg/s1600/San-Lorenzo+%25281%2529.jpg"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "San Lorenzo",
+            flag: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOGbjefJCTdlQpQiPfv5-03j4PrgtVQdEfKUqeKXbUgkissQCVFDafxRcFMMfbpKFK0sa_vuOitQuf6dgN4rp5PJ7Nu49B-9OvkkaronRtKuZx3zkt3NWKlvEKLzqFrsqMFw0_RdaQaAg/s1600/San-Lorenzo+%25281%2529.jpg"
+        },
+
+        distance: {
+            km: 330,
+            hours: "3h 50m"
+        },
+
+        description:
+            "Ciudad histórica a orillas del Paraná famosa por el Combate de San Lorenzo y su patrimonio histórico.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAM9qMlW8syjWAfgygxHLRpr_4eHZzxVoRm4JPWAW9M_d78ofHQfMdc8o&s=10"
     },
 
-    distance: {
-        km: 330,
-        hours: "3h 50m"
+    {
+        id: "puerto-gaboto",
+
+        name: "Puerto Gaboto",
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "San Jerónimo",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipDuhDdlGUaZn8_psDcvK_NRQOuR7xJ24KMWvAVJ23BWyUlDHzfZs0gg&s=10"
+        },
+
+        distance: {
+            km: 360,
+            hours: "4h 15m"
+        },
+
+        description:
+            "Pequeña localidad ribereña ubicada sobre el río Coronda, reconocida por ser el sitio del primer asentamiento español en territorio argentino y puerta de acceso al Parque Nacional Islas de Santa Fe.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAarkT6V-y8RzlmY6EprhWM6NXY_saCxTB4O_jbMvHMPAMkv4elcwRCbw&s=10"
     },
 
-    description:
-        "Ciudad histórica a orillas del Paraná famosa por el Combate de San Lorenzo y su patrimonio histórico.",
+    {
+        id: "cayasta",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAM9qMlW8syjWAfgygxHLRpr_4eHZzxVoRm4JPWAW9M_d78ofHQfMdc8o&s=10"
-},
-
-{
-    id: "puerto-gaboto",
-
-    name: "Puerto Gaboto",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
-        name: "San Jerónimo",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSipDuhDdlGUaZn8_psDcvK_NRQOuR7xJ24KMWvAVJ23BWyUlDHzfZs0gg&s=10"
-    },
-
-    distance: {
-        km: 360,
-        hours: "4h 15m"
-    },
-
-    description:
-        "Pequeña localidad ribereña ubicada sobre el río Coronda, reconocida por ser el sitio del primer asentamiento español en territorio argentino y puerta de acceso al Parque Nacional Islas de Santa Fe.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAarkT6V-y8RzlmY6EprhWM6NXY_saCxTB4O_jbMvHMPAMkv4elcwRCbw&s=10"
-},
-
-{
-    id: "cayasta",
-
-    name: "Cayastá",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Cayastá",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThZezGOeLj2RragUJ9hU3jfCDNv9TMlhufex_XKRXA2TJJd1SSUGCMSy8&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Cayastá",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQThZezGOeLj2RragUJ9hU3jfCDNv9TMlhufex_XKRXA2TJJd1SSUGCMSy8&s=10"
+        },
+
+        distance: {
+            km: 580,
+            hours: "6h 30m"
+        },
+
+        description:
+            "Localidad histórica ubicada a orillas del río San Javier, famosa por albergar el Parque Arqueológico Santa Fe la Vieja, antigua fundación de la ciudad de Santa Fe.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTxqr4RVkTuUsNEjCOzm9LjhB0qRGFoJh_7XnY0NVYbRTRvYM8Ke5ZAk&s=10"
     },
 
-    distance: {
-        km: 580,
-        hours: "6h 30m"
-    },
 
-    description:
-        "Localidad histórica ubicada a orillas del río San Javier, famosa por albergar el Parque Arqueológico Santa Fe la Vieja, antigua fundación de la ciudad de Santa Fe.",
+    {
+        id: "san-javier-santa-fe",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTxqr4RVkTuUsNEjCOzm9LjhB0qRGFoJh_7XnY0NVYbRTRvYM8Ke5ZAk&s=10"
-},
-
-
-{
-    id: "san-javier-santa-fe",
-
-    name: "San Javier",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "San Javier",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xK47Lh8Ye7snkHwQJR-e-9CkjfO-Vd7bI41MIoszhkP0Ho62ixDA4qk&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "San Javier",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xK47Lh8Ye7snkHwQJR-e-9CkjfO-Vd7bI41MIoszhkP0Ho62ixDA4qk&s=10"
+        },
+
+        distance: {
+            km: 700,
+            hours: "8h"
+        },
+
+        description:
+            "Ciudad costera del noreste santafesino ubicada junto al río San Javier, reconocida por sus paisajes naturales, humedales y cultura del litoral.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz0-MVInu7WAMq0UIwLr5W0iwy3DLHftW7skzZlnF_uWSdegtKwPawcoB&s=10"
     },
 
-    distance: {
-        km: 700,
-        hours: "8h"
-    },
 
-    description:
-        "Ciudad costera del noreste santafesino ubicada junto al río San Javier, reconocida por sus paisajes naturales, humedales y cultura del litoral.",
+    {
+        id: "san-jose-del-rincon",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShz0-MVInu7WAMq0UIwLr5W0iwy3DLHftW7skzZlnF_uWSdegtKwPawcoB&s=10"
-},
-
-
-{
-    id: "san-jose-del-rincon",
-
-    name: "San José del Rincón",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "San José del Rincón",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0eb6KzZGUcZRlSzCxi5usMMvhykCHWy3ja_gYTKaRSjZgkGc-0h_RmdU&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "San José del Rincón",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0eb6KzZGUcZRlSzCxi5usMMvhykCHWy3ja_gYTKaRSjZgkGc-0h_RmdU&s=10"
+        },
+
+        distance: {
+            km: 480,
+            hours: "5h 40m"
+        },
+
+        description:
+            "Ciudad cercana a Santa Fe capital, conocida por sus playas, ríos, lagunas y ambientes naturales típicos del litoral.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/b/be/San_jose_del_rincon_2026-8.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
     },
 
-    distance: {
-        km: 480,
-        hours: "5h 40m"
-    },
 
-    description:
-        "Ciudad cercana a Santa Fe capital, conocida por sus playas, ríos, lagunas y ambientes naturales típicos del litoral.",
+    {
+        id: "melincue",
 
-    image: "https://upload.wikimedia.org/wikipedia/commons/b/be/San_jose_del_rincon_2026-8.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-},
-
-
-{
-    id: "melincue",
-
-    name: "Melincué",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Santa Fe",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
-    },
-
-    municipality: {
         name: "Melincué",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIf9jcVtRjOFhfoPO5oGkcIx5HH4aeqKTAE1o5s4DFw&s"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Santa Fe",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bandera_de_la_Provincia_de_Santa_Fe.svg"
+        },
+
+        municipality: {
+            name: "Melincué",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIf9jcVtRjOFhfoPO5oGkcIx5HH4aeqKTAE1o5s4DFw&s"
+        },
+
+        distance: {
+            km: 390,
+            hours: "4h 40m"
+        },
+
+        description:
+            "Localidad santafesina conocida por la Laguna Melincué, sus paisajes naturales y la presencia de fauna característica de los humedales.",
+
+        image: "https://www.santafe.tur.ar/wp-content/uploads/sites/91/2025/11/a23-scaled-1-1024x682.jpg"
     },
 
-    distance: {
-        km: 390,
-        hours: "4h 40m"
-    },
+    {
+        id: "parana",
 
-    description:
-        "Localidad santafesina conocida por la Laguna Melincué, sus paisajes naturales y la presencia de fauna característica de los humedales.",
-
-    image: "https://www.santafe.tur.ar/wp-content/uploads/sites/91/2025/11/a23-scaled-1-1024x682.jpg"
-},
-
-{
-    id: "parana",
-
-    name: "Paraná",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Paraná",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandera_de_Paran%C3%A1%2C_Entre_R%C3%ADos.svg/960px-Bandera_de_Paran%C3%A1%2C_Entre_R%C3%ADos.svg.png"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Paraná",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bandera_de_Paran%C3%A1%2C_Entre_R%C3%ADos.svg/960px-Bandera_de_Paran%C3%A1%2C_Entre_R%C3%ADos.svg.png"
+        },
+
+        distance: {
+            km: 500,
+            hours: "5h 40m"
+        },
+
+        description:
+            "Capital de Entre Ríos ubicada frente al río Paraná, conocida por sus barrancas, costanera, parques y turismo fluvial.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpv0EUsQmVK1YLdFjK9wiW76HRbwn7806v6qSwPIgKCjH6wjZQxWX05Q&s=10"
     },
 
-    distance: {
-        km: 500,
-        hours: "5h 40m"
-    },
 
-    description:
-        "Capital de Entre Ríos ubicada frente al río Paraná, conocida por sus barrancas, costanera, parques y turismo fluvial.",
+    {
+        id: "gualeguaychu",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcpv0EUsQmVK1YLdFjK9wiW76HRbwn7806v6qSwPIgKCjH6wjZQxWX05Q&s=10"
-},
-
-
-{
-    id: "gualeguaychu",
-
-    name: "Gualeguaychú",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Gualeguaychú",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAc22ETCORc5Sp87uBcxTbqcLLA-BnAxmTU7t7eGqmtWADqUW952YOqQ&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Gualeguaychú",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAc22ETCORc5Sp87uBcxTbqcLLA-BnAxmTU7t7eGqmtWADqUW952YOqQ&s=10"
+        },
+
+        distance: {
+            km: 230,
+            hours: "3h"
+        },
+
+        description:
+            "Ciudad turística famosa por su Carnaval del País, playas, termas y naturaleza sobre el río Gualeguaychú.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbozb6ETTvRrrEPoPzB21sBNvsfnM8faB7Fx6852isW-DSW2P7FqKUfDw&s=10"
     },
 
-    distance: {
-        km: 230,
-        hours: "3h"
-    },
 
-    description:
-        "Ciudad turística famosa por su Carnaval del País, playas, termas y naturaleza sobre el río Gualeguaychú.",
+    {
+        id: "colon-entre-rios",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbozb6ETTvRrrEPoPzB21sBNvsfnM8faB7Fx6852isW-DSW2P7FqKUfDw&s=10"
-},
-
-
-{
-    id: "colon-entre-rios",
-
-    name: "Colón",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Colón",
-        flag: "https://entrerioshoy.com/wp-content/uploads/2025/04/Escudo-de-Colon.jpg"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Colón",
+            flag: "https://entrerioshoy.com/wp-content/uploads/2025/04/Escudo-de-Colon.jpg"
+        },
+
+        distance: {
+            km: 320,
+            hours: "4h"
+        },
+
+        description:
+            "Destino ribereño del río Uruguay reconocido por sus playas, termas, gastronomía y cercanía al Parque Nacional El Palmar.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IEjn75iFqOnBUfned0JW54OhQZ5lcKchM90fOoFn1h9zYHi3EDSfwK4&s=10"
     },
 
-    distance: {
-        km: 320,
-        hours: "4h"
-    },
 
-    description:
-        "Destino ribereño del río Uruguay reconocido por sus playas, termas, gastronomía y cercanía al Parque Nacional El Palmar.",
+    {
+        id: "concordia",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IEjn75iFqOnBUfned0JW54OhQZ5lcKchM90fOoFn1h9zYHi3EDSfwK4&s=10"
-},
-
-
-{
-    id: "concordia",
-
-    name: "Concordia",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Concordia",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bandera%2C_Ciudad_de_Concordia%2C_Entre_Rios.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Concordia",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bandera%2C_Ciudad_de_Concordia%2C_Entre_Rios.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        distance: {
+            km: 430,
+            hours: "5h"
+        },
+
+        description:
+            "Ciudad del río Uruguay conocida por sus termas, producción citrícola, parques y turismo natural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASxl1pCjbnMAt-Bybq-kqlqmBPloZAUD86F5oAGaTpVFRgbnCzNsmGcw&s=10"
     },
 
-    distance: {
-        km: 430,
-        hours: "5h"
-    },
 
-    description:
-        "Ciudad del río Uruguay conocida por sus termas, producción citrícola, parques y turismo natural.",
+    {
+        id: "federacion",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSASxl1pCjbnMAt-Bybq-kqlqmBPloZAUD86F5oAGaTpVFRgbnCzNsmGcw&s=10"
-},
-
-
-{
-    id: "federacion",
-
-    name: "Federación",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Federación",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6OjcKyphNiXGI7wajdDQ_200l_y23Mx-UmiP_2BE1wjguyR_NWlNXgzQ&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Federación",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr6OjcKyphNiXGI7wajdDQ_200l_y23Mx-UmiP_2BE1wjguyR_NWlNXgzQ&s=10"
+        },
+
+        distance: {
+            km: 520,
+            hours: "6h"
+        },
+
+        description:
+            "Ciudad termal entrerriana famosa por el Parque Termal, el lago Salto Grande y sus paisajes ribereños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwzbyRvDKFTWTQnpJFK8SX6ExcV_pQGW3-DsSMjhy9aPzXy0WSZdKLtA&s=10"
     },
 
-    distance: {
-        km: 520,
-        hours: "6h"
-    },
 
-    description:
-        "Ciudad termal entrerriana famosa por el Parque Termal, el lago Salto Grande y sus paisajes ribereños.",
+    {
+        id: "victoria-entre-rios",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwzbyRvDKFTWTQnpJFK8SX6ExcV_pQGW3-DsSMjhy9aPzXy0WSZdKLtA&s=10"
-},
-
-
-{
-    id: "victoria-entre-rios",
-
-    name: "Victoria",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Victoria",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzZXgRzPhnFvkCjDlKdIvBF9D1knxzG_1JPDrIgKHI708evCx7mDRIqPs&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Victoria",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSzZXgRzPhnFvkCjDlKdIvBF9D1knxzG_1JPDrIgKHI708evCx7mDRIqPs&s=10"
+        },
+
+        distance: {
+            km: 360,
+            hours: "4h"
+        },
+
+        description:
+            "Ciudad histórica frente al río Paraná conocida por sus paisajes de islas, casino, monasterio y turismo cultural.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/MiradorFatima.png"
     },
 
-    distance: {
-        km: 360,
-        hours: "4h"
-    },
 
-    description:
-        "Ciudad histórica frente al río Paraná conocida por sus paisajes de islas, casino, monasterio y turismo cultural.",
+    {
+        id: "villa-elisa",
 
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/MiradorFatima.png"
-},
-
-
-{
-    id: "villa-elisa",
-
-    name: "Villa Elisa",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Villa Elisa",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOZwCdvuznFJNW2X_uOFD8XzPwl8mi9UVvnm_Aqpa4bkFCUVg8eXXwu44&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Villa Elisa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOZwCdvuznFJNW2X_uOFD8XzPwl8mi9UVvnm_Aqpa4bkFCUVg8eXXwu44&s=10"
+        },
+
+        distance: {
+            km: 350,
+            hours: "4h"
+        },
+
+        description:
+            "Ciudad termal reconocida por sus aguas, tranquilidad, turismo rural y paisajes naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2i22gglwIqs-_PicP2VREWsUzMnpRTfFkiVmWmH68Cp6hT8oxSDaXtMLd&s=10"
     },
 
-    distance: {
-        km: 350,
-        hours: "4h"
-    },
+    {
+        id: "chajari",
 
-    description:
-        "Ciudad termal reconocida por sus aguas, tranquilidad, turismo rural y paisajes naturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2i22gglwIqs-_PicP2VREWsUzMnpRTfFkiVmWmH68Cp6hT8oxSDaXtMLd&s=10"
-},
-
-{
-    id: "chajari",
-
-    name: "Chajarí",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Chajarí",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9hLigolc5Yq-QheR0hQNWg7-1dqLWPQWdvULlZZ04A&s"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Chajarí",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa9hLigolc5Yq-QheR0hQNWg7-1dqLWPQWdvULlZZ04A&s"
+        },
+
+        distance: {
+            km: 520,
+            hours: "6h 20m"
+        },
+
+        description:
+            "Ciudad del noreste entrerriano conocida como la Ciudad de Amigos, famosa por sus termas, sus paisajes rurales, la producción citrícola y su cercanía al río Uruguay.",
+
+        image: "https://www.turismoentrerios.com/chajari/img/ini-playas.jpg"
     },
 
-    distance: {
-        km: 520,
-        hours: "6h 20m"
-    },
+    {
+        id: "diamante",
 
-    description:
-        "Ciudad del noreste entrerriano conocida como la Ciudad de Amigos, famosa por sus termas, sus paisajes rurales, la producción citrícola y su cercanía al río Uruguay.",
-
-    image: "https://www.turismoentrerios.com/chajari/img/ini-playas.jpg"
-},
-
-{
-    id: "diamante",
-
-    name: "Diamante",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-    },
-
-    municipality: {
         name: "Diamante",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFnEhPpP8noM7B8ZsoeXQsebZ9ajgegK9ND0E6KkTmPWUfdolewyT4-c&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Diamante",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFnEhPpP8noM7B8ZsoeXQsebZ9ajgegK9ND0E6KkTmPWUfdolewyT4-c&s=10"
+        },
+
+        distance: {
+            km: 450,
+            hours: "5h 20m"
+        },
+
+        description:
+            "Ciudad ubicada sobre las barrancas del río Paraná, conocida como la Ciudad Blanca por sus paisajes, su puerto, sus festivales y por ser la puerta de entrada al Parque Nacional Pre-Delta.",
+
+        image: "https://www.turismoentrerios.com/diamante/img/ini-circuito-regional.jpg"
     },
 
-    distance: {
-        km: 450,
-        hours: "5h 20m"
-    },
+    {
+        id: "concepcion-del-uruguay",
 
-    description:
-        "Ciudad ubicada sobre las barrancas del río Paraná, conocida como la Ciudad Blanca por sus paisajes, su puerto, sus festivales y por ser la puerta de entrada al Parque Nacional Pre-Delta.",
-
-    image: "https://www.turismoentrerios.com/diamante/img/ini-circuito-regional.jpg"
-},
-
-{
-    id: "concepcion-del-uruguay",
-
-    name: "Concepción del Uruguay",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandera_de_Entre_R%C3%ADos.svg"
-    },
-
-    municipality: {
         name: "Concepción del Uruguay",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandera_de_Concepci%C3%B3n_del_Uruguay.jpg"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Concepción del Uruguay",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bandera_de_Concepci%C3%B3n_del_Uruguay.jpg"
+        },
+
+        distance: {
+            km: 320,
+            hours: "3h 50m"
+        },
+
+        description:
+            "Una de las ciudades históricas más importantes de Entre Ríos, conocida por sus playas, edificios patrimoniales y el Palacio San José.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRSD4ekZE2Wf6NL_lYvTqnLKy_mR3CTDmfCy0d0fCLw8zDMgFKw-Fsz0_&s=10"
     },
 
-    distance: {
-        km: 320,
-        hours: "3h 50m"
+
+    {
+        id: "san-jose-entre-rios",
+
+        name: "San José",
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "Colón",
+            flag: "https://entrerioshoy.com/wp-content/uploads/2025/04/Escudo-de-Colon.jpg"
+        },
+
+        distance: {
+            km: 330,
+            hours: "4h"
+        },
+
+        description:
+            "Ciudad turística del río Uruguay famosa por el Molino Forclaz, sus playas, termas y turismo rural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdw-UF857cmDj3f2C6l-JBZW_vYGRVYppzZVCQx4y0OmN4l9SqKCSzc1np&s=10"
     },
 
-    description:
-        "Una de las ciudades históricas más importantes de Entre Ríos, conocida por sus playas, edificios patrimoniales y el Palacio San José.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRSD4ekZE2Wf6NL_lYvTqnLKy_mR3CTDmfCy0d0fCLw8zDMgFKw-Fsz0_&s=10"
-},
+    {
+        id: "la-paz-entre-rios",
 
-
-{
-    id: "san-jose-entre-rios",
-
-    name: "San José",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandera_de_Entre_R%C3%ADos.svg"
-    },
-
-    municipality: {
-        name: "Colón",
-        flag: "https://entrerioshoy.com/wp-content/uploads/2025/04/Escudo-de-Colon.jpg"
-    },
-
-    distance: {
-        km: 330,
-        hours: "4h"
-    },
-
-    description:
-        "Ciudad turística del río Uruguay famosa por el Molino Forclaz, sus playas, termas y turismo rural.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdw-UF857cmDj3f2C6l-JBZW_vYGRVYppzZVCQx4y0OmN4l9SqKCSzc1np&s=10"
-},
-
-
-{
-    id: "la-paz-entre-rios",
-
-    name: "La Paz",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Entre Ríos",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bandera_de_Entre_R%C3%ADos.svg"
-    },
-
-    municipality: {
         name: "La Paz",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/4/48/Bamdera_de_La_Paz_Entre_Rios.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Entre Ríos",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        municipality: {
+            name: "La Paz",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/4/48/Bamdera_de_La_Paz_Entre_Rios.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        distance: {
+            km: 620,
+            hours: "7h 20m"
+        },
+
+        description:
+            "Ciudad del norte entrerriano ubicada sobre el río Paraná, reconocida por sus termas, pesca deportiva, naturaleza y paisajes ribereños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdb-FUAqsh9K5JHRzU0Dhx3mEpkQPod--D2ZfU-74fRhu1u15Oq6SkmPEN&s=10"
     },
 
-    distance: {
-        km: 620,
-        hours: "7h 20m"
-    },
+    {
+        id: "resistencia",
 
-    description:
-        "Ciudad del norte entrerriano ubicada sobre el río Paraná, reconocida por sus termas, pesca deportiva, naturaleza y paisajes ribereños.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdb-FUAqsh9K5JHRzU0Dhx3mEpkQPod--D2ZfU-74fRhu1u15Oq6SkmPEN&s=10"
-},
-
-{
-    id: "resistencia",
-
-    name: "Resistencia",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Chaco",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
-    },
-
-    municipality: {
         name: "Resistencia",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZMcoG1TWd_wc15G4waNPclsXlYVe1itgpHFUjjI0_Q&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Chaco",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+        },
+
+        municipality: {
+            name: "Resistencia",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZMcoG1TWd_wc15G4waNPclsXlYVe1itgpHFUjjI0_Q&s=10"
+        },
+
+        distance: {
+            km: 970,
+            hours: "11h 30m"
+        },
+
+        description:
+            "Capital de la provincia del Chaco, conocida como la Ciudad de las Esculturas por sus numerosas obras de arte urbano y como puerta de entrada al litoral chaqueño.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjOJRShVBaonyjNFE2fZXPyL3sVkjODaiwtMclsnA6A&s=10"
     },
 
-    distance: {
-        km: 970,
-        hours: "11h 30m"
-    },
+    {
+        id: "juan-jose-castelli",
 
-    description:
-        "Capital de la provincia del Chaco, conocida como la Ciudad de las Esculturas por sus numerosas obras de arte urbano y como puerta de entrada al litoral chaqueño.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjOJRShVBaonyjNFE2fZXPyL3sVkjODaiwtMclsnA6A&s=10"
-},
-
-{
-    id: "juan-jose-castelli",
-
-    name: "Juan José Castelli",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Chaco",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
-    },
-
-    municipality: {
         name: "Juan José Castelli",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandera_de_Juan_Jos%C3%A9_Castelli.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Chaco",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+        },
+
+        municipality: {
+            name: "Juan José Castelli",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bandera_de_Juan_Jos%C3%A9_Castelli.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+        },
+
+        distance: {
+            km: 1300,
+            hours: "15h"
+        },
+
+        description:
+            "Ciudad conocida como la puerta de entrada al Impenetrable chaqueño y base para recorrer uno de los ambientes naturales más importantes del norte argentino.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfS9j0jYt5ZyU1u6C2pHdIU8wNwL_NY25uRF23iZfptJ30Vt6J2GhLKTk&s=10"
     },
 
-    distance: {
-        km: 1300,
-        hours: "15h"
-    },
+    {
+        id: "villa-rio-bermejito",
 
-    description:
-        "Ciudad conocida como la puerta de entrada al Impenetrable chaqueño y base para recorrer uno de los ambientes naturales más importantes del norte argentino.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIfS9j0jYt5ZyU1u6C2pHdIU8wNwL_NY25uRF23iZfptJ30Vt6J2GhLKTk&s=10"
-},
-
-{
-    id: "villa-rio-bermejito",
-
-    name: "Villa Río Bermejito",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Chaco",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
-    },
-
-    municipality: {
         name: "Villa Río Bermejito",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7WrkOeiDv7v0vm-a10uu6QeqLMB1Vv6-bJlG4yUGU2dwPCJ2oac1XlTt&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Chaco",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+        },
+
+        municipality: {
+            name: "Villa Río Bermejito",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7WrkOeiDv7v0vm-a10uu6QeqLMB1Vv6-bJlG4yUGU2dwPCJ2oac1XlTt&s=10"
+        },
+
+        distance: {
+            km: 1300,
+            hours: "15h"
+        },
+
+        description:
+            "Localidad turística del norte chaqueño conocida por sus playas de río, naturaleza y cercanía al Impenetrable.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDD1Kap_P71lDoHoM5nuIq-7iiYjSWH6zaLID4Vya5w&s=10"
     },
 
-    distance: {
-        km: 1300,
-        hours: "15h"
-    },
+    {
+        id: "isla-del-cerrito",
 
-    description:
-        "Localidad turística del norte chaqueño conocida por sus playas de río, naturaleza y cercanía al Impenetrable.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDD1Kap_P71lDoHoM5nuIq-7iiYjSWH6zaLID4Vya5w&s=10"
-},
-
-{
-    id: "isla-del-cerrito",
-
-    name: "Isla del Cerrito",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Chaco",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
-    },
-
-    municipality: {
         name: "Isla del Cerrito",
-        flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxDkB_jfumgFrvjGRoiZHgJZXfbuKM7_sn54oVWOXAeAjhG9UddWj8YA&s=10"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Chaco",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+        },
+
+        municipality: {
+            name: "Isla del Cerrito",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxDkB_jfumgFrvjGRoiZHgJZXfbuKM7_sn54oVWOXAeAjhG9UddWj8YA&s=10"
+        },
+
+        distance: {
+            km: 1050,
+            hours: "12h 30m"
+        },
+
+        description:
+            "Localidad ubicada en la confluencia de los ríos Paraná y Paraguay, famosa por sus paisajes ribereños y turismo de naturaleza.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3vlD3M61dEFS8xKGKTvfsEWS_7MvlrObiUCHk75YfzuIWs-DytBMFFXf&s=10"
     },
 
-    distance: {
-        km: 1050,
-        hours: "12h 30m"
-    },
+    {
+        id: "capitan-solari",
 
-    description:
-        "Localidad ubicada en la confluencia de los ríos Paraná y Paraguay, famosa por sus paisajes ribereños y turismo de naturaleza.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3vlD3M61dEFS8xKGKTvfsEWS_7MvlrObiUCHk75YfzuIWs-DytBMFFXf&s=10"
-},
-
-{
-    id: "capitan-solari",
-
-    name: "Capitán Solari",
-
-    country: {
-        name: "Argentina",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
-    },
-
-    province: {
-        name: "Chaco",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
-    },
-
-    municipality: {
         name: "Capitán Solari",
-        flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Parque_Nacional_Chaco.jpg/250px-Parque_Nacional_Chaco.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+
+        province: {
+            name: "Chaco",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/960px-Bandera_de_la_Provincia_del_Chaco.svg.png"
+        },
+
+        municipality: {
+            name: "Capitán Solari",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Parque_Nacional_Chaco.jpg/250px-Parque_Nacional_Chaco.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+        },
+
+        distance: {
+            km: 1090,
+            hours: "13h"
+        },
+
+        description:
+            "Localidad chaqueña conocida como puerta de entrada al Parque Nacional Chaco, uno de los principales destinos de naturaleza de la provincia.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mOT0YLOgUi7ytesel2m6_Ukln4Q2rilYMb0R_4RVaP9iwbttedlUGP8&s=10"
     },
 
-    distance: {
-        km: 1090,
-        hours: "13h"
+    {
+        id: "formosa",
+        name: "Formosa",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT53Tnon6ELm_TsqEGm-hPLJ4QDFDRo_QMvXnASaw-xCA&s"
+        },
+        distance: {
+            km: 1180,
+            hours: "13h 30m",
+
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3YKkM9aLIbbWzsNuo4Kh-FFZyPZD39v8WX3niE9PHHAugFnm7RQojyTE&s=10"
+        }
     },
 
-    description:
-        "Localidad chaqueña conocida como puerta de entrada al Parque Nacional Chaco, uno de los principales destinos de naturaleza de la provincia.",
+    {
+        id: "laguna-blanca",
+        name: "Laguna Blanca",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Laguna Blanca",
+            flag: "https://archivos.formosa.gob.ar/media/uploads/organismos/logo_oficial_bef26c83268935996d8cdb0b52c848b7-0.jpg"
+        },
+        distance: {
+            km: 1280,
+            hours: "15h"
+        },
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mOT0YLOgUi7ytesel2m6_Ukln4Q2rilYMb0R_4RVaP9iwbttedlUGP8&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-f8Rn1-SdoClio9orDE-gjksFIgaI7wAHVlQT7oh3ppwyzNh2pKG_o-85&s=10"
+    },
+
+    {
+        id: "herradura",
+        name: "Herradura",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Herradura",
+            flag: "https://scontent.feze11-1.fna.fbcdn.net/v/t39.30808-6/272664706_249944160628868_7234415422399490914_n.jpg?stp=dst-jpg_tt6&cstp=mx662x665&ctp=s662x665&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fDictvI11dkQ7kNvwEQ1CZr&_nc_oc=AdoaNFjSlfGSikml9lyQFlIzKHy1E1022QVEiYQpGf2TJGXYX6aEaCVwyCUnOyYay5k&_nc_zt=23&_nc_ht=scontent.feze11-1.fna&_nc_gid=yvJ9Fkl1nCalvO79uweF3w&_nc_ss=78289&oh=00_AQFOQt-hqKNK6Oej0ZAobYXrB_Zsb4JpSzZVum8AUGTgTQ&oe=6A7D11DD"
+        },
+        distance: {
+            km: 1190,
+            hours: "13h 45m"
+        },
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM_7P_gdLdYf9CBw4Xd2tzKToHm7g2ONT7JCbrtHdPLa46NxZ9eya3BVQ&s=10"
+    },
+
+    {
+        id: "clorinda",
+        name: "Clorinda",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Clorinda",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzV7Ac0sy_bmWZNaMAUHZ2qBLOsU2vXvbvO0VlW0TWbQ&s"
+        },
+        distance: {
+            km: 1250,
+            hours: "14h 30m",
+
+        image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2024/07/portada-clorinda-6.jpg"
+        }
+    },
+
+    {
+        id: "mision-laishi",
+        name: "Misión Laishí",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Laishí",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNG4WO12WWEaGf41PEL7hXqqp12wYuohhLQvP9R2gFhr4VPfiEscohkPi&s=10"
+        },
+        distance: {
+            km: 1220,
+            hours: "14h"
+        },
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLxc1yuM_2wITuefKnofX10JKff9it-koBShtf_sgD8AEAXxIIRfWCNno&s=10"
+    },
+
+    {
+        id: "el-colorado-formosa",
+        name: "El Colorado",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "El Colorado",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRuaE3pvXNRChj50F7x7zYrYYOxJG9CN95Hu01DNWwZA&s"
+        },
+        distance: {
+            km: 1250,
+            hours: "14h 30m"
+        },
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMmcbKS3h2QRs7-QF52YSw6IC4kCRuztcYHUwOYPOkQ&s=10",
+    },
+
+    {
+        id: "pirané",
+        name: "Pirané",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Pirané",
+            flag: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnS4qNTCuBH2LBlIXqWAgKl_rGikkSgPjoObqQ5SMjxoVBrqIMtm3NF23KrbTb0AhyH9c3i44S7-rluaWe9Mb-dvXORXnobucyLch6v_Fjkq3awLmARTj8ZEdltT4-W1UiP0canuAXdI_P02QEiSgcN8IGlHDyQyS2ExX8F_d5RUwkOESEfg1OR-Yiu9ey/s900/pirane%202019.jpg"
+        },
+        distance: {
+            km: 1230,
+            hours: "14h 15m"
+        },
+
+        image: "https://archivos.formosa.gob.ar/media/uploads/organismos/landing_image_1_3009d493002d731db8be1b0f656ce08f-0.jpg"
+    },
+
+    {
+        id: "ingeniero-juarez",
+        name: "Ingeniero Juárez",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Ingeniero Juárez",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkvDGm_wM7mpsg0xtO7fxt2K8OQ6ywqKJurGHzyFBAfe6NqeVsoAPDaio&s=10"
+        },
+        distance: {
+            km: 1500,
+            hours: "17h 30m"
+        },
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHS4--2-KsZRjjwiAkzR37gRr3fWqLU6rLS2tGeOjKzMxcQiM-KAM5EGk&s=10"
+    },
+
+    {
+        id: "villa-general-guemes",
+        name: "Villa General Güemes",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Villa General Güemes",
+            flag: "https://archivos.formosa.gob.ar/media/uploads/organismos/logo_oficial_f98e308c33c8fad12a09727501e323b0-0.png"
+        },
+        distance: {
+            km: 1340,
+            hours: "15h 30m",
+
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5SXBwRH5oUDOjMtv61_DOqC_WYGBmiEprLdsYTBYAdHiIDYalN4niSth&s=10"
+        }
+    },
+
+    {
+        id: "riacho-he-he",
+        name: "Riacho He-Hé",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Riacho He-Hé",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGcaaULoIYvA70G1TAbecGDONAAKMIUdWKKw2wSin5w&s=10"
+        },
+        distance: {
+            km: 1300,
+            hours: "15h"
+        },
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgaABnOna4cmoEF8Xj-o9rQTCnZogdVnmX_myUCN-nxL40a-6CP0oFwHw&s=10"
+    },
+
+
+    {
+        id: "las-lomitas",
+        name: "Las Lomitas",
+        country: {
+            name: "Argentina",
+            flag: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+        },
+        province: {
+            name: "Formosa",
+            flag: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdc8pTJYV9gMTFyeOU-xAEroQRiY_1Wc7NM0vimPMzw&s=10"
+        },
+        municipality: {
+            name: "Las Lomitas",
+            flag: "https://archivos.formosa.gob.ar/media/uploads/organismos/logo_oficial_8ab65f509fcf2076ab996a0627ae62c8-0.jpg"
+        },
+        distance: {
+            km: 1400,
+            hours: "16h"
+        },
+        image: "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/08/98/a1/f4/banado-la-estrella.jpg"
+    },
+
+    
+
 
 
 ];

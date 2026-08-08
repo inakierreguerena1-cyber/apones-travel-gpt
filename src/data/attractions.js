@@ -1612,7 +1612,7 @@ export const attractions = [
         name: "Bosque Peralta Ramos",
         category: ["Naturaleza",
             "Bosques",
-        "Paranormal"],
+            "Paranormal"],
         description: "Barrio forestal rodeado de pinos y senderos para recorrer durante todo el año.",
         image: "https://media-cdn.tripadvisor.com/media/photo-s/0d/a4/54/54/calles-del-bosque.jpg"
     },
@@ -13650,5982 +13650,6835 @@ export const attractions = [
     },
 
     {
-    id: "heladeria-figlio",
+        id: "heladeria-figlio",
 
-    city: "tandil",
+        city: "tandil",
 
-    name: "Heladería Figlio",
+        name: "Heladería Figlio",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "Heladería artesanal tradicional de Tandil, reconocida por sus sabores clásicos y considerada una parada obligada para quienes visitan la ciudad.",
+        description:
+            "Heladería artesanal tradicional de Tandil, reconocida por sus sabores clásicos y considerada una parada obligada para quienes visitan la ciudad.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBd-NEdtrRGrL-lJLAaqb449Ju3gQ_QzO4bexYkU0rKD2xrlYoVQwTHWGI&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBd-NEdtrRGrL-lJLAaqb449Ju3gQ_QzO4bexYkU0rKD2xrlYoVQwTHWGI&s=10"
+    },
 
-{
-    id: "cafe-tortoni",
+    {
+        id: "cafe-tortoni",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Café Tortoni",
+        name: "Café Tortoni",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "El café más antiguo de Argentina, inaugurado en 1858. Ícono cultural porteño y uno de los bares históricos más visitados del país.",
+        description:
+            "El café más antiguo de Argentina, inaugurado en 1858. Ícono cultural porteño y uno de los bares históricos más visitados del país.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FS075PxTlHf5SqM2DSayQRfs_z5TKYAe122TexRY8A&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-FS075PxTlHf5SqM2DSayQRfs_z5TKYAe122TexRY8A&s=10"
+    },
 
-{
-    id: "don-julio",
+    {
+        id: "don-julio",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Don Julio",
+        name: "Don Julio",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "La parrilla argentina más reconocida internacionalmente, considerada una de las mejores del mundo y un clásico para visitantes extranjeros.",
+        description:
+            "La parrilla argentina más reconocida internacionalmente, considerada una de las mejores del mundo y un clásico para visitantes extranjeros.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPYeiqQrhKe4NvPptNT84CNVDVt62nmgCoEW7T2TLKQw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPYeiqQrhKe4NvPptNT84CNVDVt62nmgCoEW7T2TLKQw&s=10"
+    },
 
-{
-    id: "el-preferido-de-palermo",
+    {
+        id: "el-preferido-de-palermo",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Preferido de Palermo",
+        name: "El Preferido de Palermo",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Histórico bodegón porteño inaugurado en 1952 y restaurado respetando su esencia original. Hoy es uno de los restaurantes más emblemáticos de Buenos Aires.",
+        description:
+            "Histórico bodegón porteño inaugurado en 1952 y restaurado respetando su esencia original. Hoy es uno de los restaurantes más emblemáticos de Buenos Aires.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXtdGeFE0sA0EXOthFH7y4MND4e2untM_kWTwo5FZ_RtFbDd9o_BcW3GW&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXtdGeFE0sA0EXOthFH7y4MND4e2untM_kWTwo5FZ_RtFbDd9o_BcW3GW&s=10"
+    },
 
-{
-    id: "confiteria-las-violetas",
+    {
+        id: "confiteria-las-violetas",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Confitería Las Violetas",
+        name: "Confitería Las Violetas",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Histórica confitería inaugurada en 1884, famosa por su arquitectura, vitrales y tradicionales meriendas porteñas.",
+        description:
+            "Histórica confitería inaugurada en 1884, famosa por su arquitectura, vitrales y tradicionales meriendas porteñas.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZw-3MSMoJk_8YjSzb8q-nnYcctTZEMoQfzyXEHP7ByrSG4hJb4e3qIFD&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUZw-3MSMoJk_8YjSzb8q-nnYcctTZEMoQfzyXEHP7ByrSG4hJb4e3qIFD&s=10"
+    },
 
-{
-    id: "pizzeria-guerrin",
+    {
+        id: "pizzeria-guerrin",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Pizzería Güerrín",
+        name: "Pizzería Güerrín",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "Una de las pizzerías más famosas de Buenos Aires, reconocida por su pizza al molde y por ser un clásico sobre la Avenida Corrientes.",
+        description:
+            "Una de las pizzerías más famosas de Buenos Aires, reconocida por su pizza al molde y por ser un clásico sobre la Avenida Corrientes.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQT6GdFoWVgQ9bV8aaAk8-V2uGeCSKfXA4u2sKE8b-hQG10hB81Dz1F4&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQT6GdFoWVgQ9bV8aaAk8-V2uGeCSKfXA4u2sKE8b-hQG10hB81Dz1F4&s=10"
+    },
 
-{
-    id: "el-cuartito",
+    {
+        id: "el-cuartito",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Cuartito",
+        name: "El Cuartito",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Pizzería histórica fundada en 1934, considerada uno de los templos de la pizza porteña y decorada con recuerdos del deporte argentino.",
+        description:
+            "Pizzería histórica fundada en 1934, considerada uno de los templos de la pizza porteña y decorada con recuerdos del deporte argentino.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9e/59/5d/img-20200116-121954-largejpg.jpg?w=500&h=-1&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9e/59/5d/img-20200116-121954-largejpg.jpg?w=500&h=-1&s=1"
+    },
 
-{
-    id: "cafe-la-biela",
+    {
+        id: "cafe-la-biela",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Café La Biela",
+        name: "Café La Biela",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Histórico café de Recoleta frecuentado por figuras del automovilismo, escritores y artistas. Uno de los bares más emblemáticos de Buenos Aires.",
+        description:
+            "Histórico café de Recoleta frecuentado por figuras del automovilismo, escritores y artistas. Uno de los bares más emblemáticos de Buenos Aires.",
 
-    image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/labiela-fachada-1500x610_0.jpg"
-},
+        image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/labiela-fachada-1500x610_0.jpg"
+    },
 
-{
-    id: "la-brigada",
+    {
+        id: "la-brigada",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Parrilla La Brigada",
+        name: "Parrilla La Brigada",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "Una de las parrillas más famosas de San Telmo, reconocida internacionalmente por sus cortes de carne y ambiente tradicional.",
+        description:
+            "Una de las parrillas más famosas de San Telmo, reconocida internacionalmente por sus cortes de carne y ambiente tradicional.",
 
-    image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/labrigada-santelmo1500.jpg"
-},
+        image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/labrigada-santelmo1500.jpg"
+    },
 
 
 
-{
-    id: "el-obrero",
+    {
+        id: "el-obrero",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Obrero",
+        name: "El Obrero",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Bodegón histórico del barrio de La Boca, famoso por su cocina casera y por haber recibido a numerosas personalidades internacionales.",
+        description:
+            "Bodegón histórico del barrio de La Boca, famoso por su cocina casera y por haber recibido a numerosas personalidades internacionales.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrkXBBco8DfPLq3m0thIMYPp3Q2Ejwk9HuUXo7cgWeA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnrkXBBco8DfPLq3m0thIMYPp3Q2Ejwk9HuUXo7cgWeA&s=10"
+    },
 
 
 
-{
-    id: "el-ferroviario",
+    {
+        id: "el-ferroviario",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Ferroviario",
+        name: "El Ferroviario",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "Parrilla tradicional ubicada junto a las vías del ferrocarril en Liniers, considerada una de las mejores para comer asado en Buenos Aires.",
+        description:
+            "Parrilla tradicional ubicada junto a las vías del ferrocarril en Liniers, considerada una de las mejores para comer asado en Buenos Aires.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DzTO1SyTtxj9ZxS116hyVd7B7aVgWnXYrDG-ZxKJOw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DzTO1SyTtxj9ZxS116hyVd7B7aVgWnXYrDG-ZxKJOw&s=10"
+    },
 
 
 
-{
-    id: "los-inmortales",
+    {
+        id: "los-inmortales",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Pizzería Los Inmortales",
+        name: "Pizzería Los Inmortales",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Pizzería histórica fundada en 1952 sobre la Avenida Corrientes, famosa por su pizza porteña y su vínculo con la cultura de la ciudad.",
+        description:
+            "Pizzería histórica fundada en 1952 sobre la Avenida Corrientes, famosa por su pizza porteña y su vínculo con la cultura de la ciudad.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvWFHokph5UveIzE96VmGSx594B17vUVxlf6FomjCxjUTuZC4JszXalw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvWFHokph5UveIzE96VmGSx594B17vUVxlf6FomjCxjUTuZC4JszXalw&s=10"
+    },
 
 
 
-{
-    id: "el-imparcial",
+    {
+        id: "el-imparcial",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Imparcial",
+        name: "El Imparcial",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Considerado el restaurante más antiguo de Buenos Aires, especializado en cocina española desde 1860.",
+        description:
+            "Considerado el restaurante más antiguo de Buenos Aires, especializado en cocina española desde 1860.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5GCIFryoA6_nD10B-bAG9dG97pziSm9BajXDY8eFXJ8tQknbAKvUzUC8&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5GCIFryoA6_nD10B-bAG9dG97pziSm9BajXDY8eFXJ8tQknbAKvUzUC8&s=10"
+    },
 
 
 
-{
-    id: "el-globo",
+    {
+        id: "el-globo",
 
-    city: "caba",
+        city: "caba",
 
-    name: "El Globo",
+        name: "El Globo",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Restaurante tradicional fundado en 1908, reconocido por su cocina española y su histórico puchero.",
+        description:
+            "Restaurante tradicional fundado en 1908, reconocido por su cocina española y su histórico puchero.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQsieuZsG1IiaqPdes7UAF6L9WK1CwE0VpJvx9ZhEap-k61YzMM4Oi_c&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQsieuZsG1IiaqPdes7UAF6L9WK1CwE0VpJvx9ZhEap-k61YzMM4Oi_c&s=10"
+    },
 
 
 
-{
-    id: "cafe-margot",
+    {
+        id: "cafe-margot",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Café Margot",
+        name: "Café Margot",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Café notable del barrio de Boedo inaugurado en 1904, uno de los símbolos de la identidad porteña.",
+        description:
+            "Café notable del barrio de Boedo inaugurado en 1904, uno de los símbolos de la identidad porteña.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnPVACSVZlA3TPxvoBmc6H9Q9vQ-WSKBkAi7GlqkBAQ&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnPVACSVZlA3TPxvoBmc6H9Q9vQ-WSKBkAi7GlqkBAQ&s=10"
+    },
 
 
 
-{
-    id: "cafe-de-los-angelitos",
+    {
+        id: "cafe-de-los-angelitos",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Café de los Angelitos",
+        name: "Café de los Angelitos",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Histórico café porteño inaugurado en 1890, famoso por su relación con Carlos Gardel y por sus espectáculos de tango.",
+        description:
+            "Histórico café porteño inaugurado en 1890, famoso por su relación con Carlos Gardel y por sus espectáculos de tango.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYZnqcI6o4HwfG-og3A1P5-vgKomIaR4AzdoMGTpKIrJZ0kTThzo-NCs&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRYZnqcI6o4HwfG-og3A1P5-vgKomIaR4AzdoMGTpKIrJZ0kTThzo-NCs&s=10"
+    },
 
 
 
-{
-    id: "london-city",
+    {
+        id: "london-city",
 
-    city: "caba",
+        city: "caba",
 
-    name: "London City",
+        name: "London City",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Café histórico donde Julio Cortázar escribió parte de 'Los Premios'. Uno de los bares notables más emblemáticos de Buenos Aires.",
+        description:
+            "Café histórico donde Julio Cortázar escribió parte de 'Los Premios'. Uno de los bares notables más emblemáticos de Buenos Aires.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/b3/f8/local.jpg?w=900&h=500&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/e8/b3/f8/local.jpg?w=900&h=500&s=1"
+    },
 
 
 
-{
-    id: "la-ideal",
+    {
+        id: "la-ideal",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Confitería La Ideal",
+        name: "Confitería La Ideal",
 
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
 
-    description:
-        "Confitería histórica inaugurada en 1912, destacada por su arquitectura, salones y tradición gastronómica.",
+        description:
+            "Confitería histórica inaugurada en 1912, destacada por su arquitectura, salones y tradición gastronómica.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lgwKWPIHHqos6m5tn843ws23R64MQoxtIWumB8BBQw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5lgwKWPIHHqos6m5tn843ws23R64MQoxtIWumB8BBQw&s=10"
+    },
 
-{
-    id: "parque-centenario",
-    city: "caba",
-    name: "Parque Centenario",
-    category: [
-        "Parques",
-        "Animales"
-    ],
-    description:
-        "Gran parque del barrio de Caballito con anfiteatro, lago, ferias y espacios recreativos.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Buenos_Aires_-_Caballito_-_Parque_Centenario.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-},
+    {
+        id: "parque-centenario",
+        city: "caba",
+        name: "Parque Centenario",
+        category: [
+            "Parques",
+            "Animales"
+        ],
+        description:
+            "Gran parque del barrio de Caballito con anfiteatro, lago, ferias y espacios recreativos.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Buenos_Aires_-_Caballito_-_Parque_Centenario.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
 
-{
-    id: "parque-chacabuco",
-    city: "caba",
-    name: "Parque Chacabuco",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Uno de los parques más tradicionales de Buenos Aires, con senderos, fuentes y áreas deportivas.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP7ur-y__ZybvU7BDh9j8NjdhAzOY4I3QtHzw08herA&s=10"
-},
+    {
+        id: "parque-chacabuco",
+        city: "caba",
+        name: "Parque Chacabuco",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Uno de los parques más tradicionales de Buenos Aires, con senderos, fuentes y áreas deportivas.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP7ur-y__ZybvU7BDh9j8NjdhAzOY4I3QtHzw08herA&s=10"
+    },
 
-{
-    id: "parque-lezama",
-    city: "caba",
-    name: "Parque Lezama",
-    category: [
-        "Parques",
-        "Historia"
-    ],
-    description:
-        "Parque histórico de San Telmo, considerado uno de los espacios verdes más antiguos de la ciudad.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAIB0xXoK-jkDO9x5exl1dE7CWKB_hJMk9W9RfYvVPLuOwN3Tl8pEqZY&s=10"
-},
+    {
+        id: "parque-lezama",
+        city: "caba",
+        name: "Parque Lezama",
+        category: [
+            "Parques",
+            "Historia"
+        ],
+        description:
+            "Parque histórico de San Telmo, considerado uno de los espacios verdes más antiguos de la ciudad.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAIB0xXoK-jkDO9x5exl1dE7CWKB_hJMk9W9RfYvVPLuOwN3Tl8pEqZY&s=10"
+    },
 
-{
-    id: "parque-de-la-ciudad",
-    city: "caba",
-    name: "Parque de la Ciudad",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Gran parque recreativo ubicado en Villa Soldati, construido sobre el antiguo parque de diversiones de la ciudad.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAoT3F8CkMdjoyNOuvmXt0RJmo_rETKnnX7FdMoH7rBHmYrTjjU-D6O8V&s=10"
-},
+    {
+        id: "parque-de-la-ciudad",
+        city: "caba",
+        name: "Parque de la Ciudad",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Gran parque recreativo ubicado en Villa Soldati, construido sobre el antiguo parque de diversiones de la ciudad.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAoT3F8CkMdjoyNOuvmXt0RJmo_rETKnnX7FdMoH7rBHmYrTjjU-D6O8V&s=10"
+    },
 
-{
-    id: "parque-patricios",
-    city: "caba",
-    name: "Parque Patricios",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Espacio verde histórico del sur de la ciudad, rodeado de edificios emblemáticos y sectores deportivos.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2y30R9iJIe9WXB4AuqqIVVFDUn6WXXAMw4UTjLs6v_y40DHIejglZL_k&s=10"
-},
+    {
+        id: "parque-patricios",
+        city: "caba",
+        name: "Parque Patricios",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Espacio verde histórico del sur de la ciudad, rodeado de edificios emblemáticos y sectores deportivos.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2y30R9iJIe9WXB4AuqqIVVFDUn6WXXAMw4UTjLs6v_y40DHIejglZL_k&s=10"
+    },
 
-{
-    id: "parque-saavedra",
-    city: "caba",
-    name: "Parque Saavedra",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Parque tradicional del barrio de Saavedra con laguna, circuitos peatonales y amplios espacios verdes.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3yhJ74oPt0fno2qs13MejMLZLNnyQCEkXzGfXgLwuQ&s=10"
-},
+    {
+        id: "parque-saavedra",
+        city: "caba",
+        name: "Parque Saavedra",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Parque tradicional del barrio de Saavedra con laguna, circuitos peatonales y amplios espacios verdes.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb3yhJ74oPt0fno2qs13MejMLZLNnyQCEkXzGfXgLwuQ&s=10"
+    },
 
-{
-    id: "parque-rivadavia",
-    city: "caba",
-    name: "Parque Rivadavia",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Parque emblemático de Caballito conocido por su feria de libros usados y actividades culturales.",
-    image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/parque_rivadavia_1200_c.jpg"
-},
+    {
+        id: "parque-rivadavia",
+        city: "caba",
+        name: "Parque Rivadavia",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Parque emblemático de Caballito conocido por su feria de libros usados y actividades culturales.",
+        image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/parque_rivadavia_1200_c.jpg"
+    },
 
-{
-    id: "parque-avenida-andes",
-    city: "caba",
-    name: "Parque de la Estación",
-    category: [
-        "Parques"
-    ],
-    description:
-        "Parque urbano moderno construido sobre antiguos terrenos ferroviarios, con espacios recreativos y culturales.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Parque_de_la_Estacion_%28inauguraci%C3%B3n%29_%2811%29.jpg"
-},
+    {
+        id: "parque-avenida-andes",
+        city: "caba",
+        name: "Parque de la Estación",
+        category: [
+            "Parques"
+        ],
+        description:
+            "Parque urbano moderno construido sobre antiguos terrenos ferroviarios, con espacios recreativos y culturales.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Parque_de_la_Estacion_%28inauguraci%C3%B3n%29_%2811%29.jpg"
+    },
 
-{
-    id: "plaza-houssay",
+    {
+        id: "plaza-houssay",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Houssay",
+        name: "Plaza Houssay",
 
-    category: [
-        "Plaza",
-        "Shopping"
-    ],
+        category: [
+            "Plaza",
+            "Shopping"
+        ],
 
-    description:
-        "Plaza ubicada en el polo universitario de la UBA, rodeada por facultades, espacios gastronómicos y actividades culturales.",
+        description:
+            "Plaza ubicada en el polo universitario de la UBA, rodeada por facultades, espacios gastronómicos y actividades culturales.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL8J3QpNTHTymNQlolUnHYuvH3NFF-3DGmQrz0WQwrA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaL8J3QpNTHTymNQlolUnHYuvH3NFF-3DGmQrz0WQwrA&s=10"
+    },
 
-{
-    id: "plaza-francia",
+    {
+        id: "plaza-francia",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Francia",
+        name: "Plaza Francia",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Histórica plaza de Recoleta, famosa por su feria de artesanos, el monumento Francia a la Argentina y su cercanía al Cementerio de Recoleta.",
+        description:
+            "Histórica plaza de Recoleta, famosa por su feria de artesanos, el monumento Francia a la Argentina y su cercanía al Cementerio de Recoleta.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-CAT5c0jQuNTKVAwU0rzvSpJUmVRVP1qwH2a3P8jTbIYEtR1wrTejCRn&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-CAT5c0jQuNTKVAwU0rzvSpJUmVRVP1qwH2a3P8jTbIYEtR1wrTejCRn&s=10"
+    },
 
-{
-    id: "plaza-san-martin",
+    {
+        id: "plaza-san-martin",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza San Martín",
+        name: "Plaza San Martín",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Una de las plazas más importantes de Buenos Aires, ubicada en Retiro y dedicada al General José de San Martín.",
+        description:
+            "Una de las plazas más importantes de Buenos Aires, ubicada en Retiro y dedicada al General José de San Martín.",
 
-    image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/plazasanmaretin-retiro-1500x610.jpg"
-},
+        image: "https://turismo.buenosaires.gob.ar/sites/turismo/files/plazasanmaretin-retiro-1500x610.jpg"
+    },
 
-{
-    id: "plaza-congreso",
+    {
+        id: "plaza-congreso",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza del Congreso",
+        name: "Plaza del Congreso",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Plaza ubicada frente al Palacio del Congreso de la Nación, escenario de numerosos actos y manifestaciones históricas.",
+        description:
+            "Plaza ubicada frente al Palacio del Congreso de la Nación, escenario de numerosos actos y manifestaciones históricas.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQR9w9gw1abRKgSPTZQyYqAr_b7LCSo1J1VgUE9rym6626CcvoPLTovOa&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQR9w9gw1abRKgSPTZQyYqAr_b7LCSo1J1VgUE9rym6626CcvoPLTovOa&s=10"
+    },
 
-{
-    id: "plaza-italia",
+    {
+        id: "plaza-italia",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Italia",
+        name: "Plaza Italia",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Importante plaza de Palermo, punto de acceso al Ecoparque, Jardín Botánico y Bosques de Palermo.",
+        description:
+            "Importante plaza de Palermo, punto de acceso al Ecoparque, Jardín Botánico y Bosques de Palermo.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCSLVwHdruiJBGmYXeqwvezDUvZQkW6MPsuQ4pNaOkQ&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbCSLVwHdruiJBGmYXeqwvezDUvZQkW6MPsuQ4pNaOkQ&s=10"
+    },
 
-{
-    id: "plaza-belgica",
+    {
+        id: "plaza-belgica",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Bélgica",
+        name: "Plaza Bélgica",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Espacio verde ubicado junto a la Facultad de Derecho y el Museo Nacional de Bellas Artes.",
+        description:
+            "Espacio verde ubicado junto a la Facultad de Derecho y el Museo Nacional de Bellas Artes.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/04/63/c5/praca.jpg?w=900&h=500&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/04/63/c5/praca.jpg?w=900&h=500&s=1"
+    },
 
-{
-    id: "plaza-lavalle",
+    {
+        id: "plaza-lavalle",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Lavalle",
+        name: "Plaza Lavalle",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Plaza histórica rodeada por el Teatro Colón, el Palacio de Tribunales y edificios emblemáticos del centro porteño.",
+        description:
+            "Plaza histórica rodeada por el Teatro Colón, el Palacio de Tribunales y edificios emblemáticos del centro porteño.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooMrEn3DsTlv7cFMd9M62fJxcZn7gcoXo_E9nTvuMbg&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooMrEn3DsTlv7cFMd9M62fJxcZn7gcoXo_E9nTvuMbg&s=10"
+    },
 
-{
-    id: "plaza-dorrego",
+    {
+        id: "plaza-dorrego",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Dorrego",
+        name: "Plaza Dorrego",
 
-    category: [
-        "Plaza",
-        "Historia",
-        "Shopping"
-    ],
+        category: [
+            "Plaza",
+            "Historia",
+            "Shopping"
+        ],
 
-    description:
-        "Corazón del barrio de San Telmo, conocida por su feria de antigüedades y espectáculos de tango al aire libre.",
+        description:
+            "Corazón del barrio de San Telmo, conocida por su feria de antigüedades y espectáculos de tango al aire libre.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yJC8g-MtIzEa-ALgGdrZuWvM4WzXgeRdBRFs6vcwnw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yJC8g-MtIzEa-ALgGdrZuWvM4WzXgeRdBRFs6vcwnw&s=10"
+    },
 
-{
-    id: "plaza-miserere",
+    {
+        id: "plaza-miserere",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Miserere",
+        name: "Plaza Miserere",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Importante plaza del barrio de Balvanera, ubicada frente a la estación Once y escenario de acontecimientos históricos.",
+        description:
+            "Importante plaza del barrio de Balvanera, ubicada frente a la estación Once y escenario de acontecimientos históricos.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcWskuuTBLBw-V4pSs4kodv0zzWE1TVTFtWltyMJ0dg&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcWskuuTBLBw-V4pSs4kodv0zzWE1TVTFtWltyMJ0dg&s=10"
+    },
 
-{
-    id: "plaza-irlanda",
+    {
+        id: "plaza-irlanda",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Irlanda",
+        name: "Plaza Irlanda",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Una de las plazas más tradicionales de Caballito, muy frecuentada por vecinos para actividades recreativas.",
+        description:
+            "Una de las plazas más tradicionales de Caballito, muy frecuentada por vecinos para actividades recreativas.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a8/54/ff/plaza-irlanda.jpg?w=900&h=500&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/a8/54/ff/plaza-irlanda.jpg?w=900&h=500&s=1"
+    },
 
-{
-    id: "plaza-armenia",
+    {
+        id: "plaza-armenia",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Armenia",
+        name: "Plaza Armenia",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Plaza ubicada en Palermo Soho, rodeada de bares, restaurantes y locales de diseño.",
+        description:
+            "Plaza ubicada en Palermo Soho, rodeada de bares, restaurantes y locales de diseño.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iRGQNLgzxGx_P9vy8-rnW0xSeU4k4c8bdzaa3soV4g&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iRGQNLgzxGx_P9vy8-rnW0xSeU4k4c8bdzaa3soV4g&s=10"
+    },
 
-{
-    id: "plaza-serrano",
+    {
+        id: "plaza-serrano",
 
-    city: "caba",
+        city: "caba",
 
-    name: "Plaza Julio Cortázar (Plaza Serrano)",
+        name: "Plaza Julio Cortázar (Plaza Serrano)",
 
-    category: [
-        "Plaza",
-        "Shopping"
-    ],
+        category: [
+            "Plaza",
+            "Shopping"
+        ],
 
-    description:
-        "Plaza icónica de Palermo Soho, centro de la vida nocturna, ferias y gastronomía del barrio.",
+        description:
+            "Plaza icónica de Palermo Soho, centro de la vida nocturna, ferias y gastronomía del barrio.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulwY5tTkVUqjrYIOP4gORg05yvl56fT_rlth8Yifgg_9_k4kt1cMGUWza&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulwY5tTkVUqjrYIOP4gORg05yvl56fT_rlth8Yifgg_9_k4kt1cMGUWza&s=10"
+    },
 
-{
-    id: "alto-avellaneda-shopping",
+    {
+        id: "alto-avellaneda-shopping",
 
-    city: "avellaneda",
+        city: "avellaneda",
 
-    name: "Alto Avellaneda Shopping",
+        name: "Alto Avellaneda Shopping",
 
-    category: [
-        "Shopping"
-    ],
+        category: [
+            "Shopping"
+        ],
 
-    description:
-        "Uno de los centros comerciales más grandes y visitados de Argentina. Inaugurado en 1995, cuenta con más de 150 locales, patio gastronómico, cines y propuestas de entretenimiento para toda la familia.",
+        description:
+            "Uno de los centros comerciales más grandes y visitados de Argentina. Inaugurado en 1995, cuenta con más de 150 locales, patio gastronómico, cines y propuestas de entretenimiento para toda la familia.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdm-Fu0WT38eAA3DctcuTPbymBXv3_hqd969s5HhRErGzC9IlJK67O-U&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdm-Fu0WT38eAA3DctcuTPbymBXv3_hqd969s5HhRErGzC9IlJK67O-U&s=10"
+    },
 
-{
-    id: "monumento-nacional-a-la-bandera",
+    {
+        id: "monumento-nacional-a-la-bandera",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Monumento Nacional a la Bandera",
+        name: "Monumento Nacional a la Bandera",
 
-    category: [
-        "Monumento",
-        "Historia",
-        "Arquitectura"
-    ],
+        category: [
+            "Monumento",
+            "Historia",
+            "Arquitectura"
+        ],
 
-    description:
-        "El monumento más emblemático de Rosario y uno de los símbolos nacionales más importantes de Argentina. Se encuentra en el lugar donde Manuel Belgrano izó por primera vez la bandera argentina el 27 de febrero de 1812. Cuenta con una torre mirador, la Galería de Honor de las Banderas de América y una gran explanada utilizada para actos patrios.",
+        description:
+            "El monumento más emblemático de Rosario y uno de los símbolos nacionales más importantes de Argentina. Se encuentra en el lugar donde Manuel Belgrano izó por primera vez la bandera argentina el 27 de febrero de 1812. Cuenta con una torre mirador, la Galería de Honor de las Banderas de América y una gran explanada utilizada para actos patrios.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e7/90/b4/monumento-a-la-bandera.jpg?w=1200&h=-1&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/e7/90/b4/monumento-a-la-bandera.jpg?w=1200&h=-1&s=1"
+    },
 
 
-{
-    id: "propylaeum-monumento-bandera",
+    {
+        id: "propylaeum-monumento-bandera",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Propileo del Monumento a la Bandera",
+        name: "Propileo del Monumento a la Bandera",
 
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
 
-    description:
-        "Sector monumental con columnas y acceso ceremonial que forma parte del complejo del Monumento Nacional a la Bandera.",
+        description:
+            "Sector monumental con columnas y acceso ceremonial que forma parte del complejo del Monumento Nacional a la Bandera.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggpL1LGr-mKZ2Z2d5i2dKii6l9j2YnQ1UQ9wprIaq9zthOXXiZEgEOkI&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggpL1LGr-mKZ2Z2d5i2dKii6l9j2YnQ1UQ9wprIaq9zthOXXiZEgEOkI&s=10"
+    },
 
-{
-    id: "parque-bandera",
+    {
+        id: "parque-bandera",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Parque Nacional a la Bandera",
+        name: "Parque Nacional a la Bandera",
 
-    category: [
-        "Parques"
-    ],
+        category: [
+            "Parques"
+        ],
 
-    description:
-        "Gran parque costero que rodea el Monumento a la Bandera y ofrece amplios espacios verdes con vista al río Paraná.",
+        description:
+            "Gran parque costero que rodea el Monumento a la Bandera y ofrece amplios espacios verdes con vista al río Paraná.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTURhe2lHASmTaCcPFZdn7zf9WdINPlimymftx06K6g&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTURhe2lHASmTaCcPFZdn7zf9WdINPlimymftx06K6g&s=10"
+    },
 
-{
-    id: "palacio-leones",
+    {
+        id: "palacio-leones",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Palacio de los Leones",
+        name: "Palacio de los Leones",
 
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
 
-    description:
-        "Edificio histórico sede de la Municipalidad de Rosario, inaugurado en 1898.",
+        description:
+            "Edificio histórico sede de la Municipalidad de Rosario, inaugurado en 1898.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e776o4QJB9eJiq9DIC3eu9BXVYrKVGiSRtnmK6bIlg&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_e776o4QJB9eJiq9DIC3eu9BXVYrKVGiSRtnmK6bIlg&s=10"
+    },
 
-{
-    id: "catedral-rosario",
+    {
+        id: "catedral-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Basílica Catedral Nuestra Señora del Rosario",
+        name: "Basílica Catedral Nuestra Señora del Rosario",
 
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
 
-    description:
-        "Principal templo católico de Rosario, ubicado frente a la Plaza 25 de Mayo.",
+        description:
+            "Principal templo católico de Rosario, ubicado frente a la Plaza 25 de Mayo.",
 
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7f/0b/0c/basilica-y-monumento.jpg?w=900&h=500&s=1"
-},
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7f/0b/0c/basilica-y-monumento.jpg?w=900&h=500&s=1"
+    },
 
-{
-    id: "plaza-25-mayo",
+    {
+        id: "plaza-25-mayo",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Plaza 25 de Mayo",
+        name: "Plaza 25 de Mayo",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Plaza fundacional de Rosario, rodeada por la Catedral, el Palacio Municipal y edificios históricos.",
+        description:
+            "Plaza fundacional de Rosario, rodeada por la Catedral, el Palacio Municipal y edificios históricos.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32i1pzh1EzdBVCz7mBwM4t5nA6AYFkOBP9q_ybT2pgWinb0DqhlQ494k&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32i1pzh1EzdBVCz7mBwM4t5nA6AYFkOBP9q_ybT2pgWinb0DqhlQ494k&s=10"
+    },
 
-{
-    id: "pasaje-juramento",
+    {
+        id: "pasaje-juramento",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Pasaje Juramento",
+        name: "Pasaje Juramento",
 
-    category: [
-        "Arquitectura"
-    ],
+        category: [
+            "Arquitectura"
+        ],
 
-    description:
-        "Paseo peatonal diseñado por Ángel Guido que conecta la Plaza 25 de Mayo con el Monumento a la Bandera.",
+        description:
+            "Paseo peatonal diseñado por Ángel Guido que conecta la Plaza 25 de Mayo con el Monumento a la Bandera.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggYGgx9Z9Llar6q-S-9tSVVT--_UiOsZsUkNQvYUzhw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggYGgx9Z9Llar6q-S-9tSVVT--_UiOsZsUkNQvYUzhw&s=10"
+    },
 
-{
-    id: "costanera-central-rosario",
+    {
+        id: "costanera-central-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Costanera Central",
+        name: "Costanera Central",
 
-    category: [
-        "Costaneras"
-    ],
+        category: [
+            "Costaneras"
+        ],
 
-    description:
-        "Paseo costero sobre el río Paraná, uno de los lugares más concurridos de Rosario para caminar y disfrutar del paisaje.",
+        description:
+            "Paseo costero sobre el río Paraná, uno de los lugares más concurridos de Rosario para caminar y disfrutar del paisaje.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDL6d17-7t1oxuPZ2p-Fyj3p6wH8trpZeKQSdWP6nOA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDL6d17-7t1oxuPZ2p-Fyj3p6wH8trpZeKQSdWP6nOA&s=10"
+    },
 
 
-{
-    id: "galeria-de-honor-de-las-banderas-de-america",
+    {
+        id: "galeria-de-honor-de-las-banderas-de-america",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Galería de Honor de las Banderas de América",
+        name: "Galería de Honor de las Banderas de América",
 
-    category: [
-        "Historia",
-        "Museo"
-    ],
+        category: [
+            "Historia",
+            "Museo"
+        ],
 
-    description:
-        "Espacio ubicado dentro del Monumento Nacional a la Bandera donde se exhiben las banderas oficiales de todos los países del continente americano.",
+        description:
+            "Espacio ubicado dentro del Monumento Nacional a la Bandera donde se exhiben las banderas oficiales de todos los países del continente americano.",
 
-    image: "https://creativamonumento.irice-conicet.gov.ar/sistema/sites/default/files/styles/large/public/sala.jpg?itok=tcrH_kA6"
-},
+        image: "https://creativamonumento.irice-conicet.gov.ar/sistema/sites/default/files/styles/large/public/sala.jpg?itok=tcrH_kA6"
+    },
 
 
-{
-    id: "parque-independencia",
+    {
+        id: "parque-independencia",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Parque de la Independencia",
+        name: "Parque de la Independencia",
 
-    category: [
-        "Parques"
-    ],
+        category: [
+            "Parques"
+        ],
 
-    description:
-        "El parque más importante de Rosario, con lagos, jardines, el Rosedal, museos y el estadio de Newell's Old Boys.",
+        description:
+            "El parque más importante de Rosario, con lagos, jardines, el Rosedal, museos y el estadio de Newell's Old Boys.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtu6xhJbFOeG4fqeXS0K8rBIpfL52fQSh-8stLb_JaFQ&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtu6xhJbFOeG4fqeXS0K8rBIpfL52fQSh-8stLb_JaFQ&s=10"
+    },
 
-{
-    id: "rosedal-rosario",
+    {
+        id: "rosedal-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Rosedal del Parque Independencia",
+        name: "Rosedal del Parque Independencia",
 
-    category: [
-        "Jardines",
-        "Parques"
-    ],
+        category: [
+            "Jardines",
+            "Parques"
+        ],
 
-    description:
-        "Jardín con cientos de variedades de rosas dentro del Parque Independencia.",
+        description:
+            "Jardín con cientos de variedades de rosas dentro del Parque Independencia.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGVNuLJvh3qNYxoQRqcj0-2TauqsVjXd53CMh27gpPLk5bB7-oOswOFg&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGVNuLJvh3qNYxoQRqcj0-2TauqsVjXd53CMh27gpPLk5bB7-oOswOFg&s=10"
+    },
 
-{
-    id: "parque-espana",
+    {
+        id: "parque-espana",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Parque de España",
+        name: "Parque de España",
 
-    category: [
-        "Parques",
-        "Costaneras"
-    ],
+        category: [
+            "Parques",
+            "Costaneras"
+        ],
 
-    description:
-        "Parque escalonado sobre la barranca del río Paraná, uno de los paseos más característicos de Rosario.",
+        description:
+            "Parque escalonado sobre la barranca del río Paraná, uno de los paseos más característicos de Rosario.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76WJ7K4HH3K963MnKJunhJG6O81j2BViI0Hi7NXROWeba9ynwx5vmh5s&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76WJ7K4HH3K963MnKJunhJG6O81j2BViI0Hi7NXROWeba9ynwx5vmh5s&s=10"
+    },
 
-{
-    id: "costanera-norte",
+    {
+        id: "costanera-norte",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Costanera Norte",
+        name: "Costanera Norte",
 
-    category: [
-        "Costaneras"
-    ],
+        category: [
+            "Costaneras"
+        ],
 
-    description:
-        "Extenso paseo ribereño con playas, bares, parques y vistas privilegiadas del río Paraná.",
+        description:
+            "Extenso paseo ribereño con playas, bares, parques y vistas privilegiadas del río Paraná.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcNYyeDCYdrcfBKCtF0i_9tBYioBW6xLbT0RE_B87Dw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcNYyeDCYdrcfBKCtF0i_9tBYioBW6xLbT0RE_B87Dw&s=10"
+    },
 
-{
-    id: "playa-la-florida",
+    {
+        id: "playa-la-florida",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Balneario La Florida",
+        name: "Balneario La Florida",
 
-    category: [
-        "Playas"
-    ],
+        category: [
+            "Playas"
+        ],
 
-    description:
-        "La playa más famosa de Rosario, ubicada sobre el río Paraná y muy concurrida durante el verano.",
+        description:
+            "La playa más famosa de Rosario, ubicada sobre el río Paraná y muy concurrida durante el verano.",
 
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Paran%C3%A1_River_beach_Rosario.jpg"
-},
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Paran%C3%A1_River_beach_Rosario.jpg"
+    },
 
-{
-    id: "museo-castagnino",
+    {
+        id: "museo-castagnino",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Museo Municipal de Bellas Artes Juan B. Castagnino",
+        name: "Museo Municipal de Bellas Artes Juan B. Castagnino",
 
-    category: [
-        "Museo"
-    ],
+        category: [
+            "Museo"
+        ],
 
-    description:
-        "Principal museo de arte de Rosario, con importantes colecciones argentinas y europeas.",
+        description:
+            "Principal museo de arte de Rosario, con importantes colecciones argentinas y europeas.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRU1hJfPG9VrBlFkxDm9SSoTOEwcpFf-8x22M0dcgY_5f8_nh46Iee8A8&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRU1hJfPG9VrBlFkxDm9SSoTOEwcpFf-8x22M0dcgY_5f8_nh46Iee8A8&s=10"
+    },
 
-{
-    id: "macro",
+    {
+        id: "macro",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Museo de Arte Contemporáneo de Rosario (MACRO)",
+        name: "Museo de Arte Contemporáneo de Rosario (MACRO)",
 
-    category: [
-        "Museo",
-        "Arquitectura"
-    ],
+        category: [
+            "Museo",
+            "Arquitectura"
+        ],
 
-    description:
-        "Museo de arte contemporáneo instalado en antiguos silos portuarios sobre el río Paraná.",
+        description:
+            "Museo de arte contemporáneo instalado en antiguos silos portuarios sobre el río Paraná.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6zUNZ3eLlfL854U9QQt9-X3mTHr0obbFS4wEpByqnBbqKuwhSWyrc5oC&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6zUNZ3eLlfL854U9QQt9-X3mTHr0obbFS4wEpByqnBbqKuwhSWyrc5oC&s=10"
+    },
 
-{
-    id: "planetario-rosario",
+    {
+        id: "planetario-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Planetario Luis Cándido Carballo",
+        name: "Planetario Luis Cándido Carballo",
 
-    category: [
-        "Museo"
-    ],
+        category: [
+            "Museo"
+        ],
 
-    description:
-        "Planetario ubicado dentro del Parque Independencia con espectáculos astronómicos y exposiciones.",
+        description:
+            "Planetario ubicado dentro del Parque Independencia con espectáculos astronómicos y exposiciones.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0bFjXz0I-EViuvnCxAtor0K9mgBC-LL5O1bH3Wlz8Qw&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0bFjXz0I-EViuvnCxAtor0K9mgBC-LL5O1bH3Wlz8Qw&s=10"
+    },
 
-{
-    id: "teatro-el-circulo",
+    {
+        id: "teatro-el-circulo",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Teatro El Círculo",
+        name: "Teatro El Círculo",
 
-    category: [
-        "Teatro",
-        "Arquitectura"
-    ],
+        category: [
+            "Teatro",
+            "Arquitectura"
+        ],
 
-    description:
-        "Uno de los teatros líricos más importantes del país, inaugurado en 1904.",
+        description:
+            "Uno de los teatros líricos más importantes del país, inaugurado en 1904.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZJc_pzum_QmVFZLkXxp3GyvDRqgZCfNgqskQeVl4-QEwtdh3UdgxdY4z&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZJc_pzum_QmVFZLkXxp3GyvDRqgZCfNgqskQeVl4-QEwtdh3UdgxdY4z&s=10"
+    },
 
-{
-    id: "teatro-la-comedia",
+    {
+        id: "teatro-la-comedia",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Teatro La Comedia",
+        name: "Teatro La Comedia",
 
-    category: [
-        "Teatro"
-    ],
+        category: [
+            "Teatro"
+        ],
 
-    description:
-        "Principal teatro municipal de Rosario, sede de numerosas obras y festivales.",
+        description:
+            "Principal teatro municipal de Rosario, sede de numerosas obras y festivales.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3NP4aN1zQcBXCXUZhLi7sBbsyPqNKwVU1AOrDwlgmQ&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3NP4aN1zQcBXCXUZhLi7sBbsyPqNKwVU1AOrDwlgmQ&s=10"
+    },
 
-{
-    id: "bolsa-de-comercio",
+    {
+        id: "bolsa-de-comercio",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Bolsa de Comercio de Rosario",
+        name: "Bolsa de Comercio de Rosario",
 
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
 
-    description:
-        "Edificio emblemático del centro rosarino y una de las instituciones económicas más importantes del país.",
+        description:
+            "Edificio emblemático del centro rosarino y una de las instituciones económicas más importantes del país.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgZ0VB6U_SzKZrb9dQ6c_p2Uiqqykd8BRzxVzEHh-TA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXgZ0VB6U_SzKZrb9dQ6c_p2Uiqqykd8BRzxVzEHh-TA&s=10"
+    },
 
-{
-    id: "peatonal-cordoba",
+    {
+        id: "peatonal-cordoba",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Peatonal Córdoba",
+        name: "Peatonal Córdoba",
 
-    category: [
-        "Shopping"
-    ],
+        category: [
+            "Shopping"
+        ],
 
-    description:
-        "Principal paseo comercial a cielo abierto de Rosario.",
+        description:
+            "Principal paseo comercial a cielo abierto de Rosario.",
 
-    image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Peatonal_C%C3%B3rdoba%2C_Rosario_1.jpg"
-},
+        image: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Peatonal_C%C3%B3rdoba%2C_Rosario_1.jpg"
+    },
 
-{
-    id: "alto-rosario-shopping",
+    {
+        id: "alto-rosario-shopping",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Alto Rosario Shopping",
+        name: "Alto Rosario Shopping",
 
-    category: [
-        "Shopping"
-    ],
+        category: [
+            "Shopping"
+        ],
 
-    description:
-        "Centro comercial construido sobre los antiguos talleres ferroviarios Rosario Norte.",
+        description:
+            "Centro comercial construido sobre los antiguos talleres ferroviarios Rosario Norte.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-D-Mp7sBEV1D2Wn1C4CHLqREpZZCh_BS64UECQTsgg&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-D-Mp7sBEV1D2Wn1C4CHLqREpZZCh_BS64UECQTsgg&s=10"
+    },
 
-{
-    id: "mercado-del-patio",
+    {
+        id: "mercado-del-patio",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Mercado del Patio",
+        name: "Mercado del Patio",
 
-    category: [
-        "Gastronomía"
-    ],
+        category: [
+            "Gastronomía"
+        ],
 
-    description:
-        "Mercado gastronómico con productos regionales y restaurantes junto a la estación Rosario Norte.",
+        description:
+            "Mercado gastronómico con productos regionales y restaurantes junto a la estación Rosario Norte.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8QBMZ44JxJf9DHoImI7Ac9MlvBoTcW8jKZYwFOtpog&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8QBMZ44JxJf9DHoImI7Ac9MlvBoTcW8jKZYwFOtpog&s=10"
+    },
 
-{
-    id: "gigante-de-arroyito",
+    {
+        id: "gigante-de-arroyito",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Estadio Gigante de Arroyito",
+        name: "Estadio Gigante de Arroyito",
 
-    category: [
-        "Estadio",
-        "Deporte"
-    ],
+        category: [
+            "Estadio",
+            "Deporte"
+        ],
 
-    description:
-        "Estadio del Club Atlético Rosario Central y sede de partidos del Mundial de 1978 y de la Copa América 2011.",
+        description:
+            "Estadio del Club Atlético Rosario Central y sede de partidos del Mundial de 1978 y de la Copa América 2011.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvnbn_3VtyNZof5R2gLfFcJw-W0GdhOX5Z-25vAKJoEDQHlOjSwMLhCo&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvnbn_3VtyNZof5R2gLfFcJw-W0GdhOX5Z-25vAKJoEDQHlOjSwMLhCo&s=10"
+    },
 
-{
-    id: "coloso-marcelo-bielsa",
+    {
+        id: "coloso-marcelo-bielsa",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Estadio Marcelo Bielsa",
+        name: "Estadio Marcelo Bielsa",
 
-    category: [
-        "Estadio",
-        "Deporte"
-    ],
+        category: [
+            "Estadio",
+            "Deporte"
+        ],
 
-    description:
-        "Popularmente conocido como El Coloso del Parque. Es el estadio de Newell's Old Boys y uno de los más emblemáticos del fútbol argentino.",
+        description:
+            "Popularmente conocido como El Coloso del Parque. Es el estadio de Newell's Old Boys y uno de los más emblemáticos del fútbol argentino.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghyGGEsLLsHfshDg2yZ8X5LzH7sq_aMCVVPKgnIfgUA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghyGGEsLLsHfshDg2yZ8X5LzH7sq_aMCVVPKgnIfgUA&s=10"
+    },
 
-{
-    id: "hipodromo-independencia",
+    {
+        id: "hipodromo-independencia",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Hipódromo Independencia",
+        name: "Hipódromo Independencia",
 
-    category: [
-        "Deporte"
-    ],
+        category: [
+            "Deporte"
+        ],
 
-    description:
-        "Histórico hipódromo ubicado dentro del Parque Independencia donde se realizan reuniones hípicas durante todo el año.",
+        description:
+            "Histórico hipódromo ubicado dentro del Parque Independencia donde se realizan reuniones hípicas durante todo el año.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Mmv_rI6SEpmhnKVT73OY4zGJqOIFbbdH730PK6uVMMLMGWrFut5Suzs&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Mmv_rI6SEpmhnKVT73OY4zGJqOIFbbdH730PK6uVMMLMGWrFut5Suzs&s=10"
+    },
 
-{
-    id: "autodromo-municipal-rosario",
+    {
+        id: "autodromo-municipal-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Autódromo Municipal Juan Manuel Fangio",
+        name: "Autódromo Municipal Juan Manuel Fangio",
 
-    category: [
-        "Deporte"
-    ],
+        category: [
+            "Deporte"
+        ],
 
-    description:
-        "Circuito automovilístico donde compiten categorías nacionales como el Turismo Nacional y el TC2000.",
+        description:
+            "Circuito automovilístico donde compiten categorías nacionales como el Turismo Nacional y el TC2000.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N6lJMxHm45t18tuNnmzQp7FluOgNpNDanKhRyimPCQ&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9N6lJMxHm45t18tuNnmzQp7FluOgNpNDanKhRyimPCQ&s=10"
+    },
 
-{
-    id: "plaza-pringles",
+    {
+        id: "plaza-pringles",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Plaza Pringles",
+        name: "Plaza Pringles",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Una de las plazas más tradicionales del centro rosarino, rodeada de edificios históricos y comercios.",
+        description:
+            "Una de las plazas más tradicionales del centro rosarino, rodeada de edificios históricos y comercios.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssYEDjCuoiVjdwiptrRcVa4KUGqBifjvwvMnkZklTQA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQssYEDjCuoiVjdwiptrRcVa4KUGqBifjvwvMnkZklTQA&s=10"
+    },
 
-{
-    id: "plaza-san-martin-rosario",
+    {
+        id: "plaza-san-martin-rosario",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Plaza San Martín",
+        name: "Plaza San Martín",
 
-    category: [
-        "Plaza",
-        "Historia"
-    ],
+        category: [
+            "Plaza",
+            "Historia"
+        ],
 
-    description:
-        "Importante espacio verde frente a la Facultad de Derecho y la sede de Gobierno provincial.",
+        description:
+            "Importante espacio verde frente a la Facultad de Derecho y la sede de Gobierno provincial.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_tbVCxCD__vog63Qhouuj7HBelYs2UtvkVv_A5_eWA&s=10"
-},
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_tbVCxCD__vog63Qhouuj7HBelYs2UtvkVv_A5_eWA&s=10"
+    },
 
-{
-    id: "plaza-montenegro",
+    {
+        id: "plaza-montenegro",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Plaza Montenegro",
+        name: "Plaza Montenegro",
 
-    category: [
-        "Plaza"
-    ],
+        category: [
+            "Plaza"
+        ],
 
-    description:
-        "Plaza céntrica junto al Centro Cultural Roberto Fontanarrosa y el Paseo del Siglo.",
+        description:
+            "Plaza céntrica junto al Centro Cultural Roberto Fontanarrosa y el Paseo del Siglo.",
 
-    image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Plaza_Montenegro_Rosario_1.jpg"
-},
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Plaza_Montenegro_Rosario_1.jpg"
+    },
 
-{
-    id: "islas-del-parana",
+    {
+        id: "islas-del-parana",
 
-    city: "rosario",
+        city: "rosario",
 
-    name: "Islas del Paraná",
+        name: "Islas del Paraná",
+
+        category: [
+            "Naturaleza"
+        ],
+
+        description:
+            "Conjunto de islas frente a Rosario ideales para realizar excursiones, kayak, pesca y disfrutar de playas naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyiF3LgJRDhZtGUu1HipVn5s6vMRzsRnQhhnBeUZMds2h--nFAjgZBX3kp&s=10"
+    },
+
+    {
+        id: "reserva-los-tres-cerros",
+
+        city: "rosario",
+
+        name: "Reserva Natural Los Tres Cerros",
+
+        category: [
+            "Reservas Naturales"
+        ],
+
+        description:
+            "Área protegida del delta del Paraná frente a Rosario, destacada por su biodiversidad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqdeu8TgTSNu5d_tKrbqWxS1_aByZACIZ4WpK0CQSqAa9rYmsmhDPMQ0&s=10"
+    },
+
+    {
+        id: "bar-el-cairo",
+
+        city: "rosario",
+
+        name: "Bar El Cairo",
+
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
+
+        description:
+            "El café más famoso de Rosario, inmortalizado por Roberto Fontanarrosa y lugar de reunión de la 'Mesa de los Galanes'.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIoDL_JqZm2ZC6j5pDe4yFnV1SaSDKIeXZVrVwv_iJg&s=10"
+    },
+
+    {
+        id: "rock-fellers",
+
+        city: "rosario",
+
+        name: "Rock & Feller's",
+
+        category: [
+            "Gastronomía"
+        ],
+
+        description:
+            "Uno de los restaurantes más reconocidos de Rosario, famoso por su ambientación y cocina internacional.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d8/cf/52/rock-feller-s-bv-orono.jpg?w=500&h=-1&s=1"
+    },
+
+    {
+        id: "bv-oroño",
+        city: "rosario",
+        name: "Boulevard Oroño",
+        category: [
+            "Arquitectura"
+        ],
+        description:
+            "Avenida histórica de Rosario, famosa por sus mansiones, edificios emblemáticos y arboleda.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6dPJfS6LrgWllPSV1KMhXBxYvezhoER8Nb__FNbITw&s=10"
+    },
+
+    {
+        id: "plaza-sarmiento",
+        city: "rosario",
+        name: "Plaza Sarmiento",
+        category: [
+            "Plaza"
+        ],
+        description:
+            "Importante espacio verde del centro rosarino, punto de encuentro y conexión del transporte urbano.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0VqeDn9weSDGdHlgUqTIGGZz-IDAqIrIYAPum9kjCw&s=10"
+    },
+
+
+    {
+        id: "paseo-del-siglo",
+        city: "rosario",
+        name: "Paseo del Siglo",
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+        description:
+            "Sector histórico con edificios de fines del siglo XIX y principios del XX, uno de los paseos urbanos más elegantes de Rosario.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbf6GFTPvE9JyOYX6CA2JKK5kz90-NrHmHmgwyJy2I3p3CHxjDD45fUXnF&s=10"
+    },
+
+
+
+    {
+        id: "club-espanol-rosario",
+        city: "rosario",
+        name: "Club Español",
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+        description:
+            "Edificio histórico representativo de la colectividad española en Rosario.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU-WjK1gEt3zAhBSnCh_BmUpS8hEyA19YycIH28L5kT0yMSZkhNLmzEQ&s=10"
+    },
+
+    {
+        id: "club-social-rosario",
+        city: "rosario",
+        name: "Club Social",
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+        description:
+            "Institución tradicional ubicada en un edificio histórico del centro rosarino.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUkAqvWz0KI0tp_KI_nHC0_jDcuxOaAJlUOOhpbVHyr9B_3jcHi2qsyY&s=10"
+    },
+
+    {
+        id: "museo-del-deporte-santafesino",
+        city: "rosario",
+        name: "Museo del Deporte Santafesino",
+        category: [
+            "Museo",
+            "Deporte"
+        ],
+        description:
+            "Museo interactivo dedicado a la historia del deporte santafesino y sus máximos referentes.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLYPrDT2W1sv0KXR9Yy2IDGipA5S_DiRfExB8oNS0vo7I8GD2aF_4NB4&s=10"
+    },
+
+    {
+        id: "museo-del-diario-la-capital",
+        city: "rosario",
+        name: "Museo del Diario La Capital",
+        category: [
+            "Museo",
+            "Historia"
+        ],
+        description:
+            "Espacio dedicado a la historia del diario más antiguo del país y del periodismo rosarino.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZDTjfWPzZ5hEN9zJkc4IoVgOS1toWAg8B8QA_TzoTfkFXusbWPxh-wM&s=10"
+    },
+
+    {
+        id: "museo-provincial-de-ciencias-naturales",
+        city: "rosario",
+        name: "Museo Provincial de Ciencias Naturales Dr. Ángel Gallardo",
+        category: [
+            "Museo"
+        ],
+        description:
+            "Museo con colecciones de fauna, flora, paleontología y geología de la región.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFudDct9i736cmMYLWoyMikEqoxJoBoolnk3CYMCekNw&s=10"
+    },
+
+    {
+        id: "acuario-del-rio-parana",
+        city: "rosario",
+        name: "Acuario del Río Paraná",
+        category: [
+            "Animales",
+            "Naturaleza"
+        ],
+        description:
+            "Centro de interpretación dedicado a la biodiversidad del río Paraná y sus especies.",
+        image: "https://www.santafe.gob.ar/noticias/media/cache/thumb_no_full/recursos/fotos/2024/02/2024-02-15NID_279730O_1.jpeg"
+    },
+
+    {
+        id: "parque-alem",
+        city: "rosario",
+        name: "Parque Alem",
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+        description:
+            "Gran espacio verde sobre la costa norte con senderos, juegos y vistas al Paraná.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvr_7HIVjWrALTBngiRmFU1ofFc3AI1jU5U_afE-rx9-YRWBmU2vTmUb4&s=10"
+    },
+
+    {
+        id: "parque-urquiza",
+        city: "rosario",
+        name: "Parque Urquiza",
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+        description:
+            "Parque histórico ubicado sobre las barrancas del río con amplios espacios recreativos.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwKUu7wDsW7DvAyericBi2DSS5czObr0DpAiWtyzXzpxLLcY2gZ2OKEc&s=10"
+    },
+
+    {
+        id: "puerto-norte",
+        city: "rosario",
+        name: "Puerto Norte",
+        category: [
+            "Arquitectura",
+            "Costaneras"
+        ],
+        description:
+            "Moderno barrio ribereño con edificios, paseos gastronómicos y vistas al Paraná.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeKlen0Sx86YZ4aUSbaZwIE8MBty8XVyFECv9PruaGw&s=10"
+    },
+
+    {
+        id: "fuente-de-las-utopias",
+        city: "rosario",
+        name: "Fuente de las Utopías",
+        category: [
+            "Monumento"
+        ],
+        description:
+            "Fuente ornamental ubicada sobre la costanera, uno de los puntos fotográficos de Rosario.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgKEUJMdd-KheHXRtmG3BaL7BWnFeUQZBwvLcuRSsWYyyBBSJgtnkI2U&s=10"
+    },
+
+    {
+        id: "feria-de-artesanos-parque-independencia",
+        city: "rosario",
+        name: "Feria de Artesanos del Parque Independencia",
+        category: [
+            "Shopping"
+        ],
+        description:
+            "Feria tradicional donde artesanos locales ofrecen productos, obras y recuerdos regionales.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTXhXDoZYZLZGNLn9_txp7hnbwkoHkjqSe8Avv_XXGfO6B1zM6GXlG_0F&s=10"
+    },
+
+    {
+        id: "estancia-la-raquel",
+
+        city: "castelli",
+
+        name: "Estancia La Raquel",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "Histórica estancia fundada por la familia Guerrero, rodeada de numerosas leyendas sobre apariciones y fenómenos inexplicables.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEEd5raW286GfALpqRZzbOEwy1GQUHtUZu7PuGYFoqJBj1SV6SH92ZN4G&s=10"
+    },
+
+    {
+        id: "casa-minima",
+
+        city: "san-isidro",
+
+        name: "Casa Mínima",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "La casa más angosta de Buenos Aires, rodeada por antiguas leyendas sobre esclavos y presencias.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zCC2V0MLlqtTMLIbmk39F2ErNuBJHePer9BUKbCQkIqD7pjLacysPXw&s=10"
+    },
+
+    {
+        id: "ruta-provincial-2",
+
+        city: "chascomus",
+
+        name: "Ruta Provincial 2",
+
+        category: [
+            "Paranormal"
+        ],
+
+        description:
+            "Tramo famoso por la leyenda de 'La Novia de la Ruta', uno de los relatos paranormales más conocidos de Argentina.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhtLjrRRja22H-W_GMlrbGGgVo02cE-39AEdLQ2k06Q&s=10"
+    },
+
+    {
+        id: "cementerio-de-chascomus",
+
+        city: "chascomus",
+
+        name: "Cementerio de Chascomús",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "Histórico cementerio protagonista de numerosos relatos de apariciones y fenómenos extraños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoi0acpDcj28kolTz4Xeba98AQo7Crrhfs5o2_uvNnQ&s=10"
+    },
+
+    {
+        id: "cementerio-de-dolores",
+
+        city: "dolores",
+
+        name: "Cementerio de Dolores",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "Cementerio histórico conocido por historias de fantasmas y sucesos inexplicables.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShr5188zROBd94tFTCJD86VMzB196ex9yFzgMICC8IUA&s=10"
+    },
+
+    {
+        id: "cementerio-de-mercedes",
+
+        city: "mercedes",
+
+        name: "Cementerio de Mercedes",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "Uno de los cementerios más antiguos de la provincia, famoso por diversas leyendas urbanas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGpUEFeeQsHPEgmc0WOI80x9PnMZyKhDC9QVRoSN_98ZKNqyi_rU3bwyq&s=10"
+    },
+
+    {
+        id: "castillo-de-piria",
+
+        city: "sierra-de-la-ventana",
+
+        name: "Castillo de Piria",
+
+        category: [
+            "Paranormal",
+            "Castillo"
+        ],
+
+        description:
+            "Castillo rodeado de leyendas sobre presencias y sucesos misteriosos en la comarca serrana.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/78/75/c1/castillo-de-piria.jpg?w=1200&h=-1&s=1"
+    },
+
+    {
+        id: "hospital-santa-maria",
+
+        city: "lujan",
+
+        name: "Hospital Santa María",
+
+        category: [
+            "Paranormal"
+        ],
+
+        description:
+            "Antiguo hospital abandonado ubicado en la localidad de Open Door, partido de Luján. Es uno de los lugares con mayor fama paranormal de la provincia de Buenos Aires por sus relatos de apariciones, voces, sombras y fenómenos inexplicables.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GEC0QW65OowBYE3xw5LfMJNw1mU-fLT6anOo7BexpiKVAGVWrItu8_c&s=10"
+    },
+
+    {
+        id: "hospital-neuropsiquiatrico-cabred",
+
+        city: "lujan",
+
+        name: "Hospital Neuropsiquiátrico Domingo Cabred",
+
+        category: [
+            "Paranormal",
+            "Historia"
+        ],
+
+        description:
+            "Histórico hospital psiquiátrico ubicado en Open Door, partido de Luján. Fundado en 1899, es protagonista de numerosas leyendas sobre apariciones y actividad paranormal, especialmente en sus antiguos pabellones.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrq0qaYlGqvSr4XtHorg2v2BFBWRa7EZKZCGI5BwMueQ&s=10"
+    },
+
+    {
+        id: "castillo-estancia-la-candelaria",
+
+        city: "lobos",
+
+        name: "Castillo de la Estancia La Candelaria",
+
+        category: [
+            "Castillo",
+            "Historia",
+            "Paranormal"
+        ],
+
+        description:
+            "Imponente castillo de estilo francés construido a comienzos del siglo XX dentro de la Estancia La Candelaria. Además de su valor arquitectónico, es conocido por numerosas historias sobre apariciones y fenómenos inexplicables.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboNcOxqpbJHy3KteiKNYYTdJZwjYZIwdyGggD49R2VQ&s=10"
+    },
+
+    {
+        id: "pulperia-la-azotea-grande",
+
+        city: "chascomus",
+
+        name: "Pulpería La Azotea Grande",
+
+        category: [
+            "Historia",
+            "Gastronomía",
+            "Paranormal"
+        ],
+
+        description:
+            "Considerada una de las pulperías más antiguas de la provincia de Buenos Aires. Su larga historia dio origen a diversas leyendas sobre presencias y sucesos extraños.",
+
+        image: "https://www.infocielo.com/wp-content/uploads/2024/11/la-azotea-grande-lezama-leandro-bringa-1jpg.jpg"
+    },
+
+    {
+        id: "iglesia-santa-felicitas",
+
+        city: "caba",
+
+        name: "Iglesia Santa Felicitas",
+
+        category: [
+            "Religión",
+            "Historia",
+            "Paranormal"
+        ],
+
+        description:
+            "Iglesia construida en homenaje a Felicitas Guerrero. Es uno de los sitios más famosos de Buenos Aires por las leyendas sobre el fantasma de Felicitas y los relatos de actividad paranormal.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwfOnZlsGICPRkPfVmFkMK4p0PbetuFloXgTcyb7N3Q&s=10"
+    },
+
+    {
+        id: "palacio-de-los-bichos",
+
+        city: "caba",
+
+        name: "Palacio de los Bichos",
+
+        category: [
+            "Arquitectura",
+            "Historia",
+            "Paranormal"
+        ],
+
+        description:
+            "Antiguo edificio del barrio de Agronomía rodeado por numerosas leyendas urbanas y relatos de apariciones, considerado uno de los lugares más misteriosos de la Ciudad de Buenos Aires.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGyLeqYAmQU9cjqTz3ZAHG_dbDDD8qLc88Fyr9wT2m-4E7nvsiGrrQSI&s=10"
+    },
+
+    {
+        id: "laguna-la-rosita",
+
+        city: "castelli",
+
+        name: "Laguna La Rosita",
+
+        category: [
+            "Naturaleza",
+            "Lagunas"
+        ],
+
+        description:
+            "Principal espejo de agua de Castelli, ideal para la pesca deportiva, el descanso y las actividades al aire libre.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnC18x3gIygZ1SrIkx3o6mdGUJWQV5Och4cE0FDGNRciL3Z8R5G_INoa8&s=10"
+    },
+
+    {
+        id: "museo-crucero-general-belgrano",
+
+        city: "castelli",
+
+        name: "Museo Crucero General Belgrano",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a los héroes del Crucero ARA General Belgrano y a la participación argentina en la Guerra de Malvinas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f3npQmvNB81kUTEeu-mnOp6GET2C5_UUtcare_sk18PLUYHVV8HgIR0&s=10"
+    },
+
+    {
+        id: "calvario-jesus-el-camino",
+
+        city: "castelli",
+
+        name: "Calvario Jesús, el Camino",
+
+        category: [
+            "Religión"
+        ],
+
+        description:
+            "Importante paseo religioso donde cada Semana Santa se realiza una de las representaciones de la Pasión de Cristo más reconocidas de la región.",
+
+        image: "https://lanoticia1cdn.eleco.com.ar/media/2024/03/jesus_el_camino.jpg"
+    },
+
+    {
+        id: "museo-archivo-castelli",
+
+        city: "castelli",
+
+        name: "Museo Archivo Castelli",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que conserva documentos, objetos históricos y material relacionado con el desarrollo del partido de Castelli.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJkOWXx1zYQ4CRE-uXOryNdHILskRQpsEhPaGvT4m-g&s=10"
+    },
+
+    {
+        id: "estacion-castelli",
+
+        city: "castelli",
+
+        name: "Estación Castelli",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Antigua estación ferroviaria que fue clave para el crecimiento de la ciudad y aún conserva su arquitectura original.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu_7o8Gw-PVwMI_rNihk9k6xf2JY_1HTrogF6bYnSQ&s"
+    },
+
+
+    {
+        id: "parroquia-santa-rosa-de-lima",
+
+        city: "castelli",
+
+        name: "Parroquia Santa Rosa de Lima",
+
+        category: [
+            "Religión"
+        ],
+
+        description:
+            "Principal templo católico de Castelli y uno de los edificios más representativos del casco urbano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAQVc6kNRk29hL6SESTo47QQ8fLTLiiRq0aVqFx0m9wdso7M2mzLAML_E&s=10"
+    },
+
+    {
+        id: "puente-colgante",
+
+        city: "santa-fe-capital",
+
+        name: "Puente Colgante",
+
+        category: [
+            "Monumento",
+            "Arquitectura"
+        ],
+
+        description:
+            "Ícono de la ciudad y uno de los puentes más fotografiados del país.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Santa_fe-2.jpg"
+    },
+
+    {
+        id: "costanera-este",
+
+        city: "santa-fe-capital",
+
+        name: "Costanera Este",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo costero sobre la Laguna Setúbal con playas, bares y espacios recreativos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKTQDnxJY6o2jUkjCiAm-BGW4R6ErhG8T7A1LLhT5b_DovgKPURRJgTsJ&s=10"
+    },
+
+    {
+        id: "costanera-oeste",
+
+        city: "santa-fe-capital",
+
+        name: "Costanera Oeste",
+
+        category: [
+            "Costaneras"
+        ],
+
+        description:
+            "Tradicional paseo santafesino ideal para caminar y disfrutar del paisaje ribereño.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvClO5Kx361ifldjiBZY2jzw2nHA_JV0DR26yniggcuLQReZBEsVkT5-o&s=10"
+    },
+
+    {
+        id: "laguna-setubal",
+
+        city: "santa-fe-capital",
+
+        name: "Laguna Setúbal",
+
+        category: [
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran espejo de agua que caracteriza a la ciudad y donde se realizan deportes náuticos y pesca.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvhYB9Ce_VEr0t3WytKu8jP0ircf2tDUdCVeLBN7YyWFh_idarw21Slk&s=10"
+    },
+
+    {
+        id: "casino-santa-fe",
+
+        city: "santa-fe-capital",
+
+        name: "Casino Santa Fe",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Complejo de entretenimiento con casino, hotel, restaurantes y centro comercial.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ae/87/67/hotel-los-silos-e-seu.jpg?w=900&h=-1&s=1"
+    },
+
+    {
+        id: "catedral-metropolitana-santafe",
+
+        city: "santa-fe-capital",
+
+        name: "Catedral Metropolitana de Todos los Santos",
+
+        category: [
+            "Religión",
+            "Historia"
+        ],
+
+        description:
+            "Principal templo católico de la ciudad, frente a la Plaza 25 de Mayo.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Catedral_Metropolitana_Todos_los_Santos.jpg/500px-Catedral_Metropolitana_Todos_los_Santos.jpg"
+    },
+
+    {
+        id: "convento-san-francisco",
+
+        city: "santa-fe-capital",
+
+        name: "Convento de San Francisco",
+
+        category: [
+            "Historia",
+            "Religión"
+        ],
+
+        description:
+            "Uno de los edificios coloniales más importantes de Argentina, construido en el siglo XVII.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62P8HLLRbUSI2dn0UffOBZqAVqzhmOAOwE4nwi0QUOw&s=10"
+    },
+
+
+    {
+        id: "plaza-25-de-mayo",
+
+        city: "santa-fe-capital",
+
+        name: "Plaza 25 de Mayo",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Santa Fe, rodeada por la Catedral, el Cabildo y la Casa de Gobierno.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/08/96/6e/98/plaza-25-de-mayo.jpg"
+    },
+
+    {
+        id: "casa-de-gobierno",
+
+        city: "santa-fe-capital",
+
+        name: "Casa de Gobierno de Santa Fe",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Sede del Poder Ejecutivo provincial, conocida por su arquitectura italianizante.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOmwhLb_cWWQsyT4dz2mL1Ayn5SSHlHKyWayjv3e2gg&s=10"
+    },
+
+    {
+        id: "museo-rosa-galisteo",
+
+        city: "santa-fe-capital",
+
+        name: "Museo Provincial de Bellas Artes Rosa Galisteo",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Uno de los principales museos de arte del país, con obras de artistas argentinos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVU_JDjmZdzubr-yI4lB2G1jerzUoJaDkFpu9vp3_w&s=10"
+    },
+
+    {
+        id: "museo-etnografico",
+
+        city: "santa-fe-capital",
+
+        name: "Museo Etnográfico y Colonial Juan de Garay",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia colonial y a los pueblos originarios del litoral.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuefVYxPENfSp3yzRbi7GoEFqsAHilQXlVz7Jd8t9p6Q&s=10"
+    },
+
+    {
+        id: "parque-del-sur",
+
+        city: "santa-fe-capital",
+
+        name: "Parque del Sur",
+
+        category: [
+            "Parques"
+        ],
+
+        description:
+            "Gran espacio verde urbano con lago artificial y sectores deportivos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUatBCm-_sf7hWt_pS-0H_y7o4PGJgyGa2x15rZ4pwpw&s=10"
+    },
+
+    {
+        id: "jardin-botanico-santafe",
+
+        city: "santa-fe-capital",
+
+        name: "Jardín Botánico Ing. Lorenzo Parodi",
+
+        category: [
+            "Jardines",
+            "Naturaleza"
+        ],
+
+        description:
+            "Espacio verde dedicado a la conservación y exhibición de especies vegetales.",
+
+        image: "https://tripin.travel/wp-content/uploads/2017/01/BotanicoFlorece.jpg"
+    },
+
+    {
+        id: "puerto-de-santa-fe",
+
+        city: "santa-fe-capital",
+
+        name: "Puerto de Santa Fe",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Histórico puerto fluvial que impulsó el crecimiento económico de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_vTKQ_V3U4viYPri1XBhCBO8Doq_ZobhnhL7nAletzdciFFgKHMYOz47&s=10"
+    },
+
+    {
+        id: "shopping-la-ribera",
+
+        city: "santa-fe-capital",
+
+        name: "La Ribera Shopping",
+
+        category: [
+            "Shopping"
+        ],
+
+        description:
+            "Principal centro comercial de la ciudad con locales, gastronomía y entretenimiento.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqseUPEpWzSBNQLxG730uq2FPzuE0LUpAj6xd7GD5ikzA5Pymk0z447Z8g&s=10"
+    },
+
+    {
+        id: "teatro-municipal-1-de-mayo",
+
+        city: "santa-fe-capital",
+
+        name: "Teatro Municipal 1° de Mayo",
+
+        category: [
+            "Teatro",
+            "Historia"
+        ],
+
+        description:
+            "Principal teatro de la ciudad, inaugurado en 1905 y sede de importantes espectáculos culturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFj4aYUkQjucYEoXGnURxg6FBFe8BMd9TX1B8ih1e9A&s=10"
+    },
+
+    {
+        id: "centro-cultural-provincial",
+
+        city: "santa-fe-capital",
+
+        name: "Centro Cultural Provincial",
+
+        category: [
+            "Teatro"
+        ],
+
+        description:
+            "Espacio cultural con salas para teatro, música, danza y exposiciones.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVaoCNej6M61uqWyxy1x-vUuXikA3iUglECZSWcaV-2_EnQ4oejFfH-w&s=10"
+    },
+
+    {
+        id: "molino-fabrica-cultural",
+
+        city: "santa-fe-capital",
+
+        name: "El Molino - Fábrica Cultural",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Antiguo molino harinero reconvertido en un moderno espacio cultural e interactivo.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyKj1LJI5XUamEQ-L7CsL2WRJeAdz-gCnrLpaxlmqdX2fyycfe6qEeeo&s=10"
+    },
+
+    {
+        id: "estacion-belgrano",
+
+        city: "santa-fe-capital",
+
+        name: "Estación Belgrano",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Histórica estación ferroviaria transformada en centro de eventos, ferias y congresos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-EibCP3UJ4XEEZ9tCCbuLzpgwJ7tHMTJSxmXouh_JQ&s=10"
+    },
+
+    {
+        id: "reserva-ecologica-unl",
+
+        city: "santa-fe-capital",
+
+        name: "Reserva Ecológica UNL",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza"
+        ],
+
+        description:
+            "Reserva natural universitaria con senderos interpretativos y gran biodiversidad del litoral.",
+
+        image: "https://www.unl.edu.ar/comunicaciondelaciencia/wp-content/uploads/sites/41/2021/06/03-1024x768.jpg"
+    },
+
+    {
+        id: "playa-los-alisos",
+
+        city: "santa-fe-capital",
+
+        name: "Playa Los Alisos",
+
+        category: [
+            "Playas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Balneario sobre la Laguna Setúbal muy concurrido durante el verano.",
+
+        image: "https://www.ellitoral.com/images/2024/12/06/06U50bUte_870x580__1.jpg"
+    },
+
+
+    {
+        id: "estadio-brigadier-lopez",
+
+        city: "santa-fe-capital",
+
+        name: "Estadio Brigadier General Estanislao López",
+
+        category: [
+            "Estadio",
+            "Deporte"
+        ],
+
+        description:
+            "Estadio del Club Atlético Colón, conocido como 'El Cementerio de los Elefantes'.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwSJv1Fdz8NgExn_DbJk4Q6itk6xz-CuIT7utM3q0jg&s=10"
+    },
+
+    {
+        id: "estadio-15-de-abril",
+
+        city: "santa-fe-capital",
+
+        name: "Estadio 15 de Abril",
+
+        category: [
+            "Estadio",
+            "Deporte"
+        ],
+
+        description:
+            "Estadio del Club Atlético Unión, uno de los escenarios deportivos más importantes de la provincia.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Estadio_15_de_Abril_-_Club_Atl%C3%A9tico_Uni%C3%B3n_de_Santa_Fe.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
+    },
+
+    {
+        id: "cerveceria-santa-fe",
+
+        city: "santa-fe-capital",
+
+        name: "Cervecería Santa Fe",
+
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
+
+        description:
+            "Histórica cervecería fundada en 1912, símbolo de la identidad gastronómica santafesina.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/1c/d2/41/patio-de-la-cerveceria.jpg?w=1200&h=-1&s=1"
+    },
+
+    {
+        id: "mercado-progreso",
+
+        city: "santa-fe-capital",
+
+        name: "Mercado Progreso",
+
+        category: [
+            "Gastronomía",
+            "Historia"
+        ],
+
+        description:
+            "Mercado histórico recuperado con propuestas gastronómicas, culturales y comerciales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9_0eN89j6V3JH_aMddF8vNEn85LLZIAfZyyh7Nuc2ae8-4rWrluZvDf9&s=10"
+    },
+
+    {
+        id: "peatonal-san-martin",
+
+        city: "santa-fe-capital",
+
+        name: "Peatonal San Martín",
+
+        category: [
+            "Shopping"
+        ],
+
+        description:
+            "Principal paseo comercial a cielo abierto de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotqQLMDBcrcWL6k0Zw1GfudDIHbBvLrecdpRgqEECU20ajxepX7nof1gd&s=10"
+    },
+
+    {
+        id: "puente-orono",
+
+        city: "santa-fe-capital",
+
+        name: "Puente Oroño",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Puente que conecta Santa Fe con Santo Tomé, uno de los accesos más emblemáticos de la ciudad.",
+
+        image: "https://media.airedesantafe.com.ar/p/504070aaa1e59521ecede2360f9af0d1/adjuntos/268/imagenes/003/105/0003105989/viaducto-orono-dji_0680_1200-mth-aire-1200-2jpg.jpg?0000-00-00-00-00-00"
+    },
+
+    {
+        id: "basilica-guadalupe",
+
+        city: "santa-fe-capital",
+
+        name: "Basílica de Nuestra Señora de Guadalupe",
+
+        category: [
+            "Religión"
+        ],
+
+        description:
+            "Uno de los templos más importantes del litoral y centro de una multitudinaria peregrinación anual.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHCVKUom0Cyemkwc4cXa3fcZ4Si2XtXoB5tSLk7uYgZ2NH3Sdl6pwcZVj&s=10"
+    },
+
+    {
+        id: "campo-de-la-gloria",
+
+        city: "san-lorenzo",
+
+        name: "Campo de la Gloria",
+
+        category: [
+            "Historia",
+            "Monumento"
+        ],
+
+        description:
+            "Sitio histórico donde se libró el Combate de San Lorenzo el 3 de febrero de 1813.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7e/aa/18/caption.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "convento-san-carlos",
+
+        city: "san-lorenzo",
+
+        name: "Convento San Carlos Borromeo",
+
+        category: [
+            "Historia",
+            "Religión"
+        ],
+
+        description:
+            "Convento franciscano donde descansó el General San Martín antes del Combate de San Lorenzo.",
+
+        image: "https://www.argentina.gob.ar/sites/default/files/conventoslorenzocnm.jpg"
+    },
+
+    {
+        id: "museo-conventual-san-carlos",
+
+        city: "san-lorenzo",
+
+        name: "Museo Conventual San Carlos",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que conserva objetos y documentos relacionados con el Combate de San Lorenzo y la historia nacional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKk3GiStJKWf-32SgARDv8nzTVoova43ecs31RpcRs11goUX7uIblxiw9N&s=10"
+    },
+
+    {
+        id: "museo-del-arbol-historico",
+
+        city: "san-lorenzo",
+
+        name: "Pino Histórico",
+
+        category: [
+            "Historia",
+            "Monumento"
+        ],
+
+        description:
+            "Descendiente del histórico pino bajo cuya sombra fue atendido el coronel San Martín tras el combate.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlygozZ4gbDqHd5-CiekBbLcdvMG-1q5PUIZovAjOpn-FdFMGbmXGp0mIN&s=10"
+    },
+
+    {
+        id: "complejo-museologico",
+
+        city: "san-lorenzo",
+
+        name: "Complejo Museológico",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Conjunto de museos dedicados a la historia local y al Combate de San Lorenzo.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ToXPE_-jGL4NzhU6cSkyMyuIoSkmUvqg_0yQPkjLVHub9jUc_H2Lj0s&s=10"
+    },
+
+    {
+        id: "costanera-san-lorenzo",
+
+        city: "san-lorenzo",
+
+        name: "Costanera de San Lorenzo",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo sobre las barrancas del río Paraná con miradores y espacios recreativos.",
+
+        image: "https://live.staticflickr.com/8332/8419241627_9c00156e01_b.jpg"
+    },
+
+
+    {
+        id: "centro-cultural-municipal",
+
+        city: "san-lorenzo",
+
+        name: "Centro Cultural y Educativo Municipal",
+
+        category: [
+            "Teatro"
+        ],
+
+        description:
+            "Espacio cultural donde se realizan exposiciones, espectáculos y actividades educativas.",
+
+        image: "https://sanlorenzo.gob.ar/wp-content/uploads/2018/08/centro-cultural-brigadier.jpg"
+    },
+
+    {
+        id: "centro-comercial-cielo-abierto",
+
+        city: "san-lorenzo",
+
+        name: "Centro Comercial a Cielo Abierto",
+
+        category: [
+            "Shopping"
+        ],
+
+        description:
+            "Principal paseo comercial del centro de San Lorenzo con locales gastronómicos y comercios.",
+
+        image: "https://pregon.me/wp-content/uploads/2018/09/ccca.jpg"
+    },
+
+    {
+        id: "plaza-25-de-mayo-rafaela",
+
+        city: "rafaela",
+
+        name: "Plaza 25 de Mayo",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Principal espacio público de la ciudad, rodeado por edificios históricos y punto de encuentro de los rafaelinos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYCydQVMORt4PDKwGsq4jsfMI_DHfBgZGxxk_Wkp9tipOenwTv5I8v1A&s=10"
+    },
+
+    {
+        id: "catedral-san-rafael",
+
+        city: "rafaela",
+
+        name: "Catedral San Rafael",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo principal de Rafaela, ubicado frente a la Plaza 25 de Mayo y uno de los edificios más representativos de la ciudad.",
+
+        image: "https://horariodemisas.com.ar/wp-content/uploads/2022/07/iglesia-catedral-san-rafael-rafaela-santa-fe.jpg"
+    },
+
+    {
+        id: "museo-historico-municipal-rafaela",
+
+        city: "rafaela",
+
+        name: "Museo Histórico Municipal",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que recorre la historia de Rafaela desde su fundación como colonia agrícola hasta la actualidad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZX6jXeCBeHbKbqdHE0xel7RIsZjTFMAm4KPgnuCp1HuEOXyDoveKNkZE&s=10"
+    },
+
+    {
+        id: "museo-urbano-poggi",
+
+        city: "rafaela",
+
+        name: "Museo Municipal de Bellas Artes Dr. Urbano Poggi",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Principal museo de arte de Rafaela, con exposiciones permanentes y temporarias de artistas locales y nacionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifLmlYyYP5-ydGBe6bQZ7gwjzCyvMb3FhTJ52THCTIg&s=10"
+    },
+
+    {
+        id: "viejo-mercado",
+
+        city: "rafaela",
+
+        name: "Complejo Cultural del Viejo Mercado",
+
+        category: [
+            "Teatro",
+            "Arquitectura"
+        ],
+
+        description:
+            "Antiguo mercado municipal convertido en centro cultural con salas de exposiciones, espectáculos y eventos.",
+
+        image: "https://rn-2026.global.ssl.fastly.net/galeria/fotos/2026/07/03/m_1783078300.jpg"
+    },
+
+    {
+        id: "placita-honda",
+
+        city: "rafaela",
+
+        name: "Placita Honda",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Uno de los espacios verdes más tradicionales de Rafaela, muy utilizado para actividades recreativas.",
+
+        image: "https://rn-2026.global.ssl.fastly.net/galeria/fotos/2026/05/05/e_1778004011.jpeg"
+    },
+
+    {
+        id: "boulevard-santa-fe",
+
+        city: "rafaela",
+
+        name: "Boulevard Santa Fe",
+
+        category: [
+            "Arquitectura",
+            "Shopping"
+        ],
+
+        description:
+            "Principal avenida de la ciudad, famosa por sus adoquines históricos, comercios y bares.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIcM7s0nV5c2kig1fbYSU5UG3Y2kIY1-M1jHOUIehWA&s=10"
+    },
+
+    {
+        id: "terraza-verde",
+
+        city: "rafaela",
+
+        name: "Terraza Verde",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Espacio sustentable ubicado sobre el edificio municipal, con vista panorámica de la ciudad y enfoque en energías renovables.",
+
+        image: "https://regionoeste.com.ar/download/multimedia.normal.959009e553c55d1a.4453435f313136385f6e6f726d616c2e4a5047.webp"
+    },
+
+    {
+        id: "autodromo-ciudad-de-rafaela",
+
+        city: "rafaela",
+
+        name: "Autódromo Ciudad de Rafaela",
+
+        category: [
+            "Deporte"
+        ],
+
+        description:
+            "Circuito histórico del automovilismo argentino, sede del Turismo Carretera e importantes competencias nacionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrgiLVxBTqtf3YZNUYZ6AVE_ztBZoNiFZnHUgzI_x1cmMUu926c88fLz4&s=10"
+    },
+
+    {
+        id: "parque-balneario-rafaela",
+
+        city: "rafaela",
+
+        name: "Parque Balneario Municipal",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran parque urbano con lago, espacios recreativos, senderos y sectores para deportes y picnic.",
+
+        image: "https://inforafaela.com.ar/download/multimedia.normal.89e0c105811ea653.62616c6e656172696f2d6573706572616e7a615f6e6f726d616c2e6a7067.jpg"
+    },
+
+
+    {
+        id: "sitio-ramsar-jaaukanigas",
+
+        city: "reconquista",
+
+        name: "Sitio Ramsar Jaaukanigás",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Animales"
+        ],
+
+        description:
+            "Uno de los humedales más importantes de Argentina, ideal para ecoturismo, navegación y avistaje de fauna.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqeCaG-qF0MTMmtI6_Cq3s6OgurcddeWM35fOhQw-yRMLeJYWEIJapJ5o&s=10"
+    },
+
+
+    {
+        id: "plaza-25-de-mayo-reconquista",
+
+        city: "reconquista",
+
+        name: "Plaza 25 de Mayo",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Principal plaza de la ciudad, inaugurada en 1872 y centro de la vida cívica de Reconquista.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowgn7oG6VDpUYFxiMle61oycYHb3nxY5B3VbRm6OD80DIoBPnBeg4TLk&s=10"
+    },
+
+    {
+        id: "catedral-inmaculada-concepcion",
+
+        city: "reconquista",
+
+        name: "Catedral de la Inmaculada Concepción",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Principal templo católico de Reconquista, reconocido por sus vitrales realizados por Antonio Estruch.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlJVnbL3Kvi0YAH6i8PlriOleZDI-5FhjmJ5m-nGOKC7I5g3B7qJ5m_A&s=10"
+    },
+
+    {
+        id: "museo-historico-reconquista",
+
+        city: "reconquista",
+
+        name: "Museo Histórico de Reconquista",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia del norte santafesino y la fundación de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8tMr1S7Wf7xs5XWmOBIWB8wfh_Ly0nTLriQRzwqo0M6UmzmWDA-5egM&s=10"
+    },
+
+    {
+        id: "museo-arqueologia-paleontologia",
+
+        city: "reconquista",
+
+        name: "Museo Municipal de Arqueología y Paleontología",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Museo con importantes colecciones arqueológicas y paleontológicas del norte de Santa Fe.",
+
+        image: "https://www.reconquistahoy.com/content/bucket/5/72545w620h450.jpg"
+    },
+
+    {
+        id: "museo-julio-pagano",
+
+        city: "reconquista",
+
+        name: "Museo de Arte Julio Pagano",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Museo de arte que alberga exposiciones de artistas regionales y nacionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfFORz1bvEneB_A-faIfG6MKYNoynhR-ds3BnRTc15XrTYpBJg5IpWNXn&s=10"
+    },
+
+    {
+        id: "observatorio-astronomico",
+
+        city: "reconquista",
+
+        name: "Observatorio Astronómico Municipal",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Espacio educativo y científico dedicado a la observación astronómica y actividades de divulgación.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2idxrko1U2XEA7MbNn9gsdaOFtcEcYqp44lZ03PPQC_BxOX3WS9MRjWzE&s=10"
+    },
+
+    {
+        id: "complejo-cultural-la-estacion",
+
+        city: "reconquista",
+
+        name: "Complejo Cultural La Estación",
+
+        category: [
+            "Teatro",
+            "Arquitectura"
+        ],
+
+        description:
+            "Centro cultural donde se realizan conciertos, muestras y espectáculos.",
+
+        image: "https://www.serargentino.com/public/images/2020/12/16090670060-Complejo-Cultural-y-Recreativo-La-Estacin-p-773x458.jpg"
+    },
+
+    {
+        id: "puerto-reconquista",
+
+        city: "reconquista",
+
+        name: "Puerto Reconquista",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Puerto fluvial ubicado sobre el arroyo San Jerónimo, clave para el desarrollo económico de la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDiB6mBlUpY2sh9FtEDdExRlvMv9y09Lj7pcjw8WT_dWyDBawCQe6dv5R&s=10"
+    },
+
+    {
+        id: "complejo-gente-del-agua",
+
+        city: "reconquista",
+
+        name: "Complejo Gente del Agua",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza"
+        ],
+
+        description:
+            "Pasarelas y senderos interpretativos para recorrer la selva en galería y los humedales del Jaaukanigás.",
+
+        image: "https://www.reconquistahoy.com/content/bucket/7/101087w790h444c.jpg.webp"
+    },
+
+    {
+        id: "museo-de-la-colonizacion",
+
+        city: "esperanza",
+
+        name: "Museo de la Colonización",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que narra la historia de la primera colonia agrícola organizada del país y de los inmigrantes que fundaron Esperanza.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmJpS9s_B21mk1LfD-FTkAeGU4tBJmXgJNT7rnYY5_UrW8b4umB0DMp0e&s=10"
+    },
+
+    {
+        id: "parque-de-la-agricultura",
+
+        city: "esperanza",
+
+        name: "Parque de la Agricultura",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Principal espacio verde de Esperanza, con lago artificial, laberinto, Museo de la Máquina Agrícola y Ciudad de los Niños.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Parque_Nacional_de_la_Agricultura_-_Esperanza_%28Santa_Fe%29_2.jpg"
+    },
+
+    {
+        id: "museo-de-la-maquina-agricola",
+
+        city: "esperanza",
+
+        name: "Museo de la Máquina Agrícola",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Exhibe maquinaria agrícola histórica utilizada durante la colonización y el desarrollo productivo de la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDsLOVOVE_cnoSru6TJtvDuSMeFZ9GK8aNlGzyNGEKg&s=10"
+    },
+
+    {
+        id: "plaza-san-martin-esperanza",
+
+        city: "esperanza",
+
+        name: "Plaza San Martín",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Principal plaza céntrica de Esperanza, rodeada por edificios históricos y monumentos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyorsyI_GKmiBFv4BTBExJlIWUYb_A4d2SKKUVA5R0w&s=10"
+    },
+
+    {
+        id: "basilica-natividad",
+
+        city: "esperanza",
+
+        name: "Basílica de la Natividad de la Santísima Virgen",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Basílica declarada Bien de Interés Histórico Nacional y uno de los templos más importantes de la ciudad.",
+
+        image: "https://www.esperanzadiaxdia.com.ar/galeria/fotos/2026/05/05/m_1778015002.jpg"
+    },
+
+    {
+        id: "iglesia-evangelica-esperanza",
+
+        city: "esperanza",
+
+        name: "Iglesia Evangélica del Río de la Plata",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Histórico templo representativo de la inmigración europea en Esperanza.",
+
+        image: "https://www.esperanzadiaxdia.com.ar/galeria/fotos/2022/07/08/m_Iglesia-Evangelica-Esperanza.jpg"
+    },
+
+    {
+        id: "iglesia-ortodoxa-san-jorge",
+
+        city: "esperanza",
+
+        name: "Iglesia Ortodoxa San Jorge",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Iglesia ortodoxa declarada Bien de Interés Histórico Nacional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTP2b7z-KRpYdmhwxV-svouzt-Pre4HumQn27wdNgLrw4wjL6XPZIuOS4&s=10"
+    },
+
+    {
+        id: "camping-municipal-esperanza",
+
+        city: "esperanza",
+
+        name: "Camping Municipal",
+
+        category: [
+            "Naturaleza"
+        ],
+
+        description:
+            "Predio recreativo ubicado sobre el río Salado, ideal para actividades al aire libre.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ891ClEr7oRudL6RTnCvrdJf3w_tikiF4wwDrOz8Bj507Fz_Xz4jS1QD4&s=10"
+    },
+
+    {
+        id: "casa-de-la-colonia",
+
+        city: "esperanza",
+
+        name: "Casa de la Colonia",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Uno de los edificios más antiguos de Esperanza, sede de actividades culturales y exposiciones.",
+
+        image: "https://elcolonodeloeste.com.ar/wp-content/uploads/2021/08/museo-borla.jpg"
+    },
+
+
+    {
+        id: "palacio-municipal-esperanza",
+
+        city: "esperanza",
+
+        name: "Palacio Municipal",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Edificio histórico sede del gobierno municipal, ubicado frente a la Plaza San Martín.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlzeq_OLwacMoK7kMAbMG5s8TeNTyAZFYHIV35kGuFhnp4c5nIpw0TtaI&s=10"
+    },
+
+    {
+        id: "centro-cultural-dante-alighieri",
+
+        city: "esperanza",
+
+        name: "Centro Cultural Municipal Dante Alighieri",
+
+        category: [
+            "Teatro"
+        ],
+
+        description:
+            "Principal sala cultural de Esperanza, donde se realizan espectáculos, conciertos y exposiciones.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvo-MXjCvV8Ur7LkvGEVP58LJqLtR94g5JYfgdNlWWCIx86Eer2kttLc&s=10"
+    },
+
+    {
+        id: "parque-nacional-islas-de-santa-fe",
+
+        city: "puerto-gaboto",
+
+        name: "Parque Nacional Islas de Santa Fe",
+
+        category: [
+            "Parques Nacionales",
+            "Reservas Naturales",
+            "Naturaleza"
+        ],
+
+        description:
+            "Área protegida del delta del Paraná con humedales, fauna autóctona, senderos, navegación y avistaje de aves.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK_IFslMp2VWZ3HejPNWW8qlBuNGaz67AHsc0RD8IBxBU83TrGhWmDsCN&s=10"
+    },
+
+    {
+        id: "fuerte-sancti-spiritu",
+
+        city: "puerto-gaboto",
+
+        name: "Sitio Histórico Fuerte Sancti Spiritu",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Lugar donde Sebastián Gaboto fundó en 1527 el primer asentamiento español en el actual territorio argentino.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1cMfWp85I9S_ZqjDPNbQ0ldvpkAIfsPEvRSPwxaBh5kJVl5-8-EWzS09&s=10"
+    },
+    {
+        id: "costanera-puerto-gaboto",
+
+        city: "puerto-gaboto",
+
+        name: "Costanera de Puerto Gaboto",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo sobre el río Coronda con miradores, espacios verdes y embarcaderos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHicxoV1S-dcV_6TmFdOvtR5V6kDNAMOajS3DXp4ThW9osHO6WIouf-tt1&s=10"
+    },
+
+    {
+        id: "desembocadura-rio-carcarana",
+
+        city: "puerto-gaboto",
+
+        name: "Desembocadura del Río Carcarañá",
+
+        category: [
+            "Naturaleza"
+        ],
+
+        description:
+            "Punto donde el río Carcarañá desemboca en el Coronda, formando uno de los paisajes naturales más importantes de la región.",
+
+        image: "https://media.airedesantafe.com.ar/p/9e56cb0765352b4bcd7cf58590025a7a/adjuntos/268/imagenes/003/664/0003664023/1200x0/smart/rio-carcarana-dji_0215_mthjpg.jpg"
+    },
+
+    {
+        id: "tunel-subfluvial",
+
+        city: "parana",
+
+        name: "Túnel Subfluvial Raúl Uranga - Carlos Sylvestre Begnis",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Obra de ingeniería que une las provincias de Entre Ríos y Santa Fe bajo el río Paraná.",
+
+        image: "https://www.serargentino.com/public/images/2020/08/15979497290-tunel-subfluvial-773x458.jpg"
+    },
+
+    {
+        id: "costanera-parana",
+
+        city: "parana",
+
+        name: "Costanera de Paraná",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo costero con vistas al río Paraná, playas, restaurantes y espacios recreativos.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7e/a5/e1/caption.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "parque-urquiza-parana",
+
+        city: "parana",
+
+        name: "Parque Urquiza",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Principal parque de la ciudad, ubicado sobre las barrancas del río Paraná.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI62W8xthB5Z3e6VNouFQM80aRO0GRFMWEilAypQWncw&s=10"
+    },
+
+    {
+        id: "catedral-parana",
+
+        city: "parana",
+
+        name: "Catedral Metropolitana Nuestra Señora del Rosario",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Principal templo católico de Paraná, declarado Monumento Histórico Nacional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJnPJL5ZBN5-e5NT8LJ-94cqhcbrBEu_4w-KDSDzjpRnmoGo5R3CdG84&s=10"
+    },
+
+    {
+        id: "plaza-1-de-mayo",
+
+        city: "parana",
+
+        name: "Plaza 1° de Mayo",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Paraná, rodeada por edificios históricos y la Catedral.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/64/74/15/vista-de-la-plaza.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "casa-de-gobierno-entre-rios",
+
+        city: "parana",
+
+        name: "Casa de Gobierno de Entre Ríos",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Palacio gubernamental inaugurado en 1900, uno de los edificios más emblemáticos de la provincia.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ47KQb_lG_nK2W2flaK6QQzOIgB0ciMgjGWl86pUNSQ&s=10"
+    },
+
+    {
+        id: "museo-martiniano-leguizamon",
+
+        city: "parana",
+
+        name: "Museo Histórico Martiniano Leguizamón",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia entrerriana y a la etapa en que Paraná fue capital de la Confederación Argentina.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6gtLzCvis2d-cOm0eDB4yMD3F_GeZ-grILfDCzKo-Q&s=10"
+    },
+
+    {
+        id: "museo-provincial-bellas-artes",
+
+        city: "parana",
+
+        name: "Museo Provincial de Bellas Artes Dr. Pedro E. Martínez",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Principal museo de arte de Entre Ríos con importantes colecciones nacionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRca_xGo7fQzUBa6DVysinjtDs_8bYViECs5ZDYW6ABqcNGxcLRMr9oqWo&s=10"
+    },
+
+    {
+        id: "museo-ciencias-naturales-parana",
+
+        city: "parana",
+
+        name: "Museo Provincial de Ciencias Naturales y Antropológicas",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Museo con colecciones de paleontología, arqueología, flora y fauna de Entre Ríos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1HoklBe1m6xjvqugV7pKk8Vwf4z65pdS1AJ2fh9K7JboYaEcHDZpJDw&s=10"
+    },
+
+    {
+        id: "teatro-3-de-febrero",
+
+        city: "parana",
+
+        name: "Teatro 3 de Febrero",
+
+        category: [
+            "Teatro",
+            "Arquitectura"
+        ],
+
+        description:
+            "Histórico teatro inaugurado en 1852, uno de los más importantes del litoral argentino.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEow3SQH2o0LkKa-4n1jbS2M1DklQWfJY1Fk01BKVJ-9HgLMBelpyqVk&s=10"
+    },
+
+    {
+        id: "parque-nuevo",
+
+        city: "parana",
+
+        name: "Parque Nuevo Humberto Varisco",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran espacio verde con senderos, barrancas y miradores hacia el río Paraná.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFd_BVuGLP1bo03d0XpAYLZ-drmqWMm910KHNYJ4KdK-M-Szfr9Fra5ct&s=10"
+    },
+
+    {
+        id: "balneario-thompson",
+
+        city: "parana",
+
+        name: "Balneario Thompson",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Principal balneario de Paraná, muy concurrido durante el verano.",
+
+        image: "https://www.parana.gob.ar/writable/uploads/954070bef3b9a75a3bce9c8105ce4c42.jpg"
+    },
+
+    {
+        id: "puerto-nuevo-parana",
+
+        city: "parana",
+
+        name: "Puerto Nuevo",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Puerto histórico sobre el río Paraná, importante para el desarrollo comercial de la ciudad.",
+
+        image: "https://paranahaciaelmundo.com/wp-content/uploads/2021/05/s-n-parana-muelle-del-puerto-nuevo-002.jpg"
+    },
+
+    {
+        id: "carnaval-del-pais",
+
+        city: "gualeguaychu",
+
+        name: "Carnaval del País",
+
+        category: [
+            "Carnaval",
+            "Fiesta Nacional"
+        ],
+
+        description:
+            "La fiesta más emblemática de Gualeguaychú y uno de los carnavales más importantes de Sudamérica. Cada verano, las comparsas desfilan en el Corsódromo con imponentes carrozas, batucadas, vestuarios y coreografías ante miles de espectadores. Fue declarado Fiesta Nacional y es considerado el espectáculo teatral a cielo abierto más grande de Argentina.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bVbgS8dBuhLHhrcaTWf2Y__0kZxU2sqeLcypklqYUVdhA6cHnYVIqL45&s=10"
+    },
+
+    {
+        id: "costanera-gualeguaychu",
+
+        city: "gualeguaychu",
+
+        name: "Costanera de Gualeguaychú",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo costero sobre el río Gualeguaychú con bares, restaurantes y miradores.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc70fGHKRNhGiQ4aENPnYDgSP-dbiB3_X4lZOmjpgi_cebiT5WcnArJck&s=10"
+    },
+
+    {
+        id: "corsodromo",
+
+        city: "gualeguaychu",
+
+        name: "Corsódromo",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Escenario del Carnaval del País, considerado el espectáculo a cielo abierto más importante de Argentina.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Corsodromo_de_gualeguaychu_1997.jpg"
+    },
+
+    {
+        id: "museo-del-carnaval",
+
+        city: "gualeguaychu",
+
+        name: "Museo del Carnaval",
+
+        category: [
+            "Museo",
+            "Carnaval"
+        ],
+
+        description:
+            "Museo dedicado a la historia, trajes y carrozas del famoso Carnaval del País.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1RwZrhGDIBzA11mMCjzAX8DULaQNH87PhznbqkTEiw&s=10"
+    },
+
+    {
+        id: "plaza-san-martin-gualeguaychu",
+
+        city: "gualeguaychu",
+
+        name: "Plaza San Martín",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Gualeguaychú, rodeada por edificios históricos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ycqy2KrbjpFe6huyxccZZKjdOnPDPVCX0wBOIFskC1hsb6sRypVE8pTi&s=10"
+    },
+
+    {
+        id: "catedral-san-jose",
+
+        city: "gualeguaychu",
+
+        name: "Catedral San José",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Principal templo católico de la ciudad, ubicado frente a la Plaza San Martín.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Gualeguaych%C3%BA_-_Catedral_1.jpg"
+    },
+
+    {
+        id: "teatro-gualeguaychu",
+
+        city: "gualeguaychu",
+
+        name: "Teatro Gualeguaychú",
+
+        category: [
+            "Teatro",
+            "Arquitectura"
+        ],
+
+        description:
+            "Histórico teatro inaugurado en 1914 y uno de los principales espacios culturales de Entre Ríos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2S14QcEJyLjEERTzoVITxr4qJ-QyAEiDfJMnPIml7u-eQKN2bZ1t9XTo&s=10"
+    },
+
+    {
+        id: "palacio-municipal-gualeguaychu",
+
+        city: "gualeguaychu",
+
+        name: "Palacio Municipal",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Edificio histórico sede del gobierno municipal.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3kMTi0Z5fiUaC0cnigA2BLx850yAQ3bd3ZlA5Fg-pKShU9-j05kZpmRp&s=10"
+    },
+
+    {
+        id: "parque-unzue",
+
+        city: "gualeguaychu",
+
+        name: "Parque Unzué",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran parque ribereño con espacios recreativos, camping y playas.",
+
+        image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1638657916.jpg"
+    },
+
+    {
+        id: "balneario-solar-del-este",
+
+        city: "gualeguaychu",
+
+        name: "Balneario Solar del Este",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Balneario sobre el río Gualeguaychú, muy visitado durante el verano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHe2jjD-BUjcJWFkLJ6xnKtWyf30F3Uez3HW0V9OC6T0vuduywQSp3wIp&s=10"
+    },
+
+    {
+        id: "isla-libertad",
+
+        city: "gualeguaychu",
+
+        name: "Isla Libertad",
+
+        category: [
+            "Naturaleza"
+        ],
+
+        description:
+            "Isla ubicada frente a la costanera, ideal para actividades náuticas y recreativas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaIKOjv-AvVCQL2QtaE0ooZM2o-SfZJYuHmeE-joGIdsOgpuxCpo4OEY&s=10"
+    },
+
+    {
+        id: "puerto-gualeguaychu",
+
+        city: "gualeguaychu",
+
+        name: "Puerto de Gualeguaychú",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Puerto histórico que impulsó el crecimiento económico y comercial de la ciudad.",
+
+        image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1558910080.jpg"
+    },
+
+    {
+        id: "mercado-del-munilla",
+
+        city: "gualeguaychu",
+
+        name: "Mercado del Munilla",
+
+        category: [
+            "Gastronomía"
+        ],
+
+        description:
+            "Polo gastronómico con restaurantes y propuestas regionales frente al río.",
+
+        image: "https://gualeguaychu.tur.ar/apps/webturismo/ftp/catalogo/landscape_h__Gualeguaychu_1661605292.jpg"
+    },
+
+    {
+        id: "reserva-las-piedras",
+
+        city: "gualeguaychu",
+
+        name: "Reserva Natural Las Piedras",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza"
+        ],
+
+        description:
+            "Área protegida con senderos, humedales y gran diversidad de flora y fauna autóctona.",
+
+        image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1662222542.jpg"
+    },
+
+    {
+        id: "puente-mendez-casanova",
+
+        city: "gualeguaychu",
+
+        name: "Puente Méndez Casariego",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Puente histórico que conecta distintos sectores de la ciudad y ofrece vistas panorámicas del río.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1xbG8xF1fPtyfT-3IAvXfNM8V_NL3gPDmzAtTDjS_jXqLHNSUSVOfr0&s=10"
+    },
+
+    {
+        id: "termas-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Termas Colón",
+
+        category: [
+            "Termas"
+        ],
+
+        description:
+            "Complejo termal con piscinas de distintas temperaturas, spa y servicios recreativos, uno de los principales atractivos turísticos de Entre Ríos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUT7Vf3F82_N4SMQW8csMpLhPWhi1A5Mro5KkIEhqZtSw2eq90T94ryIq&s=10"
+    },
+
+    {
+        id: "playa-inkier",
+
+        city: "colon-entre-rios",
+
+        name: "Playa Inkier",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Playa de arena sobre el río Uruguay, muy concurrida durante el verano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaWKzSiPEVMNS7Stzm2haIkY8f_QN7f9P0VeGr7JlZjrfBW3Ya6n2YSbp&s=10"
+    },
+
+    {
+        id: "playa-norte-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Playa Norte",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "La playa más extensa y popular de Colón, ideal para disfrutar del río Uruguay.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c0/22/a9/playa-norte.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "costanera-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Costanera de Colón",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo costero con vistas al río Uruguay, playas, restaurantes y espacios recreativos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EC00O7HsNQvT1Wn72Y0uugR9MmDDAS7WtNNVbtQNmdKJVrHr6iF9jUDK&s=10"
+    },
+
+    {
+        id: "parque-quiros",
+
+        city: "colon-entre-rios",
+
+        name: "Parque Dr. Herminio J. Quirós",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran parque urbano con miradores al río, anfiteatro y espacios deportivos.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Parque_Quir%C3%B3s%2C_Col%C3%B3n_-_1.jpg"
+    },
+
+    {
+        id: "molino-forclaz",
+
+        city: "colon-entre-rios",
+
+        name: "Molino Forclaz",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Molino histórico construido por inmigrantes suizos en el siglo XIX y declarado Monumento Histórico Nacional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZu_6ILWmOUeAgg7R-4hEX4Dcf5BBPme1xzc0i24u5hBVSVJHkzsA7jTQR&s=10"
+    },
+
+    {
+        id: "museo-provincial-molino-forclaz",
+
+        city: "colon-entre-rios",
+
+        name: "Museo Molino Forclaz",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que preserva la historia de la familia Forclaz y de la inmigración agrícola en Entre Ríos.",
+
+        image: "https://www.entrerios.gov.ar/cultura/wp-content/uploads/2021/06/DSC_0121.jpg"
+    },
+
+    {
+        id: "parque-nacional-el-palmar",
+
+        city: "colon-entre-rios",
+
+        name: "Parque Nacional El Palmar",
+
+        category: [
+            "Parques Nacionales",
+            "Naturaleza"
+        ],
+
+        description:
+            "Área protegida famosa por sus extensos palmares de yatay, senderos, fauna silvestre y playas sobre el río Uruguay.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NqhAq5h3PPXSYRn42MlE_7x-H0tEKM2szyvVcdVDYgIhYcqpFbLweKc&s=10"
+    },
+
+    {
+        id: "puerto-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Puerto de Colón",
+
+        category: [
+            "Historia"
+        ],
+
+        description:
+            "Puerto histórico sobre el río Uruguay que impulsó el desarrollo comercial y turístico de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-tqL1ZE24NgFyC2Mf9XpqVGdW6J4t0-oWYG-CCSNUGJZfDAVN9DZAQg&s=10"
+    },
+
+    {
+        id: "plaza-san-martin-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Plaza San Martín",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Principal plaza de Colón, rodeada de edificios históricos y comercios.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/15/3b/47/69/estatua-del-gral-san.jpg"
+    },
+
+    {
+        id: "basilica-santos-justo-pastor",
+
+        city: "colon-entre-rios",
+
+        name: "Basílica Santos Justo y Pastor",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo histórico y uno de los edificios religiosos más importantes de Colón.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/13/ab/e0/85/frente-de-la-iglesia.jpg"
+    },
+
+    {
+        id: "museo-historico-colon",
+
+        city: "colon-entre-rios",
+
+        name: "Museo Histórico Regional de Colón",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia de la ciudad y de la colonización de la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS138FigcKsuLQqLzYahjNNOpb8ER0eajCpK0kdBM_4imTXmvGhY1kC_vRr&s=10"
+    },
+
+    {
+        id: "puente-internacional-artigas",
+
+        city: "colon-entre-rios",
+
+        name: "Puente Internacional General Artigas",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Puente internacional que une Colón con Paysandú (Uruguay), uno de los pasos fronterizos más importantes del litoral.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsq4Fg9-hDi2av_ouQ1rdx6eArRSQ0pNso4HYfvQAaOO3-xtj8Fteu5Q&s=10"
+    },
+
+    {
+        id: "represa-salto-grande",
+
+        city: "concordia",
+
+        name: "Complejo Hidroeléctrico Salto Grande",
+
+        category: [
+            "Arquitectura",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gigantesca obra de ingeniería sobre el río Uruguay que une Argentina y Uruguay, con lago artificial, miradores y espacios recreativos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFZyREAVROgaAC7F_JRiK6tFbqANGiLALOUO_Sdny_A&s=10"
+    },
+
+    {
+        id: "lago-salto-grande",
+
+        city: "concordia",
+
+        name: "Lago de Salto Grande",
+
+        category: [
+            "Lagunas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran espejo de agua artificial con playas, actividades náuticas, pesca y espacios naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu6W9LhasLFpuhOXQFPegf_32uxMwA1xVehqKOiOZHT_wODbWxyu2p3Ph5&s=10"
+    },
+
+    {
+        id: "termas-del-dayman",
+
+        city: "concordia",
+
+        name: "Termas del Daymán",
+
+        category: [
+            "Termas"
+        ],
+
+        description:
+            "Complejo termal con piscinas de aguas calientes, parques acuáticos y servicios turísticos.",
+
+        image: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39440742.jpg?k=ae6ea58644901e6536e70ba193a6ac1643f4c84a78c431bf1a8b8dc537f2068e&o="
+    },
+
+    {
+        id: "termas-punta-viracho",
+
+        city: "concordia",
+
+        name: "Termas Punta Viracho",
+
+        category: [
+            "Termas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Complejo termal ubicado junto al lago Salto Grande, rodeado de naturaleza.",
+
+        image: "https://www.concordia.gob.ar/sites/default/files/viracho_1.jpg"
+    },
+
+    {
+        id: "costanera-concordia",
+
+        city: "concordia",
+
+        name: "Costanera de Concordia",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo junto al río Uruguay con parques, playas, restaurantes y vistas panorámicas.",
+
+        image: "https://www.concordia.gob.ar/sites/default/files/concordia-costanera.jpg"
+    },
+
+    {
+        id: "playa-nebel",
+
+        city: "concordia",
+
+        name: "Playa Nébel",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Una de las playas más conocidas de Concordia, ubicada sobre el río Uruguay.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqRJoDNxWdmOGhEBijMT-Xd74wvFRqw_P4cRcTjLvA9G3CJsjd6JMOBw&s=10"
+    },
+
+    {
+        id: "parque-san-carlos",
+
+        city: "concordia",
+
+        name: "Parque San Carlos",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran parque histórico con bosques, miradores al río Uruguay y senderos naturales.",
+
+        image: "https://www.concordia.gob.ar/sites/default/files/san%20carlos_3.jpg"
+    },
+
+    {
+        id: "castillo-san-carlos",
+
+        city: "concordia",
+
+        name: "Castillo San Carlos",
+
+        category: [
+            "Castillo",
+            "Historia",
+            "Arquitectura",
+            "Ruinas"
+        ],
+
+        description:
+            "Ruinas de un antiguo castillo construido en el siglo XIX, rodeado de leyendas y misterios.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpzRCsuW6mHe8r8-ZPNRzXLgTzKhBiP4LYDjYwQr55nUJ7Oo4HlT02JM_&s=10"
+    },
+
+    {
+        id: "jardin-botanico-concordia",
+
+        city: "concordia",
+
+        name: "Jardín Botánico de Concordia",
+
+        category: [
+            "Jardines",
+            "Naturaleza"
+        ],
+
+        description:
+            "Espacio verde con especies vegetales autóctonas y senderos educativos.",
+
+        image: "https://www.concordia.gob.ar/sites/default/files/san-valentin-2_0.jpg"
+    },
+
+    {
+        id: "museo-regional-palacio-arruabarrena",
+
+        city: "concordia",
+
+        name: "Museo Regional Palacio Arruabarrena",
+
+        category: [
+            "Museo",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Palacio histórico construido a comienzos del siglo XX que conserva objetos y documentos de la historia local.",
+
+        image: ""
+    },
+
+    {
+        id: "catedral-san-antonio-padua",
+
+        city: "concordia",
+
+        name: "Catedral San Antonio de Padua",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Principal templo católico de Concordia y uno de los edificios históricos de la ciudad.",
+
+        image: "https://www.concordia.gob.ar/sites/default/files/sdsdsd.jpg"
+    },
+
+    {
+        id: "plaza-25-de-mayo-concordia",
+
+        city: "concordia",
+
+        name: "Plaza 25 de Mayo",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Concordia, rodeada por edificios históricos y culturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKU3NLDtBx1AHohMDwuGcgzulaUkq9IJXSbgEfKCafDaTnJEKnBYKsjEY&s=10"
+    },
+
+    {
+        id: "museo-del-hombre-y-la-tecnologia",
+
+        city: "concordia",
+
+        name: "Museo del Hombre y la Tecnología",
+
+        category: [
+            "Museo"
+        ],
+
+        description:
+            "Museo dedicado a la evolución tecnológica y la historia productiva de la región.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c6/aa/e4/museo-del-hombre-y-la.jpg?w=900&h=-1&s=1"
+    },
+
+    {
+        id: "autodromo-concordia",
+
+        city: "concordia",
+
+        name: "Autódromo Ciudad de Concordia",
+
+        category: [
+            "Deporte"
+        ],
+
+        description:
+            "Circuito automovilístico donde se realizan competencias nacionales.",
+
+        image: "https://lasemanaentredosrios.com/wp-content/uploads/2025/05/Autodro-Cdia.jpg"
+    },
+
+    {
+        id: "termas-federacion",
+
+        city: "federacion",
+
+        name: "Termas de Federación",
+
+        category: [
+            "Termas"
+        ],
+
+        description:
+            "Uno de los complejos termales más importantes de Argentina, famoso por sus aguas termales naturales, piscinas, parque acuático y spa.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiw-QjW2hEGQYElyJJaoyy9XfCq-PiAL3ZuUpELMBnb1ZwJ8FnfNVhC9B&s=10"
+    },
+
+    {
+        id: "parque-acuatico-federacion",
+
+        city: "federacion",
+
+        name: "Parque Acuático Federación",
+
+        category: [
+            "Aventura",
+            "Termas"
+        ],
+
+        description:
+            "Parque acuático dentro del complejo termal con toboganes, juegos y atracciones para toda la familia.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/07/15/e9/toboganes-y-play-ground.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "costanera-federacion",
+
+        city: "federacion",
+
+        name: "Costanera de Federación",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo frente al lago de Salto Grande con playas, espacios verdes y vistas panorámicas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1SMK3yo8jekUiWXZjBufxps1fCBFvZ4DVRHv8lqlsNvqcc59uS5c1f3MY&s=10"
+    },
+
+    {
+        id: "lago-salto-grande-federacion",
+
+        city: "federacion",
+
+        name: "Lago Salto Grande",
+
+        category: [
+            "Lagunas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran lago artificial formado por la represa de Salto Grande, ideal para pesca, deportes náuticos y actividades al aire libre.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGITtbtxmKqPlpBzELvidKcLnSEtetiJ616IetLmrEdNV53o78gYO90gmT&s=10"
+    },
+
+    {
+        id: "playa-baly",
+
+        city: "federacion",
+
+        name: "Playa Baly",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Una de las playas más conocidas de Federación, ubicada sobre el lago de Salto Grande.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SAiFeKPc1fgbRkl9qrHRFtOcoN4pcLTxOntkjcN4JBocmckMh7J-8rpa&s=10"
+    },
+
+    {
+        id: "playa-grande-federacion",
+
+        city: "federacion",
+
+        name: "Playa Grande",
+
+        category: [
+            "Playas"
+        ],
+
+        description:
+            "Playa familiar con arena y servicios turísticos a orillas del lago.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FDCWpMBsHbX4wpzy44_SYOXQsHysmgFEgIfmNfn3HUJm8jo5ZjzBemg&s=10"
+    },
+
+    {
+        id: "antigua-federacion",
+
+        city: "federacion",
+
+        name: "Antigua Federación",
+
+        category: [
+            "Historia",
+            "Paranormal",
+            "Ruinas"
+        ],
+
+        description:
+            "Restos de la antigua ciudad de Federación, trasladada en la década de 1970 por la construcción del embalse de Salto Grande. Sus ruinas y recuerdos forman parte de la identidad local.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7imj3Dh6ROJvjjHWd5AE42KVswItcxr3RBGDtGop38TtAsYPoQs0NVw&s=10"
+    },
+
+    {
+        id: "museo-de-los-asentamientos",
+
+        city: "federacion",
+
+        name: "Museo de los Asentamientos",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que conserva la memoria de la antigua Federación y del proceso de traslado de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqe8T4mzdEC7U5CgpzgsHSAE_bf1zysLtkPaJGSc3BAw&s=10"
+    },
+
+    {
+        id: "reserva-natural-chaviyu",
+
+        city: "federacion",
+
+        name: "Reserva Natural Chaviyú",
+
+        category: [
+            "Reservas Naturales",
+            "Bosques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Área natural protegida con monte nativo, senderos y biodiversidad autóctona.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAIHh-keea8fp4BMX6fjJ7IKm8uDmVBe6B_0uuZzYE0MFKG1sbJoTIOPp&s=10"
+    },
+
+    {
+        id: "plaza-libertad-federacion",
+
+        city: "federacion",
+
+        name: "Plaza Libertad",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de la ciudad, punto de encuentro rodeado de edificios históricos y comerciales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6q-kgUoy8GEeoZIKDRlX1xgnm3PpCIxZcV9ftDSRjQ&s=10"
+    },
+
+    {
+        id: "iglesia-inmaculada-concepcion-federacion",
+
+        city: "federacion",
+
+        name: "Iglesia Inmaculada Concepción",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo principal de Federación, destacado por su arquitectura y valor histórico.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/2a/88/63/parroquia-inmaculada.jpg"
+    },
+
+    {
+        id: "puerto-federacion",
+
+        city: "federacion",
+
+        name: "Puerto de Federación",
+
+        category: [
+            "Naturaleza",
+            "Costaneras"
+        ],
+
+        description:
+            "Sector recreativo junto al lago con actividades náuticas y vistas del embalse.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeCD0D9qoyTmpzhpvACnoMUyoV5sAUtpP34rNg6egHQ&s=10"
+    },
+
+    {
+        id: "abadia-del-nino-dios",
+
+        city: "victoria-entre-rios",
+
+        name: "Abadía del Niño Dios",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Monasterio benedictino fundado en 1899, uno de los sitios religiosos más importantes de Entre Ríos, famoso por sus productos artesanales y su arquitectura.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUgEzeDXHoTa3aCgu0BtbkfGHLsBC5MAGMT00-dOrPQ&s=10"
+    },
+
+    {
+        id: "termas-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Termas de Victoria",
+
+        category: [
+            "Termas"
+        ],
+
+        description:
+            "Complejo termal con piscinas de aguas calientes, spa y servicios turísticos con vista al río Paraná.",
+
+        image: "https://www.turismoentrerios.com/victoria/img/termas.jpg"
+    },
+
+    {
+        id: "costanera-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Costanera de Victoria",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo junto al río Paraná con playas, restaurantes, miradores y espacios recreativos.",
+
+        image: "https://www.turismoentrerios.com/victoria/img/costanera.jpg"
+    },
+
+    {
+        id: "circuito-islas-y-humedales",
+
+        city: "victoria-entre-rios",
+
+        name: "Circuito de Islas y Humedales",
+
+        category: [
+            "Aventura",
+            "Naturaleza",
+            "Reservas Naturales"
+        ],
+
+        description:
+            "Excursiones fluviales para conocer la flora, fauna y paisajes naturales del delta entrerriano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY5d7BlBoHGkWWLFl457u8A-7YulJuuyxGRn0PgzgU5FOv8D90VaRpY0&s=10"
+    },
+
+    {
+        id: "casino-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Casino Victoria",
+
+        category: [
+            "Arquitectura"
+        ],
+
+        description:
+            "Complejo turístico ubicado frente al río Paraná con hotel, casino y espacios gastronómicos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleMMhzVF9VGkpedzX6sT7w93NSZGjcfB9eqWfLEmXU7FEpRWuzeDpO331&s=10"
+    },
+
+    {
+        id: "cerro-de-la-matanza",
+
+        city: "victoria-entre-rios",
+
+        name: "Cerro de la Matanza",
+
+        category: [
+            "Historia",
+            "Naturaleza"
+        ],
+
+        description:
+            "Sitio histórico y natural donde ocurrió la batalla entre pueblos originarios y expedicionarios españoles en el siglo XVII.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsq84nSjm7QH0L6MBMzdAWUOOjhw4V6vp03yBeSoneC9deJPhZTAfw8Y&s=10"
+    },
+
+
+    {
+        id: "iglesia-aranzazu",
+
+        city: "victoria-entre-rios",
+
+        name: "Iglesia Nuestra Señora de Aránzazu",
+
+        category: [
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo histórico construido en el siglo XIX y uno de los símbolos arquitectónicos de Victoria.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcStg7T4NKbVWOjb1QLD3y4sLJArX_pK9-WcfvVkmQpfko4d5Cr_2DftT&s=10"
+    },
+
+    {
+        id: "plaza-san-martin-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Plaza San Martín",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Victoria rodeada por edificios históricos y espacios culturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKpGhKBWTapx6-r7PtIZ0WGgj0bj5P5r06IQYCSb5K0Ep30Ig_bCdqVwS&s=10"
+    },
+
+    {
+        id: "puerto-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Puerto de Victoria",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Puerto histórico y punto de salida para excursiones por el río Paraná y sus islas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SiJAB-oSpkQqjoMbbyhMX5J9UmS47d4gqGfbAaxoaJcUeqqvDP4niW52&s=10"
+    },
+
+    {
+        id: "museo-del-ovni-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Museo del OVNI",
+
+        category: [
+            "Museo",
+            "Paranormal"
+        ],
+
+        description:
+            "Museo dedicado al fenómeno OVNI, con registros, investigaciones y relatos sobre avistamientos y misterios de la región de Victoria.",
+
+        image: "https://media.lacapital.com.ar/p/e7bc5631685957092ef775c1e0a6659a/adjuntos/203/imagenes/005/947/0005947959/1200x675/smart/el-museo-del-ovni-unico-el-pais-llevaba-cinco-anos-abierto-la-comunidad-y-el-han-pasado-miles-visitantes.jpg"
+    },
+
+    {
+        id: "carnaval-de-victoria",
+
+        city: "victoria-entre-rios",
+
+        name: "Carnaval de Victoria",
+
+        category: [
+            "Carnaval"
+        ],
+
+        description:
+            "Una de las fiestas populares más importantes de Entre Ríos, con comparsas, carrozas, música y espectáculos durante la temporada de verano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtC6sbFiMW_kulVlkrRHewuJ7eVzm4lUie366rO1XOoXRvlu6Fvo0tsL0&s=10"
+    },
+
+    {
+        id: "monte-de-los-ombues-victoria",
+
+        city: "victoria",
+
+        name: "Monte de los Ombúes",
+
+        category: [
+            "Naturaleza",
+            "Bosques",
+            "Reservas Naturales"
+        ],
+
+        description:
+            "Área natural cercana a Victoria donde se encuentra una concentración de antiguos ombúes, una especie característica de la región pampeana y litoral. Un paisaje único para recorrer y conocer la flora autóctona.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKWKdMnyVl00uln_MUBeAfqA0aTLFPQ30-h2fQIifZnYXm2p0nDabFSrT&s=10"
+    },
+
+    {
+        id: "termas-villa-elisa",
+
+        city: "villa-elisa",
+
+        name: "Termas de Villa Elisa",
+
+        category: [
+            "Termas",
+            "Naturaleza",
+            "Aventura"
+        ],
+
+        description:
+            "Complejo termal reconocido de Entre Ríos con piscinas de aguas termales, spa, alojamientos, parque acuático y amplios espacios naturales para descansar.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8Dty6lbKp30xaRDnRuqYtkOGFbiDXV3cKkRc-a4tZSeO5ljkUqoEAXke&s=10"
+    },
+
+    {
+        id: "palacio-san-jose",
+
+        city: "villa-elisa",
+
+        name: "Palacio San José",
+
+        category: [
+            "Historia",
+            "Arquitectura",
+            "Museo"
+        ],
+
+        description:
+            "Residencia histórica del general Justo José de Urquiza, uno de los monumentos históricos más importantes de Entre Ríos, ubicada cerca de Villa Elisa.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvvsP52IMP_v6BvwnAUi3kvWQZ927e3C0yn0EFA4lyjKkmCteEFpW0eQ&s=10"
+    },
+
+    {
+        id: "complejo-la-aurora-del-palmar",
+
+        city: "villa-elisa",
+
+        name: "La Aurora del Palmar",
+
+        category: [
+            "Naturaleza",
+            "Reservas Naturales",
+            "Aventura"
+        ],
+
+        description:
+            "Reserva natural privada cercana a Villa Elisa con palmares, senderos, fauna autóctona, actividades rurales y paisajes del litoral entrerriano.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/28/2a/73/casona-habitaciones-tipo.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "tren-historico-villa-elisa",
+
+        city: "villa-elisa",
+
+        name: "Tren Histórico de Villa Elisa",
+
+        category: [
+            "Historia",
+            "Aventura"
+        ],
+
+        description:
+            "Recorrido turístico ferroviario que conecta Villa Elisa con la zona rural y permite conocer paisajes tradicionales de Entre Ríos.",
+
+        image: "https://villaelisa.gov.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-10.15.35-AM.jpeg"
+    },
+
+    {
+        id: "plaza-san-martin-villa-elisa",
+
+        city: "villa-elisa",
+
+        name: "Plaza San Martín",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Villa Elisa, rodeada por edificios históricos, espacios verdes y la vida cotidiana de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWka5ApIMVlOIEpT1M4LKsrUz8ttGgpL0ZXg3fefcgml8jMUY_o5iY04&s=10"
+    },
+
+    {
+        id: "fiesta-nacional-del-inmigrante-villa-elisa",
+
+        city: "villa-elisa",
+
+        name: "Fiesta del Inmigrante de Villa Elisa",
+
+        category: [
+            "Fiesta Nacional",
+            "Historia",
+            "Gastronomía"
+        ],
+
+        description:
+            "Celebración que homenajea las raíces inmigrantes de la ciudad con gastronomía, música, danzas y tradiciones de las colectividades.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf8Eq0u3Mjz-n1IFMJYWNtHwQOTNl3QjX1Y3Wnrv3xoDtaMvCwainPuU&s=10"
+    },
+
+    {
+        id: "termas-de-chajari",
+
+        city: "chajari",
+
+        name: "Termas de Chajarí",
+
+        category: [
+            "Termas",
+            "Naturaleza",
+            "Aventura"
+        ],
+
+        description:
+            "Complejo termal ubicado en un amplio parque natural con piscinas de aguas termales, sectores recreativos, spa y espacios para descansar en familia.",
+
+        image: "https://www.serargentino.com/public/images/2023/03/16781557520-Termas-de-Chajar01-773x458.webp"
+    },
+
+
+    {
+        id: "reserva-natural-chajari",
+
+        city: "chajari",
+
+        name: "Reserva Natural de Chajarí",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Bosques"
+        ],
+
+        description:
+            "Área destinada a la conservación de ambientes naturales del litoral entrerriano, con flora y fauna autóctona.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrwQudtnXHXQBkd0NOXEGUBnA995xBRxS9MehR6TslU6l0N63DfAV_WQ&s=10"
+    },
+
+
+    {
+        id: "costanera-chajari",
+
+        city: "chajari",
+
+        name: "Costanera de Chajarí",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo al aire libre con espacios verdes y sectores recreativos para disfrutar del paisaje ribereño de la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VZYx3nLEstSwPcmlKXWanM3Qf1IWJQeA3qO3wTIpdDeh1qD7ljkZOpE&s=10"
+    },
+
+
+    {
+        id: "museo-regional-chajari",
+
+        city: "chajari",
+
+        name: "Museo Regional Camila Quiroga",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que conserva objetos, documentos y elementos vinculados a la historia de Chajarí y la identidad cultural de la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3J_wsbSkO831QrtFZk1EibyYye09wpnKfmeHNktlUg&s=10"
+    },
+
+
+    {
+        id: "plaza-libertad-chajari",
+
+        city: "chajari",
+
+        name: "Plaza Libertad",
+
+        category: [
+            "Plaza"
+        ],
+
+        description:
+            "Plaza principal de Chajarí, espacio histórico y de encuentro de la comunidad local.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SFRLm4u4E-2zCWtLfXuxsPM-M-sfr0YQKxkYahS9Ut4RHBhM5cBEcxU&s=10"
+    },
+
+
+    {
+        id: "fiesta-nacional-de-la-citricultura",
+
+        city: "chajari",
+
+        name: "Fiesta Nacional de la Citricultura",
+
+        category: [
+            "Fiesta Nacional",
+            "Gastronomía",
+            "Historia"
+        ],
+
+        description:
+            "Celebración que homenajea la principal actividad productiva de Chajarí, con espectáculos, gastronomía y tradiciones vinculadas a la producción citrícola.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9KgZ9qcF1SyoBuK03iq48_P5-AaAdsFCPHJCAq3xbQ&s=10"
+    },
+
+
+    {
+        id: "monumento-a-la-citricultura-chajari",
+
+        city: "chajari",
+
+        name: "Monumento a la Citricultura",
+
+        category: [
+            "Monumento",
+            "Historia"
+        ],
+
+        description:
+            "Monumento que representa la importancia de la producción citrícola en la identidad económica y cultural de Chajarí.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcHxjMKZPVu-2wxZPJjZMI7b33V21WfyWBJMam1t_jZ5qQdDQLOuZImE&s=10"
+    },
+
+
+    {
+        id: "estacion-ferrocarril-chajari",
+
+        city: "chajari",
+
+        name: "Estación de Ferrocarril de Chajarí",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Antigua estación ferroviaria que forma parte del patrimonio histórico de la ciudad y recuerda el desarrollo del ferrocarril en Entre Ríos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdKqtr3bJ-je6F3c3IraH3kyg3i0Tx01MPp2ezfnznA&s=10"
+    },
+
+    {
+        id: "parque-nacional-pre-delta",
+
+        city: "diamante",
+
+        name: "Parque Nacional Pre-Delta",
+
+        category: [
+            "Parques Nacionales",
+            "Naturaleza",
+            "Reservas Naturales",
+            "Bosques",
+            "Lagunas"
+        ],
+
+        description:
+            "Área protegida ubicada sobre el río Paraná que conserva ambientes de humedales, islas, lagunas y bosques del Delta. Ideal para recorrer senderos, observar aves, disfrutar paisajes naturales y conocer la biodiversidad del litoral entrerriano.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/90/e3/b1/parque-nacional-pre-delta.jpg?w=900&h=500&s=1"
+    },
+
+    {
+        id: "laguna-irupe-pre-delta",
+
+        city: "diamante",
+
+        name: "Laguna Irupé - Parque Nacional Pre-Delta",
+
+        category: [
+            "Lagunas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Laguna interior del Parque Nacional Pre-Delta rodeada de vegetación típica del humedal, reconocida por la presencia del irupé y la observación de aves.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/06/ba/22/d6/parque-nacional-pre-delta.jpg"
+    },
+
+
+    {
+        id: "senderos-pre-delta",
+
+        city: "diamante",
+
+        name: "Senderos del Parque Nacional Pre-Delta",
+
+        category: [
+            "Naturaleza",
+            "Aventura",
+            "Bosques"
+        ],
+
+        description:
+            "Circuitos de baja dificultad que atraviesan bosques, lagunas y ambientes del Delta del Paraná, ideales para caminatas y avistaje de fauna.",
+
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/06/ba/22/fa/parque-nacional-pre-delta.jpg"
+    },
+
+    {
+        id: "parque-arqueologico-santa-fe-la-vieja",
+
+        city: "cayasta",
+
+        name: "Parque Arqueológico Ruinas de Santa Fe la Vieja",
+
+        category: [
+            "Historia",
+            "Museo",
+            "Arquitectura",
+            "Monumento"
+        ],
+
+        description:
+            "Sitio arqueológico donde se conservan los restos de la primera fundación de Santa Fe realizada por Juan de Garay en 1573. Es uno de los patrimonios históricos más importantes de la provincia.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfZy7L-2ZZlQFE-zTJRYHDPYAA2OwDl1HlAU00LHiLWC_myib334CNg_8&s=10"
+    },
+
+
+    {
+        id: "museo-fundacional-santa-fe-la-vieja",
+
+        city: "cayasta",
+
+        name: "Museo Fundacional Argentina",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo ubicado dentro del Parque Arqueológico Santa Fe la Vieja que exhibe objetos recuperados durante las excavaciones y elementos de la vida colonial.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeybEhmn0bo81nixSY2MKwWR0OG8s2sMXk-MSgHVScB3-bpJ5igM6IP5c&s=10"
+    },
+
+
+    {
+        id: "iglesia-san-francisco-santa-fe-la-vieja",
+
+        city: "cayasta",
+
+        name: "Iglesia de San Francisco - Santa Fe la Vieja",
+
+        category: [
+            "Religión",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Restos de una de las iglesias pertenecientes a la antigua ciudad colonial de Santa Fe la Vieja, conservados dentro del parque arqueológico.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrX58QYcVP9F-YKRLJKGhvmt8dmutaVRrWazunYFAtf1O-DsklT7-6uk&s=10"
+    },
+
+
+    {
+        id: "casa-vera-muxica",
+
+        city: "cayasta",
+
+        name: "Casa Ambientada de Vera Muxica",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Reconstrucción histórica que recrea una vivienda colonial de la antigua Santa Fe la Vieja y permite conocer cómo era la vida cotidiana durante el período colonial.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvNwrj6GOtWtw6TWizb2yvCJAJKK9GttbTJyjqb-o1bF6_rW0l5Cdens&s=10"
+    },
+
+
+    {
+        id: "museo-del-recuerdo-cayasta",
+
+        city: "cayasta",
+
+        name: "Museo del Recuerdo",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo local instalado en un antiguo almacén de ramos generales que conserva objetos y testimonios de la historia de Cayastá.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElerU6N4mCDoMqI9ND8K7TS26XAo0bAItClmYxh9D6rl-Mx5xminMVEh2&s=10"
+    },
+
+
+    {
+        id: "costanera-cayasta",
+
+        city: "cayasta",
+
+        name: "Costanera de Cayastá",
+
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+
+        description:
+            "Paseo junto al río San Javier con paisajes del litoral, espacios recreativos y lugares ideales para disfrutar del entorno natural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGYNIPlPGCHpu7ELfLxM6UDK8g3Sc44PuQAnUItD1ZPVwdmzFvYlcyw&s=10"
+    },
+
+
+    {
+        id: "reserva-natural-cayasta",
+
+        city: "cayasta",
+
+        name: "Reserva Natural Cayastá",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Bosques"
+        ],
+
+        description:
+            "Área natural con ambientes del litoral santafesino, monte ribereño y fauna autóctona, ideal para caminatas y observación de aves.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6LyFv7GmaHQwU4phMBFXtI2oJccmdE5Gwbim5WlZkQeOHODz68wYzdV4&s=10"
+    },
+
+
+    {
+        id: "rio-san-javier-cayasta",
+
+        city: "cayasta",
+
+        name: "Río San Javier",
+
+        category: [
+            "Naturaleza",
+            "Aventura",
+            "Costaneras"
+        ],
+
+        description:
+            "Río característico del litoral santafesino donde se realizan actividades como pesca deportiva, paseos en lancha y avistaje de fauna.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8ZGi2tnhXuhBpHKnFY2kOxn3DQtWYEQLj8unUPw8rA&s=10"
+    },
+
+
+    {
+        id: "fiesta-provincial-de-la-yerra-cayasta",
+
+        city: "cayasta",
+
+        name: "Fiesta Provincial de la Yerra",
+
+        category: [
+            "Fiesta Nacional",
+            "Historia"
+        ],
+
+        description:
+            "Celebración tradicional que reúne costumbres gauchas, actividades rurales y expresiones culturales del litoral santafesino.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZ3qFvMhVKhv5AthpETtzEKw3T1yycyq0YcAl-WiUObyh3BZ3bWBolbkm&s=10"
+    },
+
+    {
+        id: "museo-historico-parroquial-san-javier",
+
+        city: "san-javier-santa-fe",
+
+        name: "Museo Histórico Parroquial",
+
+        category: [
+            "Museo",
+            "Historia",
+            "Religión"
+        ],
+
+        description:
+            "Museo que conserva objetos y testimonios de la época de las misiones jesuíticas, la comunidad mocoví y la historia de San Javier.",
+
+        image: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=449,fit=crop/mjEPp1zR5RhVQGnj/museo-bordes-claros-m2W4yVV5E2tnj8l1.png"
+    },
+
+
+    {
+        id: "parroquia-san-francisco-javier",
+
+        city: "san-javier-santa-fe",
+
+        name: "Parroquia San Francisco Javier",
+
+        category: [
+            "Religión",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo histórico de la ciudad vinculado a la tradición religiosa y cultural de San Javier.",
+
+        image: "https://www.sepernoticias.com.ar/noticias/2025/07-julio/0704/san-javier-282-aniversario-02.jpg"
+    },
+
+
+    {
+        id: "camino-de-la-costa-san-javier",
+
+        city: "san-javier-santa-fe",
+
+        name: "Camino de la Costa",
+
+        category: [
+            "Naturaleza",
+            "Aventura"
+        ],
+
+        description:
+            "Circuito turístico que recorre localidades costeras del noreste santafesino con paisajes de ríos, islas y humedales.",
+
+        image: "https://www.santafe.tur.ar/wp-content/uploads/sites/91/2025/12/11IMG_2809-scaled.jpg"
+    },
+
+
+    {
+        id: "peregrinacion-nautica-san-javier",
+
+        city: "san-javier-santa-fe",
+
+        name: "Peregrinación Náutica de San Francisco Javier",
+
+        category: [
+            "Religión",
+        ],
+
+        description:
+            "Tradicional procesión religiosa que recorre las aguas del río San Javier con la imagen de San Francisco Javier acompañada por embarcaciones y fieles. Es una de las celebraciones más representativas de la identidad costera de la ciudad.",
+
+        image: "https://www.ellitoral.com/images/2024/12/05/HVhdIdV29_870x580__1.jpg"
+    },
+
+
+    {
+        id: "playa-rincon",
+
+        city: "san-jose-del-rincon",
+
+        name: "Playas de San José del Rincón",
+
+        category: [
+            "Playas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Sectores de playa sobre los ríos Colastiné y San Javier, ideales para disfrutar del paisaje costero y actividades al aire libre.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RbyTh_J21HBuwZRma489mYoG2HS6v7o6eze5pCvShJGZ1Td4vhWaUQ8B&s=10"
+    },
+
+
+    {
+        id: "reserva-natural-arroyo-potrero",
+
+        city: "san-jose-del-rincon",
+
+        name: "Reserva Natural Municipal Arroyo Potrero",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Lagunas"
+        ],
+
+        description:
+            "Área natural protegida que conserva ambientes de humedales, arroyos y fauna autóctona del litoral santafesino.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3fbG5MoYBcasn4ROzTVAiooMFLRIk7FbeRGEetbbmBErxcOnPkaWbkY&s=10"
+    },
+
+
+
+    {
+        id: "iglesia-nuestra-senora-del-carmen-rincon",
+
+        city: "san-jose-del-rincon",
+
+        name: "Iglesia Nuestra Señora del Carmen",
+
+        category: [
+            "Religión",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Templo histórico de San José del Rincón vinculado a la identidad religiosa y cultural de la localidad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwtq2RWyk6-WX_OvvUF9gBmuawseNMA6cr5veR9Jm3Q&s=10"
+    },
+
+    {
+        id: "laguna-melincue",
+
+        city: "melincue",
+
+        name: "Laguna Melincué",
+
+        category: [
+            "Lagunas",
+            "Naturaleza",
+            "Reservas Naturales",
+            "Animales"
+        ],
+
+        description:
+            "Gran humedal santafesino reconocido por su biodiversidad, presencia de flamencos y paisajes naturales únicos del sur provincial.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jh3cmSfRxuQoM0-LdPFTlXmPfnDQ-bVR95yIHCB_5o5doxdBXUZL9pI&s=10"
+    },
+
+
+    {
+        id: "casino-melincue",
+
+        city: "melincue",
+
+        name: "Casino Melincué",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Complejo turístico asociado a la historia del antiguo desarrollo turístico de Melincué y su laguna.",
+
+        image: "https://www.ellitoral.com/images/2022/03/08/X_NgeyQWT_1300x655__1.jpg"
+    },
+
+    {
+        id: "ruinas-hotel-balneario-melincue",
+
+        city: "melincue",
+
+        name: "Ruinas del Hotel Balneario Melincué",
+
+        category: [
+            "Historia",
+            "Arquitectura",
+            "Paranormal",
+            "Naturaleza",
+            "Ruinas"
+        ],
+
+        description:
+            "Restos del antiguo Hotel Balneario Melincué, un lujoso complejo turístico inaugurado en el siglo XX que quedó abandonado luego de las grandes inundaciones de la Laguna Melincué. Hoy sus ruinas emergen como uno de los paisajes más particulares y misteriosos de Santa Fe.",
+
+        image: "https://media.lacapital.com.ar/p/42013a8d762666cb166d8ef70c97a370/adjuntos/203/imagenes/100/027/0100027519/642x0/smart/imagepng.png"
+    },
+
+    {
+        id: "palacio-san-jose-cdu",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Palacio San José",
+
+        category: [
+            "Historia",
+            "Arquitectura",
+            "Museo"
+        ],
+
+        description:
+            "Residencia histórica de Justo José de Urquiza, primer presidente constitucional argentino. Es uno de los monumentos históricos más importantes del país, con salones, jardines y objetos originales de la época.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO99QUAyXIe12Me7bE2QF5VwlWopEd3n2JBXBNH7B9Zh5y08QM93f97-k&s=10"
+    },
+
+
+    {
+        id: "isla-del-puerto-concepcion",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Isla del Puerto",
+
+        category: [
+            "Playas",
+            "Naturaleza",
+            "Costaneras"
+        ],
+
+        description:
+            "Complejo turístico ubicado sobre el río Uruguay con playas, espacios verdes, gastronomía y vistas panorámicas del río.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXWztv-swde980WI6ReIcB6oSrGluvcv332j-dgubogSCq9pdWEiXeoA&s=10"
+    },
+
+
+    {
+        id: "basílica-inmaculada-concepcion",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Basílica de la Inmaculada Concepción",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Templo histórico de la ciudad donde descansan los restos de Justo José de Urquiza. Es uno de los edificios religiosos más importantes de Entre Ríos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5MwRBiZNqU6YylhcrgYvhe33VxJiuLpeCGWmkt66UwNuvCtpy-iBUJyu&s=10"
+    },
+
+
+    {
+        id: "colegio-del-uruguay",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Colegio del Uruguay Justo José de Urquiza",
+
+        category: [
+            "Historia",
+            "Arquitectura",
+            "Museo"
+        ],
+
+        description:
+            "Institución educativa histórica fundada por Urquiza en 1849, considerada una de las más antiguas e importantes del país.",
+
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7d/96/c0/patio-central.jpg?w=900&h=500&s=1"
+    },
+
+
+    {
+        id: "plaza-francisco-ramirez",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Plaza Francisco Ramírez",
+
+        category: [
+            "Plaza",
+            "Historia"
+        ],
+
+        description:
+            "Plaza principal de la ciudad, ubicada en el centro histórico y rodeada por edificios emblemáticos como la Basílica y el Colegio del Uruguay.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMd2Q54FYXxpkLyVH8xVVyd9SlvwTqouB7Zs1KhHjPWQgl-w5v_9clOc&s=10"
+    },
+
+
+    {
+        id: "puerto-concepcion-del-uruguay",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Puerto de Concepción del Uruguay",
+
+        category: [
+            "Costaneras",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Puerto histórico sobre el río Uruguay, fundamental para el desarrollo comercial de la ciudad y actualmente un atractivo del paseo costero.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS96NphOLSk6q86Ud-huBVkcYoxMurb5PpM-tpGshkpPpQNBgF7p9ataAh&s=10"
+    },
+
+
+    {
+        id: "balneario-la-camila",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Balneario La Toma",
+
+        category: [
+            "Playas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Espacio recreativo junto al río Uruguay con playa y sectores para disfrutar del paisaje costero.",
+
+        image: "https://www.turismoentrerios.com/cdeluruguay/img/itape.jpg"
+    },
+
+
+    {
+        id: "termas-concepcion-del-uruguay",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Termas de Concepción del Uruguay",
+
+        category: [
+            "Termas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Complejo termal con piscinas de aguas termales, espacios recreativos y servicios turísticos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhpXRL1YtkgTlwb42HdJ9Iqkh79wQ8pto4y9sVg-LcJ-ShXIrJQymink&s=10"
+    },
+
+
+    {
+        id: "carnaval-concepcion-del-uruguay",
+
+        city: "concepcion-del-uruguay",
+
+        name: "Carnaval de Concepción del Uruguay",
+
+        category: [
+            "Carnaval",
+            "Fiesta Nacional"
+        ],
+
+        description:
+            "Celebración popular con comparsas, música y espectáculos que forman parte de la identidad cultural de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyGWq_ihwLNNFHPKw6ioLLPphY-jUAr51fbXowGTUUdxhwFJIrTnDmjHY&s=10"
+    },
+
+    {
+        id: "termas-san-jose",
+
+        city: "san-jose-entre-rios",
+
+        name: "Termas de San José",
+
+        category: [
+            "Termas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Complejo termal con piscinas de aguas termales, espacios recreativos y servicios turísticos, uno de los principales atractivos de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPiDzP54JyEGJkg8vFWQoIQW45zsbNj-2rNZ0f7Q3vQ&s=10"
+    },
+
+    {
+        id: "museo-historico-colonial-san-jose",
+
+        city: "san-jose-entre-rios",
+
+        name: "Museo Histórico Regional de la Colonia San José",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que muestra la historia de la Colonia San José fundada por inmigrantes europeos, con objetos, herramientas y documentos históricos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsyor4TauGOqGh8G1DW0mRvx9Nnbjxb9t745_Jf_hXSIca-7U6b87jOxS&s=10"
+    },
+
+
+    {
+        id: "playa-san-jose",
+
+        city: "san-jose-entre-rios",
+
+        name: "Playa de San José",
+
+        category: [
+            "Playas",
+            "Naturaleza",
+            "Costaneras"
+        ],
+
+        description:
+            "Playa sobre el río Uruguay con arena, servicios turísticos y espacios ideales para disfrutar durante el verano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8Orxx-YZ6qIroybiDB0UlL_ScHR-JxSkhtJvKKHSSco0m5Bqw4JJ-D8&s=10"
+    },
+
+
+    {
+        id: "fiesta-nacional-colonia-san-jose",
+
+        city: "san-jose-entre-rios",
+
+        name: "Fiesta Nacional de la Colonización",
+
+        category: [
+            "Fiesta Nacional",
+            "Historia"
+        ],
+
+        description:
+            "Celebración que homenajea a los inmigrantes fundadores de la Colonia San José con desfiles, espectáculos y tradiciones culturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI65BH31OW7pfTrJFWZMne5BLDeZQvaJOKHsKp07oEK-9iI04H-DVMujKL&s=10"
+    },
+
+    {
+        id: "termas-de-la-paz",
+
+        city: "la-paz-entre-rios",
+
+        name: "Termas de La Paz",
+
+        category: [
+            "Termas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Complejo termal ubicado frente al río Paraná, uno de los principales atractivos turísticos de La Paz, con piscinas de aguas termales y espacios recreativos.",
+
+        image: "https://www.lapazentrerios.tur.ar/imagenes/20200313143424-termas-de-la-paz.jpg"
+    },
+
+
+    {
+        id: "costanera-la-paz",
+
+        city: "la-paz-entre-rios",
+
+        name: "Costanera de La Paz",
+
+        category: [
+            "Costaneras",
+            "Naturaleza",
+            "Parques"
+        ],
+
+        description:
+            "Paseo ribereño sobre el río Paraná con miradores, espacios verdes y vistas panorámicas del paisaje del litoral entrerriano.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60-PYilSOZwHKs6jWLe0uyrtf5hKxWF_rv7n09xCZ7Enn8RvMcBRie5A&s=10"
+    },
+
+    {
+        id: "parque-la-curtiembre",
+
+        city: "la-paz-entre-rios",
+
+        name: "Parque La Curtiembre",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Espacio recreativo de la ciudad con sectores verdes y lugares para disfrutar del entorno natural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTDOG-wMlLdIz61JOjOQwfx0rqs-b5MzgfB6fL5T-KbbKuKV-nYSebPI&s=10"
+    },
+
+
+    {
+        id: "fiesta-provincial-dorado-la-paz",
+
+        city: "la-paz-entre-rios",
+
+        name: "Fiesta Provincial del Dorado",
+
+        category: [
+            "Fiesta Nacional",
+            "Deporte",
+            "Aventura"
+        ],
+
+        description:
+            "Evento tradicional de pesca deportiva que reúne participantes de todo el país y celebra la importancia del dorado en la identidad de La Paz.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACZ0chHlp_iikxF6akOfg09otUMW-fZpt0HBHoMuGiQ&s=10"
+    },
+
+
+    {
+        id: "iglesia-nuestra-senora-la-paz",
+
+        city: "la-paz-entre-rios",
+
+        name: "Iglesia Nuestra Señora de La Paz",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Templo histórico de la ciudad vinculado a la identidad religiosa y cultural de La Paz.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiubs2rfgadF-bYZ6nM-174hNeNe8qICbDbAelsXL_IKhyxoVjc38whdc&s=10"
+    },
+
+    {
+        id: "parque-de-la-democracia-resistencia",
+
+        city: "resistencia",
+
+        name: "Parque de la Democracia",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Gran espacio verde de la ciudad con lagunas, senderos y sectores recreativos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lZmcaOSBQGAhy691_bft01oOkeaTc7EFtuqiOemUiQ&s=10"
+    },
+
+
+    {
+        id: "laguna-arguelles",
+
+        city: "resistencia",
+
+        name: "Laguna Argüello",
+
+        category: [
+            "Lagunas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Laguna urbana histórica utilizada como espacio recreativo y de esparcimiento.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtOx3gYnXgdWPunFIhtaxILVsPMUwfohd3TroljOUUQ&s=10"
+    },
+
+    {
+        id: "parque-nacional-el-impenetrable",
+
+        city: "juan-jose-castelli",
+
+        name: "Parque Nacional El Impenetrable",
+
+        category: [
+            "Parques Nacionales",
+            "Naturaleza",
+            "Bosques",
+            "Animales",
+            "Aventura"
+        ],
+
+        description:
+            "Área protegida de más de 128 mil hectáreas que conserva bosques chaqueños, fauna autóctona y paisajes únicos del Gran Chaco.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlhDgtflNDePXiroUpZpOAnbICBNeKOO6-uwBL_WhPA&s=10"
+    },
+
+
+    {
+        id: "rio-bermejo-impenetrable",
+
+        city: "juan-jose-castelli",
+
+        name: "Río Bermejo",
+
+        category: [
+            "Naturaleza",
+            "Aventura"
+        ],
+
+        description:
+            "Río que atraviesa la región del Impenetrable y forma parte de los paisajes naturales más destacados del Chaco.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wqwKF54w7goHBZVuGSvbFy8vWj8SMVIWFqckDx9APw&s=10"
+    },
+
+    {
+        id: "balneario-villa-rio-bermejito",
+
+        city: "villa-rio-bermejito",
+
+        name: "Balneario Villa Río Bermejito",
+
+        category: [
+            "Playas",
+            "Naturaleza"
+        ],
+
+        description:
+            "Balneario sobre el río Bermejo utilizado como destino turístico de verano por sus playas y paisajes naturales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLP0Cq95bGKQqxbQsgOSYZLhAF_BoVPbaeqz_ONs8ER7peJ5dZTosSPsO&s=10"
+    },
+
+    {
+        id: "parque-provincial-isla-del-cerrito",
+
+        city: "isla-del-cerrito",
+
+        name: "Parque Provincial Isla del Cerrito",
+
+        category: [
+            "Naturaleza",
+            "Reservas Naturales",
+            "Bosques",
+            "Animales"
+        ],
+
+        description:
+            "Área natural protegida con bosques, humedales y gran diversidad de aves junto a los ríos Paraná y Paraguay.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhTWYLGxSUpVjCi_PXOy8h2YEtkhST7f2rD8cEbQlIg&s=10"
+    },
+
+    {
+        id: "plaza-25-de-mayo-resistencia",
+
+        city: "resistencia",
+
+        name: "Plaza 25 de Mayo",
+
+        category: [
+            "Plaza",
+            "Historia",
+            "Monumento"
+        ],
+
+        description:
+            "Plaza principal de Resistencia y corazón histórico de la ciudad, rodeada por edificios emblemáticos y numerosas esculturas urbanas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfD7vxccs_J6-8SyfEGbMTXSrxY22S1LlFSJhvGSLzQ&s=10"
+    },
+
+
+    {
+        id: "catedral-san-fernando-resistencia",
+
+        city: "resistencia",
+
+        name: "Catedral San Fernando Rey",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Templo histórico de Resistencia inaugurado en el siglo XIX, ubicado frente a la Plaza 25 de Mayo.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zGPW3ZTR9PgJWyVir-UMXmHcJ5gHzrgx_cDa-Iegi4MEykreAP42ovSy&s=10"
+    },
+
+
+    {
+        id: "casa-gobierno-chaco",
+
+        city: "resistencia",
+
+        name: "Casa de Gobierno del Chaco",
+
+        category: [
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Edificio institucional destacado de la ciudad que conserva obras de artistas argentinos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt1e9-CF_uZINL4QsDL5Ur31-l7wHDvGYgKT2aMx0w7599S-reCZq9l0&s=10"
+    },
+
+
+    {
+        id: "casa-de-las-culturas-resistencia",
+
+        city: "resistencia",
+
+        name: "Casa de las Culturas",
+
+        category: [
+            "Museo",
+            "Teatro",
+            "Arquitectura"
+        ],
+
+        description:
+            "Centro cultural provincial con exposiciones, actividades artísticas y espacios dedicados a las artes chaqueñas.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqy5WUpdS4FrF8feB2etoGDcqMZkjVjU2AdppboYmLRw4rEwz4Dr0a-4B&s=10"
+    },
+
+
+    {
+        id: "muba-resistencia",
+
+        city: "resistencia",
+
+        name: "Museo Provincial de Bellas Artes René Brusau",
+
+        category: [
+            "Museo",
+            "Arte"
+        ],
+
+        description:
+            "Museo que reúne obras de artistas chaqueños y nacionales, formando parte del patrimonio cultural de la provincia.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3bEQjtrDeli-hu6ScPVg1d2FbaYrLbSxDNqzAk9fDmGeRI64URwHZcw&s=10"
+    },
+
+
+    {
+        id: "museo-hombre-chaqueno",
+
+        city: "resistencia",
+
+        name: "Museo del Hombre Chaqueño",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia y cultura del Chaco, incluyendo pueblos originarios, inmigrantes y tradiciones regionales.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFaFtK--o07c2ATZGFiRPUxw00pOroC4hQ7dtIanC2w&s=10"
+    },
+
+
+    {
+        id: "museo-ciencias-naturales-augusto-schulz",
+
+        city: "resistencia",
+
+        name: "Museo de Ciencias Naturales Augusto Schulz",
+
+        category: [
+            "Museo",
+            "Naturaleza",
+            "Animales"
+        ],
+
+        description:
+            "Museo dedicado a la biodiversidad chaqueña, con colecciones de fauna, flora y patrimonio natural.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLgcUXwaW1bFkTTQqk7xPyuAe6hMkU0fAQDvaIhyspO9zzUP2CLE4ZNU&s=10"
+    },
+
+
+    {
+        id: "fogon-de-los-arrieros",
+
+        city: "resistencia",
+
+        name: "Fogón de los Arrieros",
+
+        category: [
+            "Museo",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Espacio cultural histórico con obras de arte, objetos antiguos, esculturas y colecciones particulares.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOVHzQIGGjKsdGqg0k9Fjndfqzjn1WSkLtf15dnIologTWk6kErxdqpQ&s=10"
+    },
+
+
+    {
+        id: "parque-2-febrero-resistencia",
+
+        city: "resistencia",
+
+        name: "Parque 2 de Febrero",
+
+        category: [
+            "Parques",
+            "Naturaleza"
+        ],
+
+        description:
+            "Principal espacio verde de Resistencia, con sectores recreativos, esculturas, anfiteatro y el Domo del Centenario.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GS5BXYrloZWuaAjlYcsuyg8tZknbFaWQvGOuRhmSdsp5IFEJRPXZPLU&s=10"
+    },
+
+
+    {
+        id: "domo-del-centenario",
+
+        city: "resistencia",
+
+        name: "Domo del Centenario Zitto Segovia",
+
+        category: [
+            "Arquitectura",
+            "Teatro"
+        ],
+
+        description:
+            "Espacio cultural y de espectáculos ubicado dentro del Parque 2 de Febrero, sede de importantes eventos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13jc1PUE6o3VeDzYhO2fDnkOYImD2jWvHI1xecde2HQ5f-cuIJnH5QLFn&s=10"
+    },
+
+    {
+        id: "paseo-artistas-artesanos",
+
+        city: "resistencia",
+
+        name: "Paseo de Artistas y Artesanos",
+
+        category: [
+            "Shopping",
+            "Historia"
+        ],
+
+        description:
+            "Feria donde se encuentran artesanías regionales, productos culturales y trabajos de artistas chaqueños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPkgSUHvktH2VSa5LnwVezTYihJyy_tJrbZ_2j79X9Q&s=10"
+    },
+
+
+    {
+        id: "bienal-escultura-resistencia",
+
+        city: "resistencia",
+
+        name: "Bienal Internacional de Escultura",
+
+        category: [
+            "Fiesta Nacional",
+            "Arte",
+            "Monumento"
+        ],
+
+        description:
+            "Evento internacional de arte que transforma a Resistencia en una gran galería al aire libre y deja esculturas como patrimonio permanente.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxJ5EPFBL-w6wSR0jGNcoy71GtSZDt1M9rUGf52HUdp0Xw7dlIeYC3jQU&s=10"
+    },
+
+
+    {
+        id: "museo-a-cielo-abierto-resistencia",
+
+        city: "resistencia",
+
+        name: "Museo a Cielo Abierto de Resistencia",
+
+        category: [
+            "Monumento",
+            "Arquitectura"
+        ],
+
+        description:
+            "Recorrido urbano formado por cientos de esculturas instaladas en calles, plazas y espacios públicos de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdQ_L3H5BPmmsaJ3FyBltTa6h3mPnisO8WrAlUOUkN_ZIs_Wd-otdGMNd&s=10"
+    },
+
+
+    {
+        id: "encuentro-internacional-escultores-impenetrable",
+
+        city: "juan-jose-castelli",
+
+        name: "Encuentro Internacional de Escultores del Impenetrable",
+
+        category: [
+            "Fiesta Nacional",
+            "Monumento",
+            "Arte"
+        ],
+
+        description:
+            "Evento cultural que reúne escultores y deja obras de arte público en la localidad, combinando naturaleza, identidad chaqueña y cultura.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5evF4PhWswcQIymp4q34tN7nk1qwMNINu-97mDw0QehX27d2A0TOh9lq&s=10"
+    },
+
+
+    {
+        id: "la-fidelidad",
+
+        city: "juan-jose-castelli",
+
+        name: "Estancia La Fidelidad",
+
+        category: [
+            "Naturaleza",
+            "Historia",
+            "Reservas Naturales"
+        ],
+
+        description:
+            "Antigua estancia cuya conservación permitió la creación del Parque Nacional El Impenetrable. Es uno de los lugares claves para la protección del bosque chaqueño.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlaVo6YA6Zdk406tnwFEUoWneyV49T4sdqhwTK7YK4u0r_8McjLxpQNxAI&s=10"
+    },
+
+    {
+        id: "parque-nacional-chaco",
+
+        city: "capitan-solari",
+
+        name: "Parque Nacional Chaco",
+
+        category: [
+            "Parques Nacionales",
+            "Naturaleza",
+            "Bosques",
+            "Animales",
+            "Aventura"
+        ],
+
+        description:
+            "Área protegida del Chaco Húmedo con montes, sabanas, esteros y lagunas. Conserva grandes extensiones de quebracho colorado y una enorme biodiversidad con más de 300 especies de aves.",
+
+        image: "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/03/31163214/gran-chaco-argentina-13-PN-Chaco-Foto-Parques-Nacionales-04-768x481.jpg"
+    },
+
+    {
+        id: "la-cangaye",
+
+        city: "villa-rio-bermejito",
+
+        name: "Reducción La Cangayé",
+
+        category: [
+            "Historia",
+        ],
+
+        description:
+            "Restos históricos de una antigua reducción jesuítica donde convivieron españoles y pueblos originarios, uno de los sitios históricos más relevantes de la zona.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRml7L4mbXNeqADwf1RaDwQUi7r9VEz2pBd8TLspR_MHeHUzhJSICiuSTlo&s=10"
+    },
+
+    {
+        id: "confluencia-parana-paraguay",
+
+        city: "isla-del-cerrito",
+
+        name: "Confluencia de los ríos Paraná y Paraguay",
+
+        category: [
+            "Naturaleza",
+        ],
+
+        description:
+            "Punto natural donde se encuentran dos de los grandes ríos del litoral argentino, rodeado de islas, bosques y paisajes ribereños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cv6L797-UDPL9lMCJFl-9rWwEwtZzlqNb9uUQfJZM7hushFi4J4yS30&s=10"
+    },
+
+    {
+        id: "museo-historico-isla-del-cerrito",
+
+        city: "isla-del-cerrito",
+
+        name: "Museo Histórico de Isla del Cerrito",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a la historia de la isla y su importancia durante la Guerra de la Triple Alianza.",
+
+        image: "https://cultura.chaco.gob.ar/uploads/files/img-20260521-wa0066-1-6a0f799a5f309785873478.jpg"
+    },
+
+    {
+        id: "capilla-virgen-del-pilar",
+
+        city: "isla-del-cerrito",
+
+        name: "Capilla Virgen del Pilar",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Capilla histórica ubicada sobre la isla, uno de los símbolos culturales y arquitectónicos del lugar.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovWuDzPwS-rxIRt-3kanFZ43a1g03rCiOI0K0Df27-Anr0oV4db0lH9Jb&s=10"
+    },
+
+    {
+        id: "costanera-vuelta-fermoza",
+        city: "formosa",
+        name: "Costanera Vuelta Fermoza",
+        category: [
+            "Costaneras",
+            "Naturaleza",
+            "Parques"
+        ],
+        description:
+            "Paseo ribereño emblemático de la ciudad de Formosa, con vistas al río Paraguay, islas, barrancas, muelles, miradores y espacios recreativos.",
+        image: "https://api-inprotur-hom.turismo.gob.ar/files/uploads/1656526882949-costanera_formosa.jpg"
+    },
+
+    {
+        id: "paseo-del-rio-formosa",
+        city: "formosa",
+        name: "Paseo del Río",
+        category: [
+            "Costaneras",
+            "Naturaleza",
+            "Parques"
+        ],
+        description:
+            "Espacio recreativo junto al río Paraguay integrado al circuito ribereño de la ciudad.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNdym9_ofs3GdGDPJ2c759fLw7PUpsLAfAk52KAMQEKt52e-pT5WaMzkM&s=10"
+    },
+
+    {
+        id: "plaza-san-martin-formosa",
+        city: "formosa",
+        name: "Plaza General San Martín",
+        category: [
+            "Plaza",
+            "Historia",
+            "Monumento"
+        ],
+        description:
+            "Una de las principales plazas de la ciudad, rodeada por edificios históricos y espacios representativos del centro formoseño.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgETItVdbpiKd7Ko9zlL8S3XCiZeiehFPsRZo2_UHSSg&s=10"
+    },
+
+    {
+        id: "catedral-nuestra-senora-carmen-formosa",
+        city: "formosa",
+        name: "Catedral Nuestra Señora del Carmen",
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+        description:
+            "Principal templo católico de la ciudad de Formosa y uno de sus edificios religiosos más representativos.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Q5oA-S3ephp7O-wK8oOk5OsoTg__pn50mrK6KkdZVgRNlgjTxl6CyG8&s=10"
+    },
+
+    {
+        id: "museo-juan-pablo-duffard",
+        city: "formosa",
+        name: "Museo Histórico y Regional Juan Pablo Duffard",
+        category: [
+            "Museo",
+            "Historia"
+        ],
+        description:
+            "Museo dedicado a la historia de Formosa, con objetos, documentos y testimonios relacionados con la formación de la provincia.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRheFCBIodWKN30dQQ3c21kfR9itlU8r0IPfppA9gbER9HYvgc5AESQsFQ&s=10"
+    },
+
+    {
+        id: "casa-artesanias-formosa",
+        city: "formosa",
+        name: "Casa de las Artesanías",
+        category: [
+            "Shopping",
+            "Historia"
+        ],
+        description:
+            "Espacio dedicado a la producción artesanal formoseña y a las expresiones culturales de comunidades originarias como las qom, wichí y pilagá.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZWzDEl5Nsu8PAb32JXKw4oExK0DM5DElk7DAh34sWOfZXKz9CmwKV28&s=10"
+    },
+
+    {
+        id: "museo-ferroviario-formosa",
+        city: "formosa",
+        name: "Museo Ferroviario Municipal",
+        category: [
+            "Museo",
+            "Historia"
+        ],
+        description:
+            "Museo que conserva elementos vinculados con la historia del ferrocarril y su importancia en el desarrollo de Formosa.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhtPRiISYcEp8FtboI2jjhX56uiSyxYCEsC2mSq7oTjA&s=10"
+    },
+
+    {
+        id: "paseo-ferroviario-formosa",
+        city: "formosa",
+        name: "Paseo Ferroviario",
+        category: [
+            "Historia",
+            "Parques",
+            "Arquitectura"
+        ],
+        description:
+            "Antiguo sector ferroviario recuperado como espacio público y cultural, vinculado a la historia del ferrocarril formoseño.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBkQxrq-V0v8QPwQlMgi4dU4-A_KI7TavWtqwmBl3lA&s=10"
+    },
+
+    {
+        id: "paseo-la-estacion-formosa",
+        city: "formosa",
+        name: "Paseo La Estación",
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+        description:
+            "Espacio urbano relacionado con el antiguo patrimonio ferroviario de la ciudad.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Formosa%2C_Argentina%2C_estaci%C3%B3n_de_trenes.jpg"
+    },
+
+    {
+        id: "cruz-del-norte-formosa",
+        city: "formosa",
+        name: "Cruz del Norte",
+        category: [
+            "Monumento",
+            "Religión"
+        ],
+        description:
+            "Monumento religioso de grandes dimensiones ubicado en Formosa, convertido en uno de los puntos reconocibles de la ciudad.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRED95LfkpS8YlzCmj4CBT-RpbyMbybScY8La9MhRwidlpc9EqurednHJwL&s=10"
+    },
+
+    {
+        id: "plaza-tematica-formosa",
+        city: "formosa",
+        name: "Plaza Temática",
+        category: [
+            "Plaza",
+            "Arquitectura"
+        ],
+        description:
+            "Espacio urbano temático integrado al circuito recreativo y cultural de la ciudad.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8AiBbKPo-Ky-o44HScerKtgJx4m5nmKu9-9QlyTglpxUCwlJ1qknZB40&s=10"
+    },
+
+    {
+        id: "parque-paraiso-de-los-ninos",
+        city: "formosa",
+        name: "Parque Infantil Paraíso de los Niños",
+        category: [
+            "Parques",
+            "Deporte"
+        ],
+        description:
+            "Gran espacio recreativo familiar con juegos y áreas verdes ubicado en la ciudad de Formosa.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQUfnGYlxyWDI435jVxYz8MiZMJFFW17O7RUtXbo6zd1riftftFSFHAY&s=10"
+    },
+
+    {
+        id: "aguas-danzantes-formosa",
+        city: "formosa",
+        name: "Aguas Danzantes",
+        category: [
+            "Parques",
+            "Arquitectura"
+        ],
+        description:
+            "Fuente ornamental de la Costanera Vuelta Fermoza que ofrece espectáculos de agua y luces.",
+        image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/26/93/d2/img-20170113-210333-largejpg.jpg?w=1200&h=1200&s=1"
+    },
+
+    {
+        id: "mirador-costanera-formosa",
+        city: "formosa",
+        name: "Mirador de la Costanera",
+        category: [
+            "Costaneras",
+            "Naturaleza"
+        ],
+        description:
+            "Punto panorámico desde donde se pueden observar el río Paraguay, las islas y el paisaje ribereño de Formosa.",
+        image: "https://media-cdn.tripadvisor.com/media/photo-s/01/3a/b7/17/mirador-en-la-costanera.jpg"
+    },
+
+
+    {
+        id: "serpentario-formosa",
+        city: "formosa",
+        name: "Serpentario",
+        category: [
+            "Animales",
+            "Naturaleza"
+        ],
+        description:
+            "Espacio dedicado al conocimiento y observación de reptiles y otras especies de la fauna regional.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4AfFHOIFwaGAyDvfA3QuQgM9Qok16A-AkRC-Yg3NgnOwq8Yeb0TR-zNU&s=10"
+    },
+
+    {
+        id: "museo-historico-policial-formosa",
+        city: "formosa",
+        name: "Museo Histórico Policial",
+        category: [
+            "Museo",
+            "Historia"
+        ],
+        description:
+            "Museo dedicado a la historia de la Policía de los Territorios Nacionales y su evolución en la provincia de Formosa.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5vn9naxwiWTJ1Nqzri8rW_IjisTk9YOufpxgqOaW810rHHakgnIyPmsnG&s=10"
+    },
+
+    {
+        id: "estadio-cincuentenario-formosa",
+        city: "formosa",
+        name: "Estadio Cincuentenario",
+        category: [
+            "Estadio",
+            "Deporte"
+        ],
+        description:
+            "Principal estadio cubierto de la ciudad y escenario de importantes eventos deportivos y espectáculos.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjDsm5xRfbz-osPa_CKM3ZCwxIdK5UmoH2SA7AMF_oCw&s=10"
+    },
+
+    {
+        id: "biosfera-laguna-oca",
+        city: "formosa",
+        name: "Reserva de Biósfera Laguna Oca",
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Lagunas",
+            "Animales",
+            "Bosques"
+        ],
+        description:
+            "Reserva natural ubicada junto a la ciudad de Formosa, formada por lagunas, riachos, bañados y ambientes de selva en galería con una importante diversidad de fauna.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVyxy5L6NZqLSGoXp5w4EOUML61l9b2kE7yUMDA1ArgSsnNevf0uhiHDP&s=10"
+    },
+
+    {
+        id: "parque-nacional-rio-pilcomayo",
+        city: "laguna-blanca",
+        name: "Parque Nacional Río Pilcomayo",
+        category: [
+            "Parques Nacionales",
+            "Naturaleza",
+            "Animales",
+            "Bosques"
+        ],
+        description:
+            "Área protegida del noreste de Formosa que conserva ambientes del Chaco Húmedo, con esteros, lagunas, pastizales y montes donde habitan numerosas especies de fauna.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTC0WPN5v4E58QBy1VBtsVsqJhnum9B9jOL_lwo67d6H_UEImO-tR5iYw&s=10"
+    },
+
+    {
+        id: "laguna-blanca-pn-pilcomayo",
+        city: "laguna-blanca",
+        name: "Laguna Blanca",
+        category: [
+            "Lagunas",
+            "Naturaleza",
+            "Animales"
+        ],
+        description:
+            "Gran espejo de agua dentro del Parque Nacional Río Pilcomayo, rodeado de ambientes de humedal y pastizales donde se pueden observar numerosas aves y otros animales.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrkEzQyyCNCyhBJGA8q7Id0uG4pxw2cMhLEmfIR8l3_HYYJTbA6uXFKk5&s=10"
+    },
+
+    {
+        id: "laguna-herradura",
+        city: "herradura",
+        name: "Laguna Herradura",
+        category: [
+            "Lagunas",
+            "Naturaleza",
+            "Animales",
+            "Aventura"
+        ],
+        description:
+            "Gran laguna conectada con el río Paraguay y rodeada de riachos, esteros, bosques y ambientes de humedal. Es el principal atractivo natural de Herradura.",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgFyf383JnEP9GPOwcRQoHuzSiumRyoPUYfMmCpfCZQ&s=10"
+    },
+
+    {
+        id: "riacho-salado-herradura",
+        city: "herradura",
+        name: "Riacho Salado",
+        category: [
+            "Naturaleza",
+            "Aventura"
+        ],
+        description:
+            "Curso de agua que atraviesa el área de Herradura y conecta distintos ambientes de humedales con la Laguna Herradura.",
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Riacho_Salado_Formosa.jpg/1280px-Riacho_Salado_Formosa.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+    },
+
+    {
+        id: "fiesta-nacional-corvina-rio",
+        city: "herradura",
+        name: "Fiesta Nacional de la Corvina de Río",
+        category: [
+            "Fiesta Nacional",
+            "Deporte",
+            "Gastronomía"
+        ],
+        description:
+            "Fiesta tradicional de Herradura dedicada a la pesca de la corvina de río, acompañada por espectáculos musicales, gastronomía y feria comercial y artesanal.",
+        image: "https://media.c5n.com/p/1531b4ceee6fd80067260b8d9d247fa6/adjuntos/326/imagenes/000/287/0000287185/790x0/smart/herradura-formosa.jpg"
+    },
+
+    {
+        id: "plaza-san-martin-clorinda",
+        city: "clorinda",
+
+        name: "Plaza General San Martín",
+
+        category: [
+            "Plaza",
+            "Monumento"
+        ],
+
+        description:
+            "Principal espacio público del centro de Clorinda, rodeado por edificios y lugares representativos de la ciudad.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsyKMSdINawbfDlTXwesg01zWyg8nEXqz_poN21V5DnHjsvJGIb5aWg8&s=10"
+    },
+
+    {
+        id: "iglesia-nuestra-senora-de-los-angeles-clorinda",
+        city: "clorinda",
+
+        name: "Iglesia Nuestra Señora de los Ángeles",
+
+        category: [
+            "Religión",
+            "Arquitectura",
+            "Historia"
+        ],
+
+        description:
+            "Templo histórico y uno de los edificios religiosos más representativos de Clorinda.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsb82fRAZT8bH85DDXNOqCMbyLbuOtP_WP94t66lq10T6g16t-jIOHl6E&s=10"
+    },
+
+    {
+        id: "estancia-hertelendy-clorinda",
+        city: "clorinda",
+
+        name: "Antigua Estancia Hertelendy",
+
+        category: [
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Antigua estancia vinculada a los primeros pobladores de Clorinda, cuya arquitectura original se conserva actualmente.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9gpbCoc2OSjX8Nzo-CPN-7DpjKV3K7xKBK-o6x5ztA&s"
+    },
+
+    {
+        id: "puerto-pilcomayo",
+        city: "clorinda",
+
+        name: "Puerto Pilcomayo",
+
+        category: [
+            "Naturaleza",
+            "Aventura"
+        ],
+
+        description:
+            "Puerto ubicado sobre el río Paraguay, utilizado como punto de conexión fluvial con Paraguay y como acceso a paisajes ribereños.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjyGn2ifnMSHm4t5R1JqzgcJHZGNfbFRrWpAnooq1mjigxNUSUReKLzfE&s=10"
+    },
+
+    {
+        id: "pasarela-de-la-amistad",
+        city: "clorinda",
+
+        name: "Pasarela de la Amistad",
+
+        category: [
+            "Historia",
+            "Monumento"
+        ],
+
+        description:
+            "Paso peatonal internacional que conecta Clorinda con Nanawa, Paraguay, y constituye uno de los puntos fronterizos característicos de la ciudad.",
+
+        image: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Pasarela-clorinda-puerto_elsa.JPG"
+    },
+
+    {
+        id: "puente-san-ignacio-de-loyola",
+        city: "clorinda",
+
+        name: "Puente Internacional San Ignacio de Loyola",
+
+        category: [
+            "Arquitectura",
+            "Monumento"
+        ],
+
+        description:
+            "Puente internacional que conecta Clorinda con José Falcón, Paraguay, y constituye el principal paso terrestre entre ambos países en esta zona.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSACyMkPwDVLP5bmT1T-JtDEwfJE4DXHtaFRfpAJH7a-w&s=10"
+    },
+
+    {
+        id: "mision-san-francisco-de-laishi",
+        city: "mision-laishi",
+
+        name: "Misión San Francisco de Laishí",
+
+        category: [
+            "Historia",
+            "Religión",
+            "Arquitectura"
+        ],
+
+        description:
+            "Antiguo conjunto de la misión franciscana fundada a comienzos del siglo XX, alrededor del cual se desarrolló la localidad. Conserva construcciones vinculadas a la iglesia, colegio y residencia de los religiosos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQECUxvaLnV37EFhd48Zz1d33I2kEO66viyctym9eNbW_D8T2EqzedSdyI&s=10"
+    },
+
+    {
+        id: "museo-historico-san-francisco-laishi",
+        city: "mision-laishi",
+
+        name: "Museo Histórico San Francisco de Laishí",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo que conserva objetos, documentos y testimonios relacionados con la historia de la misión franciscana y de la provincia de Formosa.",
+
+        image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2024/08/Museo-Historico-laishi.jpg"
+    },
+
+    {
+        id: "convento-franciscano-laishi",
+        city: "mision-laishi",
+
+        name: "Convento Franciscano",
+
+        category: [
+            "Religión",
+            "Historia",
+            "Arquitectura"
+        ],
+
+        description:
+            "Antiguo convento franciscano de la misión, que conserva elementos y objetos históricos vinculados a la presencia de la orden en la región.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScoaQnNC-UrLFo-VTPn2ej4buKdGPZoIXJIt92Bz6-pZ4lh82Cjrdla_EV&s=10"
+    },
+
+    {
+        id: "ruinas-ingenio-azucarero-laishi",
+        city: "mision-laishi",
+
+        name: "Ruinas del Ingenio Azucarero",
+
+        category: [
+            "Historia",
+            "Arquitectura",
+            "Ruinas"
+        ],
+
+        description:
+            "Restos del antiguo ingenio azucarero que funcionó como uno de los principales emprendimientos productivos de la misión durante sus primeros años.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjQLwGQAuVYvS7G1d14zfT2xxSW6YAKNVZONRMtJ6xwMlCqMYjELq5SU&s=10"
+    },
+
+    {
+        id: "bosquecillo-descanso-laishi",
+        city: "mision-laishi",
+
+        name: "Bosquecillo de Descanso",
+
+        category: [
+            "Bosques",
+            "Naturaleza",
+            "Parques"
+        ],
+
+        description:
+            "Espacio arbolado tradicional de Misión Laishí utilizado para descanso y recreación en contacto con la naturaleza.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3YFXgr_ZwdrqhmWeeqUAilR88UfhHl4vuwqmkQdRpvw&s=10"
+    },
+
+    {
+        id: "camping-dona-tuti-laishi",
+        city: "mision-laishi",
+
+        name: "Camping Doña Tuti",
+
+        category: [
+            "Naturaleza",
+            "Aventura",
+            "Bosques"
+        ],
+
+        description:
+            "Complejo ubicado a orillas del riacho Salado, con monte nativo y actividades de naturaleza y recreación.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbwlPQ55yrZ8wQHgxnn4LG2lQ21bTYUaC1uKXLOpArQ&s"
+    },
+
+    {
+        id: "rio-bermejo-el-colorado",
+        city: "el-colorado-formosa",
+
+        name: "Río Bermejo",
+
+        category: [
+            "Naturaleza",
+            "Aventura",
+            "Costaneras"
+        ],
+
+        description:
+            "Río que bordea la ciudad de El Colorado y funciona como uno de sus principales atractivos naturales, además de marcar el límite con la provincia del Chaco.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4fHyo72b44F4P-w9NzdmXq15QI8c2ukKAyNSFyoS9ltcjgbUeWhiGF8W&s=10"
+    },
+
+    {
+        id: "camping-municipal-el-colorado",
+        city: "el-colorado-formosa",
+
+        name: "Camping Municipal de El Colorado",
+
+        category: [
+            "Naturaleza",
+            "Parques",
+            "Aventura"
+        ],
+
+        description:
+            "Complejo recreativo ubicado a orillas del río Bermejo, con áreas verdes, espacios de descanso, parrillas y sectores para acampar.",
+
+        image: "https://www.sitiosnaturales.com/img-lg/100/100/563.jpg"
+    },
+
+    {
+        id: "parque-acuatico-el-colorado",
+        city: "el-colorado-formosa",
+
+        name: "Parque Acuático El Colorado",
+
+        category: [
+            "Aventura",
+            "Deporte"
+        ],
+
+        description:
+            "Complejo acuático ubicado dentro del Camping Municipal, con siete piscinas, juegos acuáticos, toboganes y sectores recreativos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpwdSFEzmng_nrg2G7stC_YRTE3W4s0XQnnBWgtt7jTcTxo_4Jh9OplP-&s=10"
+    },
+
+    {
+        id: "puente-libertad-el-colorado",
+        city: "el-colorado-formosa",
+
+        name: "Puente Libertad",
+
+        category: [
+            "Arquitectura",
+            "Historia",
+            "Monumento"
+        ],
+
+        description:
+            "Puente sobre el río Bermejo que conecta El Colorado con General José de San Martín, en la provincia del Chaco. Fue inaugurado en 1958 y se convirtió en un símbolo del acceso sur a Formosa.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzZeBFxRBGG8v5bfjjCv1z3D9tpy1uSn2mk2o76SoIQ&s=10"
+    },
+
+    {
+        id: "feriarte-el-colorado",
+        city: "el-colorado-formosa",
+
+        name: "Feri-Arte",
+
+        category: [
+            "Fiesta Nacional",
+            "Shopping",
+            "Gastronomía"
+        ],
+
+        description:
+            "Tradicional feria y evento cultural de El Colorado que reúne artesanos y expositores de la región.",
+
+        image: "https://www.cultura.gob.ar/media/uploads/noticias/roxana_carabajal.jpg"
+    },
+
+    {
+        id: "camping-esperanza-pirane",
+        city: "pirane",
+
+        name: "Camping Esperanza",
+
+        category: [
+            "Naturaleza",
+            "Parques",
+            "Deporte"
+        ],
+
+        description:
+            "Espacio recreativo de Pirané con áreas verdes, laguna, juegos infantiles, piscina y sectores deportivos.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKwSLbEg85UmzRRa7VK8xmMHQ-jAGly-VBe1HnV0t6A&s"
+    },
+
+    {
+        id: "camping-el-chaja-pirane",
+        city: "pirane",
+
+        name: "Camping El Chajá",
+
+        category: [
+            "Naturaleza",
+            "Deporte"
+        ],
+
+        description:
+            "Complejo recreativo ubicado sobre la Ruta Provincial 3, con piscina olímpica, canchas deportivas y espacios para actividades al aire libre.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinWg_10eBBK9Gp6a92sgyiEARtMUozZjeiOOSm67pfxihLSNE2iCYeMSp&s=10"
+    },
+
+    {
+        id: "mercado-comunitario-emprendedores-pirane",
+        city: "pirane",
+
+        name: "Mercado Comunitario de Emprendedores",
+
+        category: [
+            "Shopping",
+            "Gastronomía",
+            "Historia"
+        ],
+
+        description:
+            "Espacio ubicado en la antigua estación ferroviaria donde emprendedores locales ofrecen artesanías, gastronomía regional y productos de elaboración local.",
+
+        image: "https://www.prensalibreformosa.com/content/bucket/9/46859w790h527c.jpg.webp"
+    },
+
+    {
+        id: "museo-del-pueblo-pirane",
+        city: "pirane",
+
+        name: "Museo del Pueblo",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo dedicado a conservar objetos y testimonios relacionados con la historia de Pirané y sus habitantes.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmW-cFS_OGEgD7ywcLEOZ9SKQfPwN6eHl9XVyMR1itEWlHldpy2Qi0awk&s=10"
+    },
+
+    {
+        id: "festival-provincial-folklore-pirane",
+        city: "pirane",
+
+        name: "Festival Provincial del Folklore",
+
+        category: [
+            "Fiesta Nacional",
+            "Historia"
+        ],
+
+        description:
+            "Festival tradicional de Pirané, ciudad reconocida como Capital Provincial del Folklore de Formosa, con música, danzas y expresiones de la cultura regional.",
+
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSDJgEHL5v7sZlwVkPdE_I2yTOF5h54QuOZYaF94z8__fSdG7ZqHYT2E&s=10"
+    },
+
+    {
+        id: "reserva-natural-formosa",
+        city: "ingeniero-juarez",
+
+        name: "Reserva Natural Formosa",
+
+        category: [
+            "Reservas Naturales",
+            "Naturaleza",
+            "Animales",
+            "Bosques"
+        ],
+
+        description:
+            "Área protegida del Chaco Semiárido creada para conservar una muestra de los ambientes naturales del oeste formoseño. Cuenta con monte chaqueño, cursos de agua y una importante diversidad de flora y fauna.",
+
+        image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2024/08/circuito-oeste-reserva-natural.jpg"
+    },
+
+    {
+        id: "museo-estacion-ferrocarril-juarez",
+        city: "ingeniero-juarez",
+
+        name: "Museo de la Estación del Ferrocarril",
+
+        category: [
+            "Museo",
+            "Historia"
+        ],
+
+        description:
+            "Museo instalado en la antigua estación del Ferrocarril Belgrano Cargas, donde se conservan mobiliario, herramientas, documentos y fotografías vinculadas con la historia ferroviaria de Ingeniero Juárez.",
+
+        image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2024/08/que-hacer-museo-ferrocarril-ing-juarez.jpg"
+    },
+
+    {
+    id: "riacho-porteno",
+    city: "villa-general-guemes",
+
+    name: "Riacho Porteño",
 
     category: [
         "Naturaleza"
     ],
 
     description:
-        "Conjunto de islas frente a Rosario ideales para realizar excursiones, kayak, pesca y disfrutar de playas naturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyiF3LgJRDhZtGUu1HipVn5s6vMRzsRnQhhnBeUZMds2h--nFAjgZBX3kp&s=10"
+        "Curso de agua que atraviesa Villa General Güemes y que está estrechamente ligado al origen histórico de la localidad, conocida originalmente como El Porteñito.",
+        
+    image: "https://archivos.formosa.gob.ar/media/uploads/organismos/landing_image_4_6661b8457628a10741f2bd92643ec5b6-0.jpg"
 },
 
 {
-    id: "reserva-los-tres-cerros",
+    id: "riacho-he-he",
+    city: "riacho-he-he",
 
-    city: "rosario",
-
-    name: "Reserva Natural Los Tres Cerros",
+    name: "Riacho He-Hé",
 
     category: [
-        "Reservas Naturales"
+        "Naturaleza"
     ],
 
     description:
-        "Área protegida del delta del Paraná frente a Rosario, destacada por su biodiversidad.",
+        "Curso de agua que atraviesa la localidad y que da nombre a Riacho He-Hé. Sus recursos hídricos son fundamentales para los ambientes naturales y la producción agrícola de la zona.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqdeu8TgTSNu5d_tKrbqWxS1_aByZACIZ4WpK0CQSqAa9rYmsmhDPMQ0&s=10"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kBlTLYpfVu05r1mHIfFdk1mOko9P30h4mMzvnE44aKhK6noWRAtYhtk&s=10"
 },
 
 {
-    id: "bar-el-cairo",
+    id: "plaza-17-de-octubre-riacho-he-he",
+    city: "riacho-he-he",
 
-    city: "rosario",
+    name: "Plaza 17 de Octubre",
 
-    name: "Bar El Cairo",
-
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
-
-    description:
-        "El café más famoso de Rosario, inmortalizado por Roberto Fontanarrosa y lugar de reunión de la 'Mesa de los Galanes'.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaIoDL_JqZm2ZC6j5pDe4yFnV1SaSDKIeXZVrVwv_iJg&s=10"
-},
-
-{
-    id: "rock-fellers",
-
-    city: "rosario",
-
-    name: "Rock & Feller's",
-
-    category: [
-        "Gastronomía"
-    ],
-
-    description:
-        "Uno de los restaurantes más reconocidos de Rosario, famoso por su ambientación y cocina internacional.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d8/cf/52/rock-feller-s-bv-orono.jpg?w=500&h=-1&s=1"
-},
-
-{
-    id: "bv-oroño",
-    city: "rosario",
-    name: "Boulevard Oroño",
-    category: [
-        "Arquitectura"
-    ],
-    description:
-        "Avenida histórica de Rosario, famosa por sus mansiones, edificios emblemáticos y arboleda.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6dPJfS6LrgWllPSV1KMhXBxYvezhoER8Nb__FNbITw&s=10"
-},
-
-{
-    id: "plaza-sarmiento",
-    city: "rosario",
-    name: "Plaza Sarmiento",
     category: [
         "Plaza"
     ],
+
     description:
-        "Importante espacio verde del centro rosarino, punto de encuentro y conexión del transporte urbano.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0VqeDn9weSDGdHlgUqTIGGZz-IDAqIrIYAPum9kjCw&s=10"
-},
+        "Espacio central de Riacho He-Hé y punto de encuentro de actividades culturales, sociales y deportivas de la localidad.",
 
-
-{
-    id: "paseo-del-siglo",
-    city: "rosario",
-    name: "Paseo del Siglo",
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-    description:
-        "Sector histórico con edificios de fines del siglo XIX y principios del XX, uno de los paseos urbanos más elegantes de Rosario.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbf6GFTPvE9JyOYX6CA2JKK5kz90-NrHmHmgwyJy2I3p3CHxjDD45fUXnF&s=10"
-},
-
-
-
-{
-    id: "club-espanol-rosario",
-    city: "rosario",
-    name: "Club Español",
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-    description:
-        "Edificio histórico representativo de la colectividad española en Rosario.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU-WjK1gEt3zAhBSnCh_BmUpS8hEyA19YycIH28L5kT0yMSZkhNLmzEQ&s=10"
+    image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2025/02/riacho-he-he.jpg"
 },
 
 {
-    id: "club-social-rosario",
-    city: "rosario",
-    name: "Club Social",
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-    description:
-        "Institución tradicional ubicada en un edificio histórico del centro rosarino.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUkAqvWz0KI0tp_KI_nHC0_jDcuxOaAJlUOOhpbVHyr9B_3jcHi2qsyY&s=10"
-},
+    id: "polideportivo-municipal-riacho-he-he",
+    city: "riacho-he-he",
 
-{
-    id: "museo-del-deporte-santafesino",
-    city: "rosario",
-    name: "Museo del Deporte Santafesino",
+    name: "Polideportivo Municipal de Riacho He-Hé",
+
     category: [
-        "Museo",
         "Deporte"
     ],
+
     description:
-        "Museo interactivo dedicado a la historia del deporte santafesino y sus máximos referentes.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLYPrDT2W1sv0KXR9Yy2IDGipA5S_DiRfExB8oNS0vo7I8GD2aF_4NB4&s=10"
+        "Complejo deportivo municipal que cuenta con una piscina de 25 por 50 metros, canchas de vóley de arena y sectores recreativos.",
+
+    image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2024/11/pileta-riacho-he-he.jpg"
 },
 
 {
-    id: "museo-del-diario-la-capital",
-    city: "rosario",
-    name: "Museo del Diario La Capital",
-    category: [
-        "Museo",
-        "Historia"
-    ],
-    description:
-        "Espacio dedicado a la historia del diario más antiguo del país y del periodismo rosarino.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZDTjfWPzZ5hEN9zJkc4IoVgOS1toWAg8B8QA_TzoTfkFXusbWPxh-wM&s=10"
-},
+    id: "banado-la-estrella-las-lomitas",
+    city: "las-lomitas",
 
-{
-    id: "museo-provincial-de-ciencias-naturales",
-    city: "rosario",
-    name: "Museo Provincial de Ciencias Naturales Dr. Ángel Gallardo",
-    category: [
-        "Museo"
-    ],
-    description:
-        "Museo con colecciones de fauna, flora, paleontología y geología de la región.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFudDct9i736cmMYLWoyMikEqoxJoBoolnk3CYMCekNw&s=10"
-},
+    name: "Bañado La Estrella",
 
-{
-    id: "acuario-del-rio-parana",
-    city: "rosario",
-    name: "Acuario del Río Paraná",
     category: [
+        "Naturaleza",
         "Animales",
-        "Naturaleza"
-    ],
-    description:
-        "Centro de interpretación dedicado a la biodiversidad del río Paraná y sus especies.",
-    image: "https://www.santafe.gob.ar/noticias/media/cache/thumb_no_full/recursos/fotos/2024/02/2024-02-15NID_279730O_1.jpeg"
-},
-
-{
-    id: "parque-alem",
-    city: "rosario",
-    name: "Parque Alem",
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-    description:
-        "Gran espacio verde sobre la costa norte con senderos, juegos y vistas al Paraná.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvr_7HIVjWrALTBngiRmFU1ofFc3AI1jU5U_afE-rx9-YRWBmU2vTmUb4&s=10"
-},
-
-{
-    id: "parque-urquiza",
-    city: "rosario",
-    name: "Parque Urquiza",
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-    description:
-        "Parque histórico ubicado sobre las barrancas del río con amplios espacios recreativos.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwKUu7wDsW7DvAyericBi2DSS5czObr0DpAiWtyzXzpxLLcY2gZ2OKEc&s=10"
-},
-
-{
-    id: "puerto-norte",
-    city: "rosario",
-    name: "Puerto Norte",
-    category: [
-        "Arquitectura",
-        "Costaneras"
-    ],
-    description:
-        "Moderno barrio ribereño con edificios, paseos gastronómicos y vistas al Paraná.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeKlen0Sx86YZ4aUSbaZwIE8MBty8XVyFECv9PruaGw&s=10"
-},
-
-{
-    id: "fuente-de-las-utopias",
-    city: "rosario",
-    name: "Fuente de las Utopías",
-    category: [
-        "Monumento"
-    ],
-    description:
-        "Fuente ornamental ubicada sobre la costanera, uno de los puntos fotográficos de Rosario.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgKEUJMdd-KheHXRtmG3BaL7BWnFeUQZBwvLcuRSsWYyyBBSJgtnkI2U&s=10"
-},
-
-{
-    id: "feria-de-artesanos-parque-independencia",
-    city: "rosario",
-    name: "Feria de Artesanos del Parque Independencia",
-    category: [
-        "Shopping"
-    ],
-    description:
-        "Feria tradicional donde artesanos locales ofrecen productos, obras y recuerdos regionales.",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTXhXDoZYZLZGNLn9_txp7hnbwkoHkjqSe8Avv_XXGfO6B1zM6GXlG_0F&s=10"
-},
-
-{
-    id: "estancia-la-raquel",
-
-    city: "castelli",
-
-    name: "Estancia La Raquel",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "Histórica estancia fundada por la familia Guerrero, rodeada de numerosas leyendas sobre apariciones y fenómenos inexplicables.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaEEd5raW286GfALpqRZzbOEwy1GQUHtUZu7PuGYFoqJBj1SV6SH92ZN4G&s=10"
-},
-
-{
-    id: "casa-minima",
-
-    city: "san-isidro",
-
-    name: "Casa Mínima",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "La casa más angosta de Buenos Aires, rodeada por antiguas leyendas sobre esclavos y presencias.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zCC2V0MLlqtTMLIbmk39F2ErNuBJHePer9BUKbCQkIqD7pjLacysPXw&s=10"
-},
-
-{
-    id: "ruta-provincial-2",
-
-    city: "chascomus",
-
-    name: "Ruta Provincial 2",
-
-    category: [
-        "Paranormal"
-    ],
-
-    description:
-        "Tramo famoso por la leyenda de 'La Novia de la Ruta', uno de los relatos paranormales más conocidos de Argentina.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhtLjrRRja22H-W_GMlrbGGgVo02cE-39AEdLQ2k06Q&s=10"
-},
-
-{
-    id: "cementerio-de-chascomus",
-
-    city: "chascomus",
-
-    name: "Cementerio de Chascomús",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "Histórico cementerio protagonista de numerosos relatos de apariciones y fenómenos extraños.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUoi0acpDcj28kolTz4Xeba98AQo7Crrhfs5o2_uvNnQ&s=10"
-},
-
-{
-    id: "cementerio-de-dolores",
-
-    city: "dolores",
-
-    name: "Cementerio de Dolores",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "Cementerio histórico conocido por historias de fantasmas y sucesos inexplicables.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShr5188zROBd94tFTCJD86VMzB196ex9yFzgMICC8IUA&s=10"
-},
-
-{
-    id: "cementerio-de-mercedes",
-
-    city: "mercedes",
-
-    name: "Cementerio de Mercedes",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "Uno de los cementerios más antiguos de la provincia, famoso por diversas leyendas urbanas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGpUEFeeQsHPEgmc0WOI80x9PnMZyKhDC9QVRoSN_98ZKNqyi_rU3bwyq&s=10"
-},
-
-{
-    id: "castillo-de-piria",
-
-    city: "sierra-de-la-ventana",
-
-    name: "Castillo de Piria",
-
-    category: [
-        "Paranormal",
-        "Castillo"
-    ],
-
-    description:
-        "Castillo rodeado de leyendas sobre presencias y sucesos misteriosos en la comarca serrana.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/78/75/c1/castillo-de-piria.jpg?w=1200&h=-1&s=1"
-},
-
-{
-    id: "hospital-santa-maria",
-
-    city: "lujan",
-
-    name: "Hospital Santa María",
-
-    category: [
-        "Paranormal"
-    ],
-
-    description:
-        "Antiguo hospital abandonado ubicado en la localidad de Open Door, partido de Luján. Es uno de los lugares con mayor fama paranormal de la provincia de Buenos Aires por sus relatos de apariciones, voces, sombras y fenómenos inexplicables.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GEC0QW65OowBYE3xw5LfMJNw1mU-fLT6anOo7BexpiKVAGVWrItu8_c&s=10"
-},
-
-{
-    id: "hospital-neuropsiquiatrico-cabred",
-
-    city: "lujan",
-
-    name: "Hospital Neuropsiquiátrico Domingo Cabred",
-
-    category: [
-        "Paranormal",
-        "Historia"
-    ],
-
-    description:
-        "Histórico hospital psiquiátrico ubicado en Open Door, partido de Luján. Fundado en 1899, es protagonista de numerosas leyendas sobre apariciones y actividad paranormal, especialmente en sus antiguos pabellones.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrq0qaYlGqvSr4XtHorg2v2BFBWRa7EZKZCGI5BwMueQ&s=10"
-},
-
-{
-    id: "castillo-estancia-la-candelaria",
-
-    city: "lobos",
-
-    name: "Castillo de la Estancia La Candelaria",
-
-    category: [
-        "Castillo",
-        "Historia",
-        "Paranormal"
-    ],
-
-    description:
-        "Imponente castillo de estilo francés construido a comienzos del siglo XX dentro de la Estancia La Candelaria. Además de su valor arquitectónico, es conocido por numerosas historias sobre apariciones y fenómenos inexplicables.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboNcOxqpbJHy3KteiKNYYTdJZwjYZIwdyGggD49R2VQ&s=10"
-},
-
-{
-    id: "pulperia-la-azotea-grande",
-
-    city: "chascomus",
-
-    name: "Pulpería La Azotea Grande",
-
-    category: [
-        "Historia",
-        "Gastronomía",
-        "Paranormal"
-    ],
-
-    description:
-        "Considerada una de las pulperías más antiguas de la provincia de Buenos Aires. Su larga historia dio origen a diversas leyendas sobre presencias y sucesos extraños.",
-
-    image: "https://www.infocielo.com/wp-content/uploads/2024/11/la-azotea-grande-lezama-leandro-bringa-1jpg.jpg"
-},
-
-{
-    id: "iglesia-santa-felicitas",
-
-    city: "caba",
-
-    name: "Iglesia Santa Felicitas",
-
-    category: [
-        "Religión",
-        "Historia",
-        "Paranormal"
-    ],
-
-    description:
-        "Iglesia construida en homenaje a Felicitas Guerrero. Es uno de los sitios más famosos de Buenos Aires por las leyendas sobre el fantasma de Felicitas y los relatos de actividad paranormal.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwfOnZlsGICPRkPfVmFkMK4p0PbetuFloXgTcyb7N3Q&s=10"
-},
-
-{
-    id: "palacio-de-los-bichos",
-
-    city: "caba",
-
-    name: "Palacio de los Bichos",
-
-    category: [
-        "Arquitectura",
-        "Historia",
-        "Paranormal"
-    ],
-
-    description:
-        "Antiguo edificio del barrio de Agronomía rodeado por numerosas leyendas urbanas y relatos de apariciones, considerado uno de los lugares más misteriosos de la Ciudad de Buenos Aires.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGyLeqYAmQU9cjqTz3ZAHG_dbDDD8qLc88Fyr9wT2m-4E7nvsiGrrQSI&s=10"
-},
-
-{
-    id: "laguna-la-rosita",
-
-    city: "castelli",
-
-    name: "Laguna La Rosita",
-
-    category: [
-        "Naturaleza",
-        "Lagunas"
-    ],
-
-    description:
-        "Principal espejo de agua de Castelli, ideal para la pesca deportiva, el descanso y las actividades al aire libre.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnC18x3gIygZ1SrIkx3o6mdGUJWQV5Och4cE0FDGNRciL3Z8R5G_INoa8&s=10"
-},
-
-{
-    id: "museo-crucero-general-belgrano",
-
-    city: "castelli",
-
-    name: "Museo Crucero General Belgrano",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a los héroes del Crucero ARA General Belgrano y a la participación argentina en la Guerra de Malvinas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f3npQmvNB81kUTEeu-mnOp6GET2C5_UUtcare_sk18PLUYHVV8HgIR0&s=10"
-},
-
-{
-    id: "calvario-jesus-el-camino",
-
-    city: "castelli",
-
-    name: "Calvario Jesús, el Camino",
-
-    category: [
-        "Religión"
-    ],
-
-    description:
-        "Importante paseo religioso donde cada Semana Santa se realiza una de las representaciones de la Pasión de Cristo más reconocidas de la región.",
-
-    image: "https://lanoticia1cdn.eleco.com.ar/media/2024/03/jesus_el_camino.jpg"
-},
-
-{
-    id: "museo-archivo-castelli",
-
-    city: "castelli",
-
-    name: "Museo Archivo Castelli",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que conserva documentos, objetos históricos y material relacionado con el desarrollo del partido de Castelli.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJkOWXx1zYQ4CRE-uXOryNdHILskRQpsEhPaGvT4m-g&s=10"
-},
-
-{
-    id: "estacion-castelli",
-
-    city: "castelli",
-
-    name: "Estación Castelli",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Antigua estación ferroviaria que fue clave para el crecimiento de la ciudad y aún conserva su arquitectura original.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu_7o8Gw-PVwMI_rNihk9k6xf2JY_1HTrogF6bYnSQ&s"
-},
-
-
-{
-    id: "parroquia-santa-rosa-de-lima",
-
-    city: "castelli",
-
-    name: "Parroquia Santa Rosa de Lima",
-
-    category: [
-        "Religión"
-    ],
-
-    description:
-        "Principal templo católico de Castelli y uno de los edificios más representativos del casco urbano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAQVc6kNRk29hL6SESTo47QQ8fLTLiiRq0aVqFx0m9wdso7M2mzLAML_E&s=10"
-},
-
-{
-    id: "puente-colgante",
-
-    city: "santa-fe-capital",
-
-    name: "Puente Colgante",
-
-    category: [
-        "Monumento",
-        "Arquitectura"
-    ],
-
-    description:
-        "Ícono de la ciudad y uno de los puentes más fotografiados del país.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Santa_fe-2.jpg"
-},
-
-{
-    id: "costanera-este",
-
-    city: "santa-fe-capital",
-
-    name: "Costanera Este",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo costero sobre la Laguna Setúbal con playas, bares y espacios recreativos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKTQDnxJY6o2jUkjCiAm-BGW4R6ErhG8T7A1LLhT5b_DovgKPURRJgTsJ&s=10"
-},
-
-{
-    id: "costanera-oeste",
-
-    city: "santa-fe-capital",
-
-    name: "Costanera Oeste",
-
-    category: [
-        "Costaneras"
-    ],
-
-    description:
-        "Tradicional paseo santafesino ideal para caminar y disfrutar del paisaje ribereño.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvClO5Kx361ifldjiBZY2jzw2nHA_JV0DR26yniggcuLQReZBEsVkT5-o&s=10"
-},
-
-{
-    id: "laguna-setubal",
-
-    city: "santa-fe-capital",
-
-    name: "Laguna Setúbal",
-
-    category: [
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran espejo de agua que caracteriza a la ciudad y donde se realizan deportes náuticos y pesca.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvhYB9Ce_VEr0t3WytKu8jP0ircf2tDUdCVeLBN7YyWFh_idarw21Slk&s=10"
-},
-
-{
-    id: "casino-santa-fe",
-
-    city: "santa-fe-capital",
-
-    name: "Casino Santa Fe",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Complejo de entretenimiento con casino, hotel, restaurantes y centro comercial.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ae/87/67/hotel-los-silos-e-seu.jpg?w=900&h=-1&s=1"
-},
-
-{
-    id: "catedral-metropolitana-santafe",
-
-    city: "santa-fe-capital",
-
-    name: "Catedral Metropolitana de Todos los Santos",
-
-    category: [
-        "Religión",
-        "Historia"
-    ],
-
-    description:
-        "Principal templo católico de la ciudad, frente a la Plaza 25 de Mayo.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Catedral_Metropolitana_Todos_los_Santos.jpg/500px-Catedral_Metropolitana_Todos_los_Santos.jpg"
-},
-
-{
-    id: "convento-san-francisco",
-
-    city: "santa-fe-capital",
-
-    name: "Convento de San Francisco",
-
-    category: [
-        "Historia",
-        "Religión"
-    ],
-
-    description:
-        "Uno de los edificios coloniales más importantes de Argentina, construido en el siglo XVII.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62P8HLLRbUSI2dn0UffOBZqAVqzhmOAOwE4nwi0QUOw&s=10"
-},
-
-
-{
-    id: "plaza-25-de-mayo",
-
-    city: "santa-fe-capital",
-
-    name: "Plaza 25 de Mayo",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Santa Fe, rodeada por la Catedral, el Cabildo y la Casa de Gobierno.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-s/08/96/6e/98/plaza-25-de-mayo.jpg"
-},
-
-{
-    id: "casa-de-gobierno",
-
-    city: "santa-fe-capital",
-
-    name: "Casa de Gobierno de Santa Fe",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Sede del Poder Ejecutivo provincial, conocida por su arquitectura italianizante.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOmwhLb_cWWQsyT4dz2mL1Ayn5SSHlHKyWayjv3e2gg&s=10"
-},
-
-{
-    id: "museo-rosa-galisteo",
-
-    city: "santa-fe-capital",
-
-    name: "Museo Provincial de Bellas Artes Rosa Galisteo",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Uno de los principales museos de arte del país, con obras de artistas argentinos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCVU_JDjmZdzubr-yI4lB2G1jerzUoJaDkFpu9vp3_w&s=10"
-},
-
-{
-    id: "museo-etnografico",
-
-    city: "santa-fe-capital",
-
-    name: "Museo Etnográfico y Colonial Juan de Garay",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia colonial y a los pueblos originarios del litoral.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuefVYxPENfSp3yzRbi7GoEFqsAHilQXlVz7Jd8t9p6Q&s=10"
-},
-
-{
-    id: "parque-del-sur",
-
-    city: "santa-fe-capital",
-
-    name: "Parque del Sur",
-
-    category: [
-        "Parques"
-    ],
-
-    description:
-        "Gran espacio verde urbano con lago artificial y sectores deportivos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUatBCm-_sf7hWt_pS-0H_y7o4PGJgyGa2x15rZ4pwpw&s=10"
-},
-
-{
-    id: "jardin-botanico-santafe",
-
-    city: "santa-fe-capital",
-
-    name: "Jardín Botánico Ing. Lorenzo Parodi",
-
-    category: [
-        "Jardines",
-        "Naturaleza"
-    ],
-
-    description:
-        "Espacio verde dedicado a la conservación y exhibición de especies vegetales.",
-
-    image: "https://tripin.travel/wp-content/uploads/2017/01/BotanicoFlorece.jpg"
-},
-
-{
-    id: "puerto-de-santa-fe",
-
-    city: "santa-fe-capital",
-
-    name: "Puerto de Santa Fe",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Histórico puerto fluvial que impulsó el crecimiento económico de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_vTKQ_V3U4viYPri1XBhCBO8Doq_ZobhnhL7nAletzdciFFgKHMYOz47&s=10"
-},
-
-{
-    id: "shopping-la-ribera",
-
-    city: "santa-fe-capital",
-
-    name: "La Ribera Shopping",
-
-    category: [
-        "Shopping"
-    ],
-
-    description:
-        "Principal centro comercial de la ciudad con locales, gastronomía y entretenimiento.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqseUPEpWzSBNQLxG730uq2FPzuE0LUpAj6xd7GD5ikzA5Pymk0z447Z8g&s=10"
-},
-
-{
-    id: "teatro-municipal-1-de-mayo",
-
-    city: "santa-fe-capital",
-
-    name: "Teatro Municipal 1° de Mayo",
-
-    category: [
-        "Teatro",
-        "Historia"
-    ],
-
-    description:
-        "Principal teatro de la ciudad, inaugurado en 1905 y sede de importantes espectáculos culturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFj4aYUkQjucYEoXGnURxg6FBFe8BMd9TX1B8ih1e9A&s=10"
-},
-
-{
-    id: "centro-cultural-provincial",
-
-    city: "santa-fe-capital",
-
-    name: "Centro Cultural Provincial",
-
-    category: [
-        "Teatro"
-    ],
-
-    description:
-        "Espacio cultural con salas para teatro, música, danza y exposiciones.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtVaoCNej6M61uqWyxy1x-vUuXikA3iUglECZSWcaV-2_EnQ4oejFfH-w&s=10"
-},
-
-{
-    id: "molino-fabrica-cultural",
-
-    city: "santa-fe-capital",
-
-    name: "El Molino - Fábrica Cultural",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Antiguo molino harinero reconvertido en un moderno espacio cultural e interactivo.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyKj1LJI5XUamEQ-L7CsL2WRJeAdz-gCnrLpaxlmqdX2fyycfe6qEeeo&s=10"
-},
-
-{
-    id: "estacion-belgrano",
-
-    city: "santa-fe-capital",
-
-    name: "Estación Belgrano",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Histórica estación ferroviaria transformada en centro de eventos, ferias y congresos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-EibCP3UJ4XEEZ9tCCbuLzpgwJ7tHMTJSxmXouh_JQ&s=10"
-},
-
-{
-    id: "reserva-ecologica-unl",
-
-    city: "santa-fe-capital",
-
-    name: "Reserva Ecológica UNL",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza"
-    ],
-
-    description:
-        "Reserva natural universitaria con senderos interpretativos y gran biodiversidad del litoral.",
-
-    image: "https://www.unl.edu.ar/comunicaciondelaciencia/wp-content/uploads/sites/41/2021/06/03-1024x768.jpg"
-},
-
-{
-    id: "playa-los-alisos",
-
-    city: "santa-fe-capital",
-
-    name: "Playa Los Alisos",
-
-    category: [
-        "Playas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Balneario sobre la Laguna Setúbal muy concurrido durante el verano.",
-
-    image: "https://www.ellitoral.com/images/2024/12/06/06U50bUte_870x580__1.jpg"
-},
-
-
-{
-    id: "estadio-brigadier-lopez",
-
-    city: "santa-fe-capital",
-
-    name: "Estadio Brigadier General Estanislao López",
-
-    category: [
-        "Estadio",
-        "Deporte"
-    ],
-
-    description:
-        "Estadio del Club Atlético Colón, conocido como 'El Cementerio de los Elefantes'.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwSJv1Fdz8NgExn_DbJk4Q6itk6xz-CuIT7utM3q0jg&s=10"
-},
-
-{
-    id: "estadio-15-de-abril",
-
-    city: "santa-fe-capital",
-
-    name: "Estadio 15 de Abril",
-
-    category: [
-        "Estadio",
-        "Deporte"
-    ],
-
-    description:
-        "Estadio del Club Atlético Unión, uno de los escenarios deportivos más importantes de la provincia.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Estadio_15_de_Abril_-_Club_Atl%C3%A9tico_Uni%C3%B3n_de_Santa_Fe.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original"
-},
-
-{
-    id: "cerveceria-santa-fe",
-
-    city: "santa-fe-capital",
-
-    name: "Cervecería Santa Fe",
-
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
-
-    description:
-        "Histórica cervecería fundada en 1912, símbolo de la identidad gastronómica santafesina.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/1c/d2/41/patio-de-la-cerveceria.jpg?w=1200&h=-1&s=1"
-},
-
-{
-    id: "mercado-progreso",
-
-    city: "santa-fe-capital",
-
-    name: "Mercado Progreso",
-
-    category: [
-        "Gastronomía",
-        "Historia"
-    ],
-
-    description:
-        "Mercado histórico recuperado con propuestas gastronómicas, culturales y comerciales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9_0eN89j6V3JH_aMddF8vNEn85LLZIAfZyyh7Nuc2ae8-4rWrluZvDf9&s=10"
-},
-
-{
-    id: "peatonal-san-martin",
-
-    city: "santa-fe-capital",
-
-    name: "Peatonal San Martín",
-
-    category: [
-        "Shopping"
-    ],
-
-    description:
-        "Principal paseo comercial a cielo abierto de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotqQLMDBcrcWL6k0Zw1GfudDIHbBvLrecdpRgqEECU20ajxepX7nof1gd&s=10"
-},
-
-{
-    id: "puente-orono",
-
-    city: "santa-fe-capital",
-
-    name: "Puente Oroño",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Puente que conecta Santa Fe con Santo Tomé, uno de los accesos más emblemáticos de la ciudad.",
-
-    image: "https://media.airedesantafe.com.ar/p/504070aaa1e59521ecede2360f9af0d1/adjuntos/268/imagenes/003/105/0003105989/viaducto-orono-dji_0680_1200-mth-aire-1200-2jpg.jpg?0000-00-00-00-00-00"
-},
-
-{
-    id: "basilica-guadalupe",
-
-    city: "santa-fe-capital",
-
-    name: "Basílica de Nuestra Señora de Guadalupe",
-
-    category: [
-        "Religión"
-    ],
-
-    description:
-        "Uno de los templos más importantes del litoral y centro de una multitudinaria peregrinación anual.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHCVKUom0Cyemkwc4cXa3fcZ4Si2XtXoB5tSLk7uYgZ2NH3Sdl6pwcZVj&s=10"
-},
-
-{
-    id: "campo-de-la-gloria",
-
-    city: "san-lorenzo",
-
-    name: "Campo de la Gloria",
-
-    category: [
-        "Historia",
-        "Monumento"
-    ],
-
-    description:
-        "Sitio histórico donde se libró el Combate de San Lorenzo el 3 de febrero de 1813.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7e/aa/18/caption.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "convento-san-carlos",
-
-    city: "san-lorenzo",
-
-    name: "Convento San Carlos Borromeo",
-
-    category: [
-        "Historia",
-        "Religión"
-    ],
-
-    description:
-        "Convento franciscano donde descansó el General San Martín antes del Combate de San Lorenzo.",
-
-    image: "https://www.argentina.gob.ar/sites/default/files/conventoslorenzocnm.jpg"
-},
-
-{
-    id: "museo-conventual-san-carlos",
-
-    city: "san-lorenzo",
-
-    name: "Museo Conventual San Carlos",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que conserva objetos y documentos relacionados con el Combate de San Lorenzo y la historia nacional.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKk3GiStJKWf-32SgARDv8nzTVoova43ecs31RpcRs11goUX7uIblxiw9N&s=10"
-},
-
-{
-    id: "museo-del-arbol-historico",
-
-    city: "san-lorenzo",
-
-    name: "Pino Histórico",
-
-    category: [
-        "Historia",
-        "Monumento"
-    ],
-
-    description:
-        "Descendiente del histórico pino bajo cuya sombra fue atendido el coronel San Martín tras el combate.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlygozZ4gbDqHd5-CiekBbLcdvMG-1q5PUIZovAjOpn-FdFMGbmXGp0mIN&s=10"
-},
-
-{
-    id: "complejo-museologico",
-
-    city: "san-lorenzo",
-
-    name: "Complejo Museológico",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Conjunto de museos dedicados a la historia local y al Combate de San Lorenzo.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ToXPE_-jGL4NzhU6cSkyMyuIoSkmUvqg_0yQPkjLVHub9jUc_H2Lj0s&s=10"
-},
-
-{
-    id: "costanera-san-lorenzo",
-
-    city: "san-lorenzo",
-
-    name: "Costanera de San Lorenzo",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo sobre las barrancas del río Paraná con miradores y espacios recreativos.",
-
-    image: "https://live.staticflickr.com/8332/8419241627_9c00156e01_b.jpg"
-},
-
-
-{
-    id: "centro-cultural-municipal",
-
-    city: "san-lorenzo",
-
-    name: "Centro Cultural y Educativo Municipal",
-
-    category: [
-        "Teatro"
-    ],
-
-    description:
-        "Espacio cultural donde se realizan exposiciones, espectáculos y actividades educativas.",
-
-    image: "https://sanlorenzo.gob.ar/wp-content/uploads/2018/08/centro-cultural-brigadier.jpg"
-},
-
-{
-    id: "centro-comercial-cielo-abierto",
-
-    city: "san-lorenzo",
-
-    name: "Centro Comercial a Cielo Abierto",
-
-    category: [
-        "Shopping"
-    ],
-
-    description:
-        "Principal paseo comercial del centro de San Lorenzo con locales gastronómicos y comercios.",
-
-    image: "https://pregon.me/wp-content/uploads/2018/09/ccca.jpg"
-},
-
-{
-    id: "plaza-25-de-mayo-rafaela",
-
-    city: "rafaela",
-
-    name: "Plaza 25 de Mayo",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Principal espacio público de la ciudad, rodeado por edificios históricos y punto de encuentro de los rafaelinos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYCydQVMORt4PDKwGsq4jsfMI_DHfBgZGxxk_Wkp9tipOenwTv5I8v1A&s=10"
-},
-
-{
-    id: "catedral-san-rafael",
-
-    city: "rafaela",
-
-    name: "Catedral San Rafael",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo principal de Rafaela, ubicado frente a la Plaza 25 de Mayo y uno de los edificios más representativos de la ciudad.",
-
-    image: "https://horariodemisas.com.ar/wp-content/uploads/2022/07/iglesia-catedral-san-rafael-rafaela-santa-fe.jpg"
-},
-
-{
-    id: "museo-historico-municipal-rafaela",
-
-    city: "rafaela",
-
-    name: "Museo Histórico Municipal",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que recorre la historia de Rafaela desde su fundación como colonia agrícola hasta la actualidad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZX6jXeCBeHbKbqdHE0xel7RIsZjTFMAm4KPgnuCp1HuEOXyDoveKNkZE&s=10"
-},
-
-{
-    id: "museo-urbano-poggi",
-
-    city: "rafaela",
-
-    name: "Museo Municipal de Bellas Artes Dr. Urbano Poggi",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Principal museo de arte de Rafaela, con exposiciones permanentes y temporarias de artistas locales y nacionales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTifLmlYyYP5-ydGBe6bQZ7gwjzCyvMb3FhTJ52THCTIg&s=10"
-},
-
-{
-    id: "viejo-mercado",
-
-    city: "rafaela",
-
-    name: "Complejo Cultural del Viejo Mercado",
-
-    category: [
-        "Teatro",
-        "Arquitectura"
-    ],
-
-    description:
-        "Antiguo mercado municipal convertido en centro cultural con salas de exposiciones, espectáculos y eventos.",
-
-    image: "https://rn-2026.global.ssl.fastly.net/galeria/fotos/2026/07/03/m_1783078300.jpg"
-},
-
-{
-    id: "placita-honda",
-
-    city: "rafaela",
-
-    name: "Placita Honda",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Uno de los espacios verdes más tradicionales de Rafaela, muy utilizado para actividades recreativas.",
-
-    image: "https://rn-2026.global.ssl.fastly.net/galeria/fotos/2026/05/05/e_1778004011.jpeg"
-},
-
-{
-    id: "boulevard-santa-fe",
-
-    city: "rafaela",
-
-    name: "Boulevard Santa Fe",
-
-    category: [
-        "Arquitectura",
-        "Shopping"
-    ],
-
-    description:
-        "Principal avenida de la ciudad, famosa por sus adoquines históricos, comercios y bares.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIcM7s0nV5c2kig1fbYSU5UG3Y2kIY1-M1jHOUIehWA&s=10"
-},
-
-{
-    id: "terraza-verde",
-
-    city: "rafaela",
-
-    name: "Terraza Verde",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Espacio sustentable ubicado sobre el edificio municipal, con vista panorámica de la ciudad y enfoque en energías renovables.",
-
-    image: "https://regionoeste.com.ar/download/multimedia.normal.959009e553c55d1a.4453435f313136385f6e6f726d616c2e4a5047.webp"
-},
-
-{
-    id: "autodromo-ciudad-de-rafaela",
-
-    city: "rafaela",
-
-    name: "Autódromo Ciudad de Rafaela",
-
-    category: [
-        "Deporte"
-    ],
-
-    description:
-        "Circuito histórico del automovilismo argentino, sede del Turismo Carretera e importantes competencias nacionales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrgiLVxBTqtf3YZNUYZ6AVE_ztBZoNiFZnHUgzI_x1cmMUu926c88fLz4&s=10"
-},
-
-{
-    id: "parque-balneario-rafaela",
-
-    city: "rafaela",
-
-    name: "Parque Balneario Municipal",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran parque urbano con lago, espacios recreativos, senderos y sectores para deportes y picnic.",
-
-    image: "https://inforafaela.com.ar/download/multimedia.normal.89e0c105811ea653.62616c6e656172696f2d6573706572616e7a615f6e6f726d616c2e6a7067.jpg"
-},
-
-
-{
-    id: "sitio-ramsar-jaaukanigas",
-
-    city: "reconquista",
-
-    name: "Sitio Ramsar Jaaukanigás",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza",
-        "Animales"
-    ],
-
-    description:
-        "Uno de los humedales más importantes de Argentina, ideal para ecoturismo, navegación y avistaje de fauna.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqeCaG-qF0MTMmtI6_Cq3s6OgurcddeWM35fOhQw-yRMLeJYWEIJapJ5o&s=10"
-},
-
-
-{
-    id: "plaza-25-de-mayo-reconquista",
-
-    city: "reconquista",
-
-    name: "Plaza 25 de Mayo",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Principal plaza de la ciudad, inaugurada en 1872 y centro de la vida cívica de Reconquista.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowgn7oG6VDpUYFxiMle61oycYHb3nxY5B3VbRm6OD80DIoBPnBeg4TLk&s=10"
-},
-
-{
-    id: "catedral-inmaculada-concepcion",
-
-    city: "reconquista",
-
-    name: "Catedral de la Inmaculada Concepción",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Principal templo católico de Reconquista, reconocido por sus vitrales realizados por Antonio Estruch.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlJVnbL3Kvi0YAH6i8PlriOleZDI-5FhjmJ5m-nGOKC7I5g3B7qJ5m_A&s=10"
-},
-
-{
-    id: "museo-historico-reconquista",
-
-    city: "reconquista",
-
-    name: "Museo Histórico de Reconquista",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia del norte santafesino y la fundación de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8tMr1S7Wf7xs5XWmOBIWB8wfh_Ly0nTLriQRzwqo0M6UmzmWDA-5egM&s=10"
-},
-
-{
-    id: "museo-arqueologia-paleontologia",
-
-    city: "reconquista",
-
-    name: "Museo Municipal de Arqueología y Paleontología",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Museo con importantes colecciones arqueológicas y paleontológicas del norte de Santa Fe.",
-
-    image: "https://www.reconquistahoy.com/content/bucket/5/72545w620h450.jpg"
-},
-
-{
-    id: "museo-julio-pagano",
-
-    city: "reconquista",
-
-    name: "Museo de Arte Julio Pagano",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Museo de arte que alberga exposiciones de artistas regionales y nacionales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXfFORz1bvEneB_A-faIfG6MKYNoynhR-ds3BnRTc15XrTYpBJg5IpWNXn&s=10"
-},
-
-{
-    id: "observatorio-astronomico",
-
-    city: "reconquista",
-
-    name: "Observatorio Astronómico Municipal",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Espacio educativo y científico dedicado a la observación astronómica y actividades de divulgación.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2idxrko1U2XEA7MbNn9gsdaOFtcEcYqp44lZ03PPQC_BxOX3WS9MRjWzE&s=10"
-},
-
-{
-    id: "complejo-cultural-la-estacion",
-
-    city: "reconquista",
-
-    name: "Complejo Cultural La Estación",
-
-    category: [
-        "Teatro",
-        "Arquitectura"
-    ],
-
-    description:
-        "Centro cultural donde se realizan conciertos, muestras y espectáculos.",
-
-    image: "https://www.serargentino.com/public/images/2020/12/16090670060-Complejo-Cultural-y-Recreativo-La-Estacin-p-773x458.jpg"
-},
-
-{
-    id: "puerto-reconquista",
-
-    city: "reconquista",
-
-    name: "Puerto Reconquista",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Puerto fluvial ubicado sobre el arroyo San Jerónimo, clave para el desarrollo económico de la región.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDiB6mBlUpY2sh9FtEDdExRlvMv9y09Lj7pcjw8WT_dWyDBawCQe6dv5R&s=10"
-},
-
-{
-    id: "complejo-gente-del-agua",
-
-    city: "reconquista",
-
-    name: "Complejo Gente del Agua",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza"
-    ],
-
-    description:
-        "Pasarelas y senderos interpretativos para recorrer la selva en galería y los humedales del Jaaukanigás.",
-
-    image: "https://www.reconquistahoy.com/content/bucket/7/101087w790h444c.jpg.webp"
-},
-
-{
-    id: "museo-de-la-colonizacion",
-
-    city: "esperanza",
-
-    name: "Museo de la Colonización",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que narra la historia de la primera colonia agrícola organizada del país y de los inmigrantes que fundaron Esperanza.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmJpS9s_B21mk1LfD-FTkAeGU4tBJmXgJNT7rnYY5_UrW8b4umB0DMp0e&s=10"
-},
-
-{
-    id: "parque-de-la-agricultura",
-
-    city: "esperanza",
-
-    name: "Parque de la Agricultura",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Principal espacio verde de Esperanza, con lago artificial, laberinto, Museo de la Máquina Agrícola y Ciudad de los Niños.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/99/Parque_Nacional_de_la_Agricultura_-_Esperanza_%28Santa_Fe%29_2.jpg"
-},
-
-{
-    id: "museo-de-la-maquina-agricola",
-
-    city: "esperanza",
-
-    name: "Museo de la Máquina Agrícola",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Exhibe maquinaria agrícola histórica utilizada durante la colonización y el desarrollo productivo de la región.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDsLOVOVE_cnoSru6TJtvDuSMeFZ9GK8aNlGzyNGEKg&s=10"
-},
-
-{
-    id: "plaza-san-martin-esperanza",
-
-    city: "esperanza",
-
-    name: "Plaza San Martín",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Principal plaza céntrica de Esperanza, rodeada por edificios históricos y monumentos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnyorsyI_GKmiBFv4BTBExJlIWUYb_A4d2SKKUVA5R0w&s=10"
-},
-
-{
-    id: "basilica-natividad",
-
-    city: "esperanza",
-
-    name: "Basílica de la Natividad de la Santísima Virgen",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Basílica declarada Bien de Interés Histórico Nacional y uno de los templos más importantes de la ciudad.",
-
-    image: "https://www.esperanzadiaxdia.com.ar/galeria/fotos/2026/05/05/m_1778015002.jpg"
-},
-
-{
-    id: "iglesia-evangelica-esperanza",
-
-    city: "esperanza",
-
-    name: "Iglesia Evangélica del Río de la Plata",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Histórico templo representativo de la inmigración europea en Esperanza.",
-
-    image: "https://www.esperanzadiaxdia.com.ar/galeria/fotos/2022/07/08/m_Iglesia-Evangelica-Esperanza.jpg"
-},
-
-{
-    id: "iglesia-ortodoxa-san-jorge",
-
-    city: "esperanza",
-
-    name: "Iglesia Ortodoxa San Jorge",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Iglesia ortodoxa declarada Bien de Interés Histórico Nacional.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTP2b7z-KRpYdmhwxV-svouzt-Pre4HumQn27wdNgLrw4wjL6XPZIuOS4&s=10"
-},
-
-{
-    id: "camping-municipal-esperanza",
-
-    city: "esperanza",
-
-    name: "Camping Municipal",
-
-    category: [
-        "Naturaleza"
-    ],
-
-    description:
-        "Predio recreativo ubicado sobre el río Salado, ideal para actividades al aire libre.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ891ClEr7oRudL6RTnCvrdJf3w_tikiF4wwDrOz8Bj507Fz_Xz4jS1QD4&s=10"
-},
-
-{
-    id: "casa-de-la-colonia",
-
-    city: "esperanza",
-
-    name: "Casa de la Colonia",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Uno de los edificios más antiguos de Esperanza, sede de actividades culturales y exposiciones.",
-
-    image: "https://elcolonodeloeste.com.ar/wp-content/uploads/2021/08/museo-borla.jpg"
-},
-
-
-{
-    id: "palacio-municipal-esperanza",
-
-    city: "esperanza",
-
-    name: "Palacio Municipal",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Edificio histórico sede del gobierno municipal, ubicado frente a la Plaza San Martín.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlzeq_OLwacMoK7kMAbMG5s8TeNTyAZFYHIV35kGuFhnp4c5nIpw0TtaI&s=10"
-},
-
-{
-    id: "centro-cultural-dante-alighieri",
-
-    city: "esperanza",
-
-    name: "Centro Cultural Municipal Dante Alighieri",
-
-    category: [
-        "Teatro"
-    ],
-
-    description:
-        "Principal sala cultural de Esperanza, donde se realizan espectáculos, conciertos y exposiciones.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvo-MXjCvV8Ur7LkvGEVP58LJqLtR94g5JYfgdNlWWCIx86Eer2kttLc&s=10"
-},
-
-{
-    id: "parque-nacional-islas-de-santa-fe",
-
-    city: "puerto-gaboto",
-
-    name: "Parque Nacional Islas de Santa Fe",
-
-    category: [
-        "Parques Nacionales",
-        "Reservas Naturales",
-        "Naturaleza"
-    ],
-
-    description:
-        "Área protegida del delta del Paraná con humedales, fauna autóctona, senderos, navegación y avistaje de aves.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmK_IFslMp2VWZ3HejPNWW8qlBuNGaz67AHsc0RD8IBxBU83TrGhWmDsCN&s=10"
-},
-
-{
-    id: "fuerte-sancti-spiritu",
-
-    city: "puerto-gaboto",
-
-    name: "Sitio Histórico Fuerte Sancti Spiritu",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Lugar donde Sebastián Gaboto fundó en 1527 el primer asentamiento español en el actual territorio argentino.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1cMfWp85I9S_ZqjDPNbQ0ldvpkAIfsPEvRSPwxaBh5kJVl5-8-EWzS09&s=10"
-},
-{
-    id: "costanera-puerto-gaboto",
-
-    city: "puerto-gaboto",
-
-    name: "Costanera de Puerto Gaboto",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo sobre el río Coronda con miradores, espacios verdes y embarcaderos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHicxoV1S-dcV_6TmFdOvtR5V6kDNAMOajS3DXp4ThW9osHO6WIouf-tt1&s=10"
-},
-
-{
-    id: "desembocadura-rio-carcarana",
-
-    city: "puerto-gaboto",
-
-    name: "Desembocadura del Río Carcarañá",
-
-    category: [
-        "Naturaleza"
-    ],
-
-    description:
-        "Punto donde el río Carcarañá desemboca en el Coronda, formando uno de los paisajes naturales más importantes de la región.",
-
-    image: "https://media.airedesantafe.com.ar/p/9e56cb0765352b4bcd7cf58590025a7a/adjuntos/268/imagenes/003/664/0003664023/1200x0/smart/rio-carcarana-dji_0215_mthjpg.jpg"
-},
-
-{
-    id: "tunel-subfluvial",
-
-    city: "parana",
-
-    name: "Túnel Subfluvial Raúl Uranga - Carlos Sylvestre Begnis",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Obra de ingeniería que une las provincias de Entre Ríos y Santa Fe bajo el río Paraná.",
-
-    image: "https://www.serargentino.com/public/images/2020/08/15979497290-tunel-subfluvial-773x458.jpg"
-},
-
-{
-    id: "costanera-parana",
-
-    city: "parana",
-
-    name: "Costanera de Paraná",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo costero con vistas al río Paraná, playas, restaurantes y espacios recreativos.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/7e/a5/e1/caption.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "parque-urquiza-parana",
-
-    city: "parana",
-
-    name: "Parque Urquiza",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Principal parque de la ciudad, ubicado sobre las barrancas del río Paraná.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI62W8xthB5Z3e6VNouFQM80aRO0GRFMWEilAypQWncw&s=10"
-},
-
-{
-    id: "catedral-parana",
-
-    city: "parana",
-
-    name: "Catedral Metropolitana Nuestra Señora del Rosario",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Principal templo católico de Paraná, declarado Monumento Histórico Nacional.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJnPJL5ZBN5-e5NT8LJ-94cqhcbrBEu_4w-KDSDzjpRnmoGo5R3CdG84&s=10"
-},
-
-{
-    id: "plaza-1-de-mayo",
-
-    city: "parana",
-
-    name: "Plaza 1° de Mayo",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Paraná, rodeada por edificios históricos y la Catedral.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/64/74/15/vista-de-la-plaza.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "casa-de-gobierno-entre-rios",
-
-    city: "parana",
-
-    name: "Casa de Gobierno de Entre Ríos",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Palacio gubernamental inaugurado en 1900, uno de los edificios más emblemáticos de la provincia.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ47KQb_lG_nK2W2flaK6QQzOIgB0ciMgjGWl86pUNSQ&s=10"
-},
-
-{
-    id: "museo-martiniano-leguizamon",
-
-    city: "parana",
-
-    name: "Museo Histórico Martiniano Leguizamón",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia entrerriana y a la etapa en que Paraná fue capital de la Confederación Argentina.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6gtLzCvis2d-cOm0eDB4yMD3F_GeZ-grILfDCzKo-Q&s=10"
-},
-
-{
-    id: "museo-provincial-bellas-artes",
-
-    city: "parana",
-
-    name: "Museo Provincial de Bellas Artes Dr. Pedro E. Martínez",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Principal museo de arte de Entre Ríos con importantes colecciones nacionales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRca_xGo7fQzUBa6DVysinjtDs_8bYViECs5ZDYW6ABqcNGxcLRMr9oqWo&s=10"
-},
-
-{
-    id: "museo-ciencias-naturales-parana",
-
-    city: "parana",
-
-    name: "Museo Provincial de Ciencias Naturales y Antropológicas",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Museo con colecciones de paleontología, arqueología, flora y fauna de Entre Ríos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1HoklBe1m6xjvqugV7pKk8Vwf4z65pdS1AJ2fh9K7JboYaEcHDZpJDw&s=10"
-},
-
-{
-    id: "teatro-3-de-febrero",
-
-    city: "parana",
-
-    name: "Teatro 3 de Febrero",
-
-    category: [
-        "Teatro",
-        "Arquitectura"
-    ],
-
-    description:
-        "Histórico teatro inaugurado en 1852, uno de los más importantes del litoral argentino.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfEow3SQH2o0LkKa-4n1jbS2M1DklQWfJY1Fk01BKVJ-9HgLMBelpyqVk&s=10"
-},
-
-{
-    id: "parque-nuevo",
-
-    city: "parana",
-
-    name: "Parque Nuevo Humberto Varisco",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran espacio verde con senderos, barrancas y miradores hacia el río Paraná.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFd_BVuGLP1bo03d0XpAYLZ-drmqWMm910KHNYJ4KdK-M-Szfr9Fra5ct&s=10"
-},
-
-{
-    id: "balneario-thompson",
-
-    city: "parana",
-
-    name: "Balneario Thompson",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Principal balneario de Paraná, muy concurrido durante el verano.",
-
-    image: "https://www.parana.gob.ar/writable/uploads/954070bef3b9a75a3bce9c8105ce4c42.jpg"
-},
-
-{
-    id: "puerto-nuevo-parana",
-
-    city: "parana",
-
-    name: "Puerto Nuevo",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Puerto histórico sobre el río Paraná, importante para el desarrollo comercial de la ciudad.",
-
-    image: "https://paranahaciaelmundo.com/wp-content/uploads/2021/05/s-n-parana-muelle-del-puerto-nuevo-002.jpg"
-},
-
-{
-    id: "carnaval-del-pais",
-
-    city: "gualeguaychu",
-
-    name: "Carnaval del País",
-
-    category: [
-        "Carnaval",
-        "Fiesta Nacional"
-    ],
-
-    description:
-        "La fiesta más emblemática de Gualeguaychú y uno de los carnavales más importantes de Sudamérica. Cada verano, las comparsas desfilan en el Corsódromo con imponentes carrozas, batucadas, vestuarios y coreografías ante miles de espectadores. Fue declarado Fiesta Nacional y es considerado el espectáculo teatral a cielo abierto más grande de Argentina.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4bVbgS8dBuhLHhrcaTWf2Y__0kZxU2sqeLcypklqYUVdhA6cHnYVIqL45&s=10"
-},
-
-{
-    id: "costanera-gualeguaychu",
-
-    city: "gualeguaychu",
-
-    name: "Costanera de Gualeguaychú",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo costero sobre el río Gualeguaychú con bares, restaurantes y miradores.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc70fGHKRNhGiQ4aENPnYDgSP-dbiB3_X4lZOmjpgi_cebiT5WcnArJck&s=10"
-},
-
-{
-    id: "corsodromo",
-
-    city: "gualeguaychu",
-
-    name: "Corsódromo",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Escenario del Carnaval del País, considerado el espectáculo a cielo abierto más importante de Argentina.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Corsodromo_de_gualeguaychu_1997.jpg"
-},
-
-{
-    id: "museo-del-carnaval",
-
-    city: "gualeguaychu",
-
-    name: "Museo del Carnaval",
-
-    category: [
-        "Museo",
-        "Carnaval"
-    ],
-
-    description:
-        "Museo dedicado a la historia, trajes y carrozas del famoso Carnaval del País.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk1RwZrhGDIBzA11mMCjzAX8DULaQNH87PhznbqkTEiw&s=10"
-},
-
-{
-    id: "plaza-san-martin-gualeguaychu",
-
-    city: "gualeguaychu",
-
-    name: "Plaza San Martín",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Gualeguaychú, rodeada por edificios históricos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ycqy2KrbjpFe6huyxccZZKjdOnPDPVCX0wBOIFskC1hsb6sRypVE8pTi&s=10"
-},
-
-{
-    id: "catedral-san-jose",
-
-    city: "gualeguaychu",
-
-    name: "Catedral San José",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Principal templo católico de la ciudad, ubicado frente a la Plaza San Martín.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Gualeguaych%C3%BA_-_Catedral_1.jpg"
-},
-
-{
-    id: "teatro-gualeguaychu",
-
-    city: "gualeguaychu",
-
-    name: "Teatro Gualeguaychú",
-
-    category: [
-        "Teatro",
-        "Arquitectura"
-    ],
-
-    description:
-        "Histórico teatro inaugurado en 1914 y uno de los principales espacios culturales de Entre Ríos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2S14QcEJyLjEERTzoVITxr4qJ-QyAEiDfJMnPIml7u-eQKN2bZ1t9XTo&s=10"
-},
-
-{
-    id: "palacio-municipal-gualeguaychu",
-
-    city: "gualeguaychu",
-
-    name: "Palacio Municipal",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Edificio histórico sede del gobierno municipal.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3kMTi0Z5fiUaC0cnigA2BLx850yAQ3bd3ZlA5Fg-pKShU9-j05kZpmRp&s=10"
-},
-
-{
-    id: "parque-unzue",
-
-    city: "gualeguaychu",
-
-    name: "Parque Unzué",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran parque ribereño con espacios recreativos, camping y playas.",
-
-    image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1638657916.jpg"
-},
-
-{
-    id: "balneario-solar-del-este",
-
-    city: "gualeguaychu",
-
-    name: "Balneario Solar del Este",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Balneario sobre el río Gualeguaychú, muy visitado durante el verano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHe2jjD-BUjcJWFkLJ6xnKtWyf30F3Uez3HW0V9OC6T0vuduywQSp3wIp&s=10"
-},
-
-{
-    id: "isla-libertad",
-
-    city: "gualeguaychu",
-
-    name: "Isla Libertad",
-
-    category: [
-        "Naturaleza"
-    ],
-
-    description:
-        "Isla ubicada frente a la costanera, ideal para actividades náuticas y recreativas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmaIKOjv-AvVCQL2QtaE0ooZM2o-SfZJYuHmeE-joGIdsOgpuxCpo4OEY&s=10"
-},
-
-{
-    id: "puerto-gualeguaychu",
-
-    city: "gualeguaychu",
-
-    name: "Puerto de Gualeguaychú",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Puerto histórico que impulsó el crecimiento económico y comercial de la ciudad.",
-
-    image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1558910080.jpg"
-},
-
-{
-    id: "mercado-del-munilla",
-
-    city: "gualeguaychu",
-
-    name: "Mercado del Munilla",
-
-    category: [
-        "Gastronomía"
-    ],
-
-    description:
-        "Polo gastronómico con restaurantes y propuestas regionales frente al río.",
-
-    image: "https://gualeguaychu.tur.ar/apps/webturismo/ftp/catalogo/landscape_h__Gualeguaychu_1661605292.jpg"
-},
-
-{
-    id: "reserva-las-piedras",
-
-    city: "gualeguaychu",
-
-    name: "Reserva Natural Las Piedras",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza"
-    ],
-
-    description:
-        "Área protegida con senderos, humedales y gran diversidad de flora y fauna autóctona.",
-
-    image: "https://gualeguaychu.gov.ar/apps/dashboard/ftp/web/images/landscape_h__Gualeguaychu_1662222542.jpg"
-},
-
-{
-    id: "puente-mendez-casanova",
-
-    city: "gualeguaychu",
-
-    name: "Puente Méndez Casariego",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Puente histórico que conecta distintos sectores de la ciudad y ofrece vistas panorámicas del río.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1xbG8xF1fPtyfT-3IAvXfNM8V_NL3gPDmzAtTDjS_jXqLHNSUSVOfr0&s=10"
-},
-
-{
-    id: "termas-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Termas Colón",
-
-    category: [
-        "Termas"
-    ],
-
-    description:
-        "Complejo termal con piscinas de distintas temperaturas, spa y servicios recreativos, uno de los principales atractivos turísticos de Entre Ríos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUT7Vf3F82_N4SMQW8csMpLhPWhi1A5Mro5KkIEhqZtSw2eq90T94ryIq&s=10"
-},
-
-{
-    id: "playa-inkier",
-
-    city: "colon-entre-rios",
-
-    name: "Playa Inkier",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Playa de arena sobre el río Uruguay, muy concurrida durante el verano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaWKzSiPEVMNS7Stzm2haIkY8f_QN7f9P0VeGr7JlZjrfBW3Ya6n2YSbp&s=10"
-},
-
-{
-    id: "playa-norte-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Playa Norte",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "La playa más extensa y popular de Colón, ideal para disfrutar del río Uruguay.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c0/22/a9/playa-norte.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "costanera-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Costanera de Colón",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo costero con vistas al río Uruguay, playas, restaurantes y espacios recreativos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EC00O7HsNQvT1Wn72Y0uugR9MmDDAS7WtNNVbtQNmdKJVrHr6iF9jUDK&s=10"
-},
-
-{
-    id: "parque-quiros",
-
-    city: "colon-entre-rios",
-
-    name: "Parque Dr. Herminio J. Quirós",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran parque urbano con miradores al río, anfiteatro y espacios deportivos.",
-
-    image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Parque_Quir%C3%B3s%2C_Col%C3%B3n_-_1.jpg"
-},
-
-{
-    id: "molino-forclaz",
-
-    city: "colon-entre-rios",
-
-    name: "Molino Forclaz",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Molino histórico construido por inmigrantes suizos en el siglo XIX y declarado Monumento Histórico Nacional.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZu_6ILWmOUeAgg7R-4hEX4Dcf5BBPme1xzc0i24u5hBVSVJHkzsA7jTQR&s=10"
-},
-
-{
-    id: "museo-provincial-molino-forclaz",
-
-    city: "colon-entre-rios",
-
-    name: "Museo Molino Forclaz",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que preserva la historia de la familia Forclaz y de la inmigración agrícola en Entre Ríos.",
-
-    image: "https://www.entrerios.gov.ar/cultura/wp-content/uploads/2021/06/DSC_0121.jpg"
-},
-
-{
-    id: "parque-nacional-el-palmar",
-
-    city: "colon-entre-rios",
-
-    name: "Parque Nacional El Palmar",
-
-    category: [
-        "Parques Nacionales",
-        "Naturaleza"
-    ],
-
-    description:
-        "Área protegida famosa por sus extensos palmares de yatay, senderos, fauna silvestre y playas sobre el río Uruguay.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9NqhAq5h3PPXSYRn42MlE_7x-H0tEKM2szyvVcdVDYgIhYcqpFbLweKc&s=10"
-},
-
-{
-    id: "puerto-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Puerto de Colón",
-
-    category: [
-        "Historia"
-    ],
-
-    description:
-        "Puerto histórico sobre el río Uruguay que impulsó el desarrollo comercial y turístico de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-tqL1ZE24NgFyC2Mf9XpqVGdW6J4t0-oWYG-CCSNUGJZfDAVN9DZAQg&s=10"
-},
-
-{
-    id: "plaza-san-martin-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Plaza San Martín",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Principal plaza de Colón, rodeada de edificios históricos y comercios.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-s/15/3b/47/69/estatua-del-gral-san.jpg"
-},
-
-{
-    id: "basilica-santos-justo-pastor",
-
-    city: "colon-entre-rios",
-
-    name: "Basílica Santos Justo y Pastor",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo histórico y uno de los edificios religiosos más importantes de Colón.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-s/13/ab/e0/85/frente-de-la-iglesia.jpg"
-},
-
-{
-    id: "museo-historico-colon",
-
-    city: "colon-entre-rios",
-
-    name: "Museo Histórico Regional de Colón",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia de la ciudad y de la colonización de la región.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS138FigcKsuLQqLzYahjNNOpb8ER0eajCpK0kdBM_4imTXmvGhY1kC_vRr&s=10"
-},
-
-{
-    id: "puente-internacional-artigas",
-
-    city: "colon-entre-rios",
-
-    name: "Puente Internacional General Artigas",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Puente internacional que une Colón con Paysandú (Uruguay), uno de los pasos fronterizos más importantes del litoral.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsq4Fg9-hDi2av_ouQ1rdx6eArRSQ0pNso4HYfvQAaOO3-xtj8Fteu5Q&s=10"
-},
-
-{
-    id: "represa-salto-grande",
-
-    city: "concordia",
-
-    name: "Complejo Hidroeléctrico Salto Grande",
-
-    category: [
-        "Arquitectura",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gigantesca obra de ingeniería sobre el río Uruguay que une Argentina y Uruguay, con lago artificial, miradores y espacios recreativos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFZyREAVROgaAC7F_JRiK6tFbqANGiLALOUO_Sdny_A&s=10"
-},
-
-{
-    id: "lago-salto-grande",
-
-    city: "concordia",
-
-    name: "Lago de Salto Grande",
-
-    category: [
-        "Lagunas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran espejo de agua artificial con playas, actividades náuticas, pesca y espacios naturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu6W9LhasLFpuhOXQFPegf_32uxMwA1xVehqKOiOZHT_wODbWxyu2p3Ph5&s=10"
-},
-
-{
-    id: "termas-del-dayman",
-
-    city: "concordia",
-
-    name: "Termas del Daymán",
-
-    category: [
-        "Termas"
-    ],
-
-    description:
-        "Complejo termal con piscinas de aguas calientes, parques acuáticos y servicios turísticos.",
-
-    image: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/39440742.jpg?k=ae6ea58644901e6536e70ba193a6ac1643f4c84a78c431bf1a8b8dc537f2068e&o="
-},
-
-{
-    id: "termas-punta-viracho",
-
-    city: "concordia",
-
-    name: "Termas Punta Viracho",
-
-    category: [
-        "Termas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Complejo termal ubicado junto al lago Salto Grande, rodeado de naturaleza.",
-
-    image: "https://www.concordia.gob.ar/sites/default/files/viracho_1.jpg"
-},
-
-{
-    id: "costanera-concordia",
-
-    city: "concordia",
-
-    name: "Costanera de Concordia",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo junto al río Uruguay con parques, playas, restaurantes y vistas panorámicas.",
-
-    image: "https://www.concordia.gob.ar/sites/default/files/concordia-costanera.jpg"
-},
-
-{
-    id: "playa-nebel",
-
-    city: "concordia",
-
-    name: "Playa Nébel",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Una de las playas más conocidas de Concordia, ubicada sobre el río Uruguay.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqRJoDNxWdmOGhEBijMT-Xd74wvFRqw_P4cRcTjLvA9G3CJsjd6JMOBw&s=10"
-},
-
-{
-    id: "parque-san-carlos",
-
-    city: "concordia",
-
-    name: "Parque San Carlos",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran parque histórico con bosques, miradores al río Uruguay y senderos naturales.",
-
-    image: "https://www.concordia.gob.ar/sites/default/files/san%20carlos_3.jpg"
-},
-
-{
-    id: "castillo-san-carlos",
-
-    city: "concordia",
-
-    name: "Castillo San Carlos",
-
-    category: [
-        "Castillo",
-        "Historia",
-        "Arquitectura",
-        "Ruinas"
-    ],
-
-    description:
-        "Ruinas de un antiguo castillo construido en el siglo XIX, rodeado de leyendas y misterios.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpzRCsuW6mHe8r8-ZPNRzXLgTzKhBiP4LYDjYwQr55nUJ7Oo4HlT02JM_&s=10"
-},
-
-{
-    id: "jardin-botanico-concordia",
-
-    city: "concordia",
-
-    name: "Jardín Botánico de Concordia",
-
-    category: [
-        "Jardines",
-        "Naturaleza"
-    ],
-
-    description:
-        "Espacio verde con especies vegetales autóctonas y senderos educativos.",
-
-    image: "https://www.concordia.gob.ar/sites/default/files/san-valentin-2_0.jpg"
-},
-
-{
-    id: "museo-regional-palacio-arruabarrena",
-
-    city: "concordia",
-
-    name: "Museo Regional Palacio Arruabarrena",
-
-    category: [
-        "Museo",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Palacio histórico construido a comienzos del siglo XX que conserva objetos y documentos de la historia local.",
-
-    image: ""
-},
-
-{
-    id: "catedral-san-antonio-padua",
-
-    city: "concordia",
-
-    name: "Catedral San Antonio de Padua",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Principal templo católico de Concordia y uno de los edificios históricos de la ciudad.",
-
-    image: "https://www.concordia.gob.ar/sites/default/files/sdsdsd.jpg"
-},
-
-{
-    id: "plaza-25-de-mayo-concordia",
-
-    city: "concordia",
-
-    name: "Plaza 25 de Mayo",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Concordia, rodeada por edificios históricos y culturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKU3NLDtBx1AHohMDwuGcgzulaUkq9IJXSbgEfKCafDaTnJEKnBYKsjEY&s=10"
-},
-
-{
-    id: "museo-del-hombre-y-la-tecnologia",
-
-    city: "concordia",
-
-    name: "Museo del Hombre y la Tecnología",
-
-    category: [
-        "Museo"
-    ],
-
-    description:
-        "Museo dedicado a la evolución tecnológica y la historia productiva de la región.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c6/aa/e4/museo-del-hombre-y-la.jpg?w=900&h=-1&s=1"
-},
-
-{
-    id: "autodromo-concordia",
-
-    city: "concordia",
-
-    name: "Autódromo Ciudad de Concordia",
-
-    category: [
-        "Deporte"
-    ],
-
-    description:
-        "Circuito automovilístico donde se realizan competencias nacionales.",
-
-    image: "https://lasemanaentredosrios.com/wp-content/uploads/2025/05/Autodro-Cdia.jpg"
-},
-
-{
-    id: "termas-federacion",
-
-    city: "federacion",
-
-    name: "Termas de Federación",
-
-    category: [
-        "Termas"
-    ],
-
-    description:
-        "Uno de los complejos termales más importantes de Argentina, famoso por sus aguas termales naturales, piscinas, parque acuático y spa.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiw-QjW2hEGQYElyJJaoyy9XfCq-PiAL3ZuUpELMBnb1ZwJ8FnfNVhC9B&s=10"
-},
-
-{
-    id: "parque-acuatico-federacion",
-
-    city: "federacion",
-
-    name: "Parque Acuático Federación",
-
-    category: [
-        "Aventura",
-        "Termas"
-    ],
-
-    description:
-        "Parque acuático dentro del complejo termal con toboganes, juegos y atracciones para toda la familia.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/07/15/e9/toboganes-y-play-ground.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "costanera-federacion",
-
-    city: "federacion",
-
-    name: "Costanera de Federación",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo frente al lago de Salto Grande con playas, espacios verdes y vistas panorámicas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1SMK3yo8jekUiWXZjBufxps1fCBFvZ4DVRHv8lqlsNvqcc59uS5c1f3MY&s=10"
-},
-
-{
-    id: "lago-salto-grande-federacion",
-
-    city: "federacion",
-
-    name: "Lago Salto Grande",
-
-    category: [
-        "Lagunas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran lago artificial formado por la represa de Salto Grande, ideal para pesca, deportes náuticos y actividades al aire libre.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGITtbtxmKqPlpBzELvidKcLnSEtetiJ616IetLmrEdNV53o78gYO90gmT&s=10"
-},
-
-{
-    id: "playa-baly",
-
-    city: "federacion",
-
-    name: "Playa Baly",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Una de las playas más conocidas de Federación, ubicada sobre el lago de Salto Grande.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6SAiFeKPc1fgbRkl9qrHRFtOcoN4pcLTxOntkjcN4JBocmckMh7J-8rpa&s=10"
-},
-
-{
-    id: "playa-grande-federacion",
-
-    city: "federacion",
-
-    name: "Playa Grande",
-
-    category: [
-        "Playas"
-    ],
-
-    description:
-        "Playa familiar con arena y servicios turísticos a orillas del lago.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6FDCWpMBsHbX4wpzy44_SYOXQsHysmgFEgIfmNfn3HUJm8jo5ZjzBemg&s=10"
-},
-
-{
-    id: "antigua-federacion",
-
-    city: "federacion",
-
-    name: "Antigua Federación",
-
-    category: [
-        "Historia",
-        "Paranormal",
-        "Ruinas"
-    ],
-
-    description:
-        "Restos de la antigua ciudad de Federación, trasladada en la década de 1970 por la construcción del embalse de Salto Grande. Sus ruinas y recuerdos forman parte de la identidad local.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7imj3Dh6ROJvjjHWd5AE42KVswItcxr3RBGDtGop38TtAsYPoQs0NVw&s=10"
-},
-
-{
-    id: "museo-de-los-asentamientos",
-
-    city: "federacion",
-
-    name: "Museo de los Asentamientos",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que conserva la memoria de la antigua Federación y del proceso de traslado de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqe8T4mzdEC7U5CgpzgsHSAE_bf1zysLtkPaJGSc3BAw&s=10"
-},
-
-{
-    id: "reserva-natural-chaviyu",
-
-    city: "federacion",
-
-    name: "Reserva Natural Chaviyú",
-
-    category: [
-        "Reservas Naturales",
-        "Bosques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Área natural protegida con monte nativo, senderos y biodiversidad autóctona.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAIHh-keea8fp4BMX6fjJ7IKm8uDmVBe6B_0uuZzYE0MFKG1sbJoTIOPp&s=10"
-},
-
-{
-    id: "plaza-libertad-federacion",
-
-    city: "federacion",
-
-    name: "Plaza Libertad",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de la ciudad, punto de encuentro rodeado de edificios históricos y comerciales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6q-kgUoy8GEeoZIKDRlX1xgnm3PpCIxZcV9ftDSRjQ&s=10"
-},
-
-{
-    id: "iglesia-inmaculada-concepcion-federacion",
-
-    city: "federacion",
-
-    name: "Iglesia Inmaculada Concepción",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo principal de Federación, destacado por su arquitectura y valor histórico.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/2a/88/63/parroquia-inmaculada.jpg"
-},
-
-{
-    id: "puerto-federacion",
-
-    city: "federacion",
-
-    name: "Puerto de Federación",
-
-    category: [
-        "Naturaleza",
-        "Costaneras"
-    ],
-
-    description:
-        "Sector recreativo junto al lago con actividades náuticas y vistas del embalse.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeCD0D9qoyTmpzhpvACnoMUyoV5sAUtpP34rNg6egHQ&s=10"
-},
-
-{
-    id: "abadia-del-nino-dios",
-
-    city: "victoria-entre-rios",
-
-    name: "Abadía del Niño Dios",
-
-    category: [
-        "Religión",
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Monasterio benedictino fundado en 1899, uno de los sitios religiosos más importantes de Entre Ríos, famoso por sus productos artesanales y su arquitectura.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUgEzeDXHoTa3aCgu0BtbkfGHLsBC5MAGMT00-dOrPQ&s=10"
-},
-
-{
-    id: "termas-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Termas de Victoria",
-
-    category: [
-        "Termas"
-    ],
-
-    description:
-        "Complejo termal con piscinas de aguas calientes, spa y servicios turísticos con vista al río Paraná.",
-
-    image: "https://www.turismoentrerios.com/victoria/img/termas.jpg"
-},
-
-{
-    id: "costanera-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Costanera de Victoria",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo junto al río Paraná con playas, restaurantes, miradores y espacios recreativos.",
-
-    image: "https://www.turismoentrerios.com/victoria/img/costanera.jpg"
-},
-
-{
-    id: "circuito-islas-y-humedales",
-
-    city: "victoria-entre-rios",
-
-    name: "Circuito de Islas y Humedales",
-
-    category: [
-        "Aventura",
-        "Naturaleza",
-        "Reservas Naturales"
-    ],
-
-    description:
-        "Excursiones fluviales para conocer la flora, fauna y paisajes naturales del delta entrerriano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY5d7BlBoHGkWWLFl457u8A-7YulJuuyxGRn0PgzgU5FOv8D90VaRpY0&s=10"
-},
-
-{
-    id: "casino-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Casino Victoria",
-
-    category: [
-        "Arquitectura"
-    ],
-
-    description:
-        "Complejo turístico ubicado frente al río Paraná con hotel, casino y espacios gastronómicos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleMMhzVF9VGkpedzX6sT7w93NSZGjcfB9eqWfLEmXU7FEpRWuzeDpO331&s=10"
-},
-
-{
-    id: "cerro-de-la-matanza",
-
-    city: "victoria-entre-rios",
-
-    name: "Cerro de la Matanza",
-
-    category: [
-        "Historia",
-        "Naturaleza"
-    ],
-
-    description:
-        "Sitio histórico y natural donde ocurrió la batalla entre pueblos originarios y expedicionarios españoles en el siglo XVII.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEsq84nSjm7QH0L6MBMzdAWUOOjhw4V6vp03yBeSoneC9deJPhZTAfw8Y&s=10"
-},
-
-
-{
-    id: "iglesia-aranzazu",
-
-    city: "victoria-entre-rios",
-
-    name: "Iglesia Nuestra Señora de Aránzazu",
-
-    category: [
-        "Religión",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo histórico construido en el siglo XIX y uno de los símbolos arquitectónicos de Victoria.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcStg7T4NKbVWOjb1QLD3y4sLJArX_pK9-WcfvVkmQpfko4d5Cr_2DftT&s=10"
-},
-
-{
-    id: "plaza-san-martin-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Plaza San Martín",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Victoria rodeada por edificios históricos y espacios culturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKpGhKBWTapx6-r7PtIZ0WGgj0bj5P5r06IQYCSb5K0Ep30Ig_bCdqVwS&s=10"
-},
-
-{
-    id: "puerto-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Puerto de Victoria",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Puerto histórico y punto de salida para excursiones por el río Paraná y sus islas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SiJAB-oSpkQqjoMbbyhMX5J9UmS47d4gqGfbAaxoaJcUeqqvDP4niW52&s=10"
-},
-
-{
-    id: "museo-del-ovni-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Museo del OVNI",
-
-    category: [
-        "Museo",
-        "Paranormal"
-    ],
-
-    description:
-        "Museo dedicado al fenómeno OVNI, con registros, investigaciones y relatos sobre avistamientos y misterios de la región de Victoria.",
-
-    image: "https://media.lacapital.com.ar/p/e7bc5631685957092ef775c1e0a6659a/adjuntos/203/imagenes/005/947/0005947959/1200x675/smart/el-museo-del-ovni-unico-el-pais-llevaba-cinco-anos-abierto-la-comunidad-y-el-han-pasado-miles-visitantes.jpg"
-},
-
-{
-    id: "carnaval-de-victoria",
-
-    city: "victoria-entre-rios",
-
-    name: "Carnaval de Victoria",
-
-    category: [
-        "Carnaval"
-    ],
-
-    description:
-        "Una de las fiestas populares más importantes de Entre Ríos, con comparsas, carrozas, música y espectáculos durante la temporada de verano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtC6sbFiMW_kulVlkrRHewuJ7eVzm4lUie366rO1XOoXRvlu6Fvo0tsL0&s=10"
-},
-
-{
-    id: "monte-de-los-ombues-victoria",
-
-    city: "victoria",
-
-    name: "Monte de los Ombúes",
-
-    category: [
-        "Naturaleza",
-        "Bosques",
-        "Reservas Naturales"
-    ],
-
-    description:
-        "Área natural cercana a Victoria donde se encuentra una concentración de antiguos ombúes, una especie característica de la región pampeana y litoral. Un paisaje único para recorrer y conocer la flora autóctona.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKWKdMnyVl00uln_MUBeAfqA0aTLFPQ30-h2fQIifZnYXm2p0nDabFSrT&s=10"
-},
-
-{
-    id: "termas-villa-elisa",
-
-    city: "villa-elisa",
-
-    name: "Termas de Villa Elisa",
-
-    category: [
-        "Termas",
-        "Naturaleza",
         "Aventura"
     ],
 
     description:
-        "Complejo termal reconocido de Entre Ríos con piscinas de aguas termales, spa, alojamientos, parque acuático y amplios espacios naturales para descansar.",
+        "Uno de los grandes humedales de Formosa y una de las 7 Maravillas Naturales de Argentina. Desde Las Lomitas se accede a distintos sectores del bañado, especialmente El Vertedero y Fortín La Soledad.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8Dty6lbKp30xaRDnRuqYtkOGFbiDXV3cKkRc-a4tZSeO5ljkUqoEAXke&s=10"
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/34/21/65/paseo-en-el-banado-la.jpg?w=900&h=500&s=1"
 },
 
 {
-    id: "palacio-san-jose",
+    id: "el-vertedero-banado-la-estrella",
+    city: "las-lomitas",
 
-    city: "villa-elisa",
-
-    name: "Palacio San José",
-
-    category: [
-        "Historia",
-        "Arquitectura",
-        "Museo"
-    ],
-
-    description:
-        "Residencia histórica del general Justo José de Urquiza, uno de los monumentos históricos más importantes de Entre Ríos, ubicada cerca de Villa Elisa.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvvsP52IMP_v6BvwnAUi3kvWQZ927e3C0yn0EFA4lyjKkmCteEFpW0eQ&s=10"
-},
-
-{
-    id: "complejo-la-aurora-del-palmar",
-
-    city: "villa-elisa",
-
-    name: "La Aurora del Palmar",
+    name: "El Vertedero",
 
     category: [
         "Naturaleza",
-        "Reservas Naturales",
-        "Aventura"
-    ],
-
-    description:
-        "Reserva natural privada cercana a Villa Elisa con palmares, senderos, fauna autóctona, actividades rurales y paisajes del litoral entrerriano.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/28/2a/73/casona-habitaciones-tipo.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "tren-historico-villa-elisa",
-
-    city: "villa-elisa",
-
-    name: "Tren Histórico de Villa Elisa",
-
-    category: [
-        "Historia",
-        "Aventura"
-    ],
-
-    description:
-        "Recorrido turístico ferroviario que conecta Villa Elisa con la zona rural y permite conocer paisajes tradicionales de Entre Ríos.",
-
-    image: "https://villaelisa.gov.ar/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-05-at-10.15.35-AM.jpeg"
-},
-
-{
-    id: "plaza-san-martin-villa-elisa",
-
-    city: "villa-elisa",
-
-    name: "Plaza San Martín",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Villa Elisa, rodeada por edificios históricos, espacios verdes y la vida cotidiana de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWka5ApIMVlOIEpT1M4LKsrUz8ttGgpL0ZXg3fefcgml8jMUY_o5iY04&s=10"
-},
-
-{
-    id: "fiesta-nacional-del-inmigrante-villa-elisa",
-
-    city: "villa-elisa",
-
-    name: "Fiesta del Inmigrante de Villa Elisa",
-
-    category: [
-        "Fiesta Nacional",
-        "Historia",
-        "Gastronomía"
-    ],
-
-    description:
-        "Celebración que homenajea las raíces inmigrantes de la ciudad con gastronomía, música, danzas y tradiciones de las colectividades.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqf8Eq0u3Mjz-n1IFMJYWNtHwQOTNl3QjX1Y3Wnrv3xoDtaMvCwainPuU&s=10"
-},
-
-{
-    id: "termas-de-chajari",
-
-    city: "chajari",
-
-    name: "Termas de Chajarí",
-
-    category: [
-        "Termas",
-        "Naturaleza",
-        "Aventura"
-    ],
-
-    description:
-        "Complejo termal ubicado en un amplio parque natural con piscinas de aguas termales, sectores recreativos, spa y espacios para descansar en familia.",
-
-    image: "https://www.serargentino.com/public/images/2023/03/16781557520-Termas-de-Chajar01-773x458.webp"
-},
-
-
-{
-    id: "reserva-natural-chajari",
-
-    city: "chajari",
-
-    name: "Reserva Natural de Chajarí",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza",
-        "Bosques"
-    ],
-
-    description:
-        "Área destinada a la conservación de ambientes naturales del litoral entrerriano, con flora y fauna autóctona.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwrwQudtnXHXQBkd0NOXEGUBnA995xBRxS9MehR6TslU6l0N63DfAV_WQ&s=10"
-},
-
-
-{
-    id: "costanera-chajari",
-
-    city: "chajari",
-
-    name: "Costanera de Chajarí",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo al aire libre con espacios verdes y sectores recreativos para disfrutar del paisaje ribereño de la región.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VZYx3nLEstSwPcmlKXWanM3Qf1IWJQeA3qO3wTIpdDeh1qD7ljkZOpE&s=10"
-},
-
-
-{
-    id: "museo-regional-chajari",
-
-    city: "chajari",
-
-    name: "Museo Regional Camila Quiroga",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que conserva objetos, documentos y elementos vinculados a la historia de Chajarí y la identidad cultural de la región.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3J_wsbSkO831QrtFZk1EibyYye09wpnKfmeHNktlUg&s=10"
-},
-
-
-{
-    id: "plaza-libertad-chajari",
-
-    city: "chajari",
-
-    name: "Plaza Libertad",
-
-    category: [
-        "Plaza"
-    ],
-
-    description:
-        "Plaza principal de Chajarí, espacio histórico y de encuentro de la comunidad local.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9SFRLm4u4E-2zCWtLfXuxsPM-M-sfr0YQKxkYahS9Ut4RHBhM5cBEcxU&s=10"
-},
-
-
-{
-    id: "fiesta-nacional-de-la-citricultura",
-
-    city: "chajari",
-
-    name: "Fiesta Nacional de la Citricultura",
-
-    category: [
-        "Fiesta Nacional",
-        "Gastronomía",
-        "Historia"
-    ],
-
-    description:
-        "Celebración que homenajea la principal actividad productiva de Chajarí, con espectáculos, gastronomía y tradiciones vinculadas a la producción citrícola.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9KgZ9qcF1SyoBuK03iq48_P5-AaAdsFCPHJCAq3xbQ&s=10"
-},
-
-
-{
-    id: "monumento-a-la-citricultura-chajari",
-
-    city: "chajari",
-
-    name: "Monumento a la Citricultura",
-
-    category: [
-        "Monumento",
-        "Historia"
-    ],
-
-    description:
-        "Monumento que representa la importancia de la producción citrícola en la identidad económica y cultural de Chajarí.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcHxjMKZPVu-2wxZPJjZMI7b33V21WfyWBJMam1t_jZ5qQdDQLOuZImE&s=10"
-},
-
-
-{
-    id: "estacion-ferrocarril-chajari",
-
-    city: "chajari",
-
-    name: "Estación de Ferrocarril de Chajarí",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Antigua estación ferroviaria que forma parte del patrimonio histórico de la ciudad y recuerda el desarrollo del ferrocarril en Entre Ríos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdKqtr3bJ-je6F3c3IraH3kyg3i0Tx01MPp2ezfnznA&s=10"
-},
-
-{
-    id: "parque-nacional-pre-delta",
-
-    city: "diamante",
-
-    name: "Parque Nacional Pre-Delta",
-
-    category: [
-        "Parques Nacionales",
-        "Naturaleza",
-        "Reservas Naturales",
-        "Bosques",
-        "Lagunas"
-    ],
-
-    description:
-        "Área protegida ubicada sobre el río Paraná que conserva ambientes de humedales, islas, lagunas y bosques del Delta. Ideal para recorrer senderos, observar aves, disfrutar paisajes naturales y conocer la biodiversidad del litoral entrerriano.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/90/e3/b1/parque-nacional-pre-delta.jpg?w=900&h=500&s=1"
-},
-
-{
-    id: "laguna-irupe-pre-delta",
-
-    city: "diamante",
-
-    name: "Laguna Irupé - Parque Nacional Pre-Delta",
-
-    category: [
-        "Lagunas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Laguna interior del Parque Nacional Pre-Delta rodeada de vegetación típica del humedal, reconocida por la presencia del irupé y la observación de aves.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-s/06/ba/22/d6/parque-nacional-pre-delta.jpg"
-},
-
-
-{
-    id: "senderos-pre-delta",
-
-    city: "diamante",
-
-    name: "Senderos del Parque Nacional Pre-Delta",
-
-    category: [
-        "Naturaleza",
-        "Aventura",
-        "Bosques"
-    ],
-
-    description:
-        "Circuitos de baja dificultad que atraviesan bosques, lagunas y ambientes del Delta del Paraná, ideales para caminatas y avistaje de fauna.",
-
-    image: "https://media-cdn.tripadvisor.com/media/photo-s/06/ba/22/fa/parque-nacional-pre-delta.jpg"
-},
-
-{
-    id: "parque-arqueologico-santa-fe-la-vieja",
-
-    city: "cayasta",
-
-    name: "Parque Arqueológico Ruinas de Santa Fe la Vieja",
-
-    category: [
-        "Historia",
-        "Museo",
-        "Arquitectura",
-        "Monumento"
-    ],
-
-    description:
-        "Sitio arqueológico donde se conservan los restos de la primera fundación de Santa Fe realizada por Juan de Garay en 1573. Es uno de los patrimonios históricos más importantes de la provincia.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfZy7L-2ZZlQFE-zTJRYHDPYAA2OwDl1HlAU00LHiLWC_myib334CNg_8&s=10"
-},
-
-
-{
-    id: "museo-fundacional-santa-fe-la-vieja",
-
-    city: "cayasta",
-
-    name: "Museo Fundacional Argentina",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo ubicado dentro del Parque Arqueológico Santa Fe la Vieja que exhibe objetos recuperados durante las excavaciones y elementos de la vida colonial.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeybEhmn0bo81nixSY2MKwWR0OG8s2sMXk-MSgHVScB3-bpJ5igM6IP5c&s=10"
-},
-
-
-{
-    id: "iglesia-san-francisco-santa-fe-la-vieja",
-
-    city: "cayasta",
-
-    name: "Iglesia de San Francisco - Santa Fe la Vieja",
-
-    category: [
-        "Religión",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Restos de una de las iglesias pertenecientes a la antigua ciudad colonial de Santa Fe la Vieja, conservados dentro del parque arqueológico.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrX58QYcVP9F-YKRLJKGhvmt8dmutaVRrWazunYFAtf1O-DsklT7-6uk&s=10"
-},
-
-
-{
-    id: "casa-vera-muxica",
-
-    city: "cayasta",
-
-    name: "Casa Ambientada de Vera Muxica",
-
-    category: [
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Reconstrucción histórica que recrea una vivienda colonial de la antigua Santa Fe la Vieja y permite conocer cómo era la vida cotidiana durante el período colonial.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvNwrj6GOtWtw6TWizb2yvCJAJKK9GttbTJyjqb-o1bF6_rW0l5Cdens&s=10"
-},
-
-
-{
-    id: "museo-del-recuerdo-cayasta",
-
-    city: "cayasta",
-
-    name: "Museo del Recuerdo",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo local instalado en un antiguo almacén de ramos generales que conserva objetos y testimonios de la historia de Cayastá.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElerU6N4mCDoMqI9ND8K7TS26XAo0bAItClmYxh9D6rl-Mx5xminMVEh2&s=10"
-},
-
-
-{
-    id: "costanera-cayasta",
-
-    city: "cayasta",
-
-    name: "Costanera de Cayastá",
-
-    category: [
-        "Costaneras",
-        "Naturaleza"
-    ],
-
-    description:
-        "Paseo junto al río San Javier con paisajes del litoral, espacios recreativos y lugares ideales para disfrutar del entorno natural.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGYNIPlPGCHpu7ELfLxM6UDK8g3Sc44PuQAnUItD1ZPVwdmzFvYlcyw&s=10"
-},
-
-
-{
-    id: "reserva-natural-cayasta",
-
-    city: "cayasta",
-
-    name: "Reserva Natural Cayastá",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza",
-        "Bosques"
-    ],
-
-    description:
-        "Área natural con ambientes del litoral santafesino, monte ribereño y fauna autóctona, ideal para caminatas y observación de aves.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6LyFv7GmaHQwU4phMBFXtI2oJccmdE5Gwbim5WlZkQeOHODz68wYzdV4&s=10"
-},
-
-
-{
-    id: "rio-san-javier-cayasta",
-
-    city: "cayasta",
-
-    name: "Río San Javier",
-
-    category: [
-        "Naturaleza",
-        "Aventura",
-        "Costaneras"
-    ],
-
-    description:
-        "Río característico del litoral santafesino donde se realizan actividades como pesca deportiva, paseos en lancha y avistaje de fauna.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8ZGi2tnhXuhBpHKnFY2kOxn3DQtWYEQLj8unUPw8rA&s=10"
-},
-
-
-{
-    id: "fiesta-provincial-de-la-yerra-cayasta",
-
-    city: "cayasta",
-
-    name: "Fiesta Provincial de la Yerra",
-
-    category: [
-        "Fiesta Nacional",
-        "Historia"
-    ],
-
-    description:
-        "Celebración tradicional que reúne costumbres gauchas, actividades rurales y expresiones culturales del litoral santafesino.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZ3qFvMhVKhv5AthpETtzEKw3T1yycyq0YcAl-WiUObyh3BZ3bWBolbkm&s=10"
-},
-
-{
-    id: "museo-historico-parroquial-san-javier",
-
-    city: "san-javier-santa-fe",
-
-    name: "Museo Histórico Parroquial",
-
-    category: [
-        "Museo",
-        "Historia",
-        "Religión"
-    ],
-
-    description:
-        "Museo que conserva objetos y testimonios de la época de las misiones jesuíticas, la comunidad mocoví y la historia de San Javier.",
-
-    image: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=449,fit=crop/mjEPp1zR5RhVQGnj/museo-bordes-claros-m2W4yVV5E2tnj8l1.png"
-},
-
-
-{
-    id: "parroquia-san-francisco-javier",
-
-    city: "san-javier-santa-fe",
-
-    name: "Parroquia San Francisco Javier",
-
-    category: [
-        "Religión",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo histórico de la ciudad vinculado a la tradición religiosa y cultural de San Javier.",
-
-    image: "https://www.sepernoticias.com.ar/noticias/2025/07-julio/0704/san-javier-282-aniversario-02.jpg"
-},
-
-
-{
-    id: "camino-de-la-costa-san-javier",
-
-    city: "san-javier-santa-fe",
-
-    name: "Camino de la Costa",
-
-    category: [
-        "Naturaleza",
-        "Aventura"
-    ],
-
-    description:
-        "Circuito turístico que recorre localidades costeras del noreste santafesino con paisajes de ríos, islas y humedales.",
-
-    image: "https://www.santafe.tur.ar/wp-content/uploads/sites/91/2025/12/11IMG_2809-scaled.jpg"
-},
-
-
-{
-    id: "peregrinacion-nautica-san-javier",
-
-    city: "san-javier-santa-fe",
-
-    name: "Peregrinación Náutica de San Francisco Javier",
-
-    category: [
-        "Religión",
-    ],
-
-    description:
-        "Tradicional procesión religiosa que recorre las aguas del río San Javier con la imagen de San Francisco Javier acompañada por embarcaciones y fieles. Es una de las celebraciones más representativas de la identidad costera de la ciudad.",
-
-    image: "https://www.ellitoral.com/images/2024/12/05/HVhdIdV29_870x580__1.jpg"
-},
-
-
-{
-    id: "playa-rincon",
-
-    city: "san-jose-del-rincon",
-
-    name: "Playas de San José del Rincón",
-
-    category: [
-        "Playas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Sectores de playa sobre los ríos Colastiné y San Javier, ideales para disfrutar del paisaje costero y actividades al aire libre.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RbyTh_J21HBuwZRma489mYoG2HS6v7o6eze5pCvShJGZ1Td4vhWaUQ8B&s=10"
-},
-
-
-{
-    id: "reserva-natural-arroyo-potrero",
-
-    city: "san-jose-del-rincon",
-
-    name: "Reserva Natural Municipal Arroyo Potrero",
-
-    category: [
-        "Reservas Naturales",
-        "Naturaleza",
-        "Lagunas"
-    ],
-
-    description:
-        "Área natural protegida que conserva ambientes de humedales, arroyos y fauna autóctona del litoral santafesino.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3fbG5MoYBcasn4ROzTVAiooMFLRIk7FbeRGEetbbmBErxcOnPkaWbkY&s=10"
-},
-
-
-
-{
-    id: "iglesia-nuestra-senora-del-carmen-rincon",
-
-    city: "san-jose-del-rincon",
-
-    name: "Iglesia Nuestra Señora del Carmen",
-
-    category: [
-        "Religión",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Templo histórico de San José del Rincón vinculado a la identidad religiosa y cultural de la localidad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKwtq2RWyk6-WX_OvvUF9gBmuawseNMA6cr5veR9Jm3Q&s=10"
-},
-
-{
-    id: "laguna-melincue",
-
-    city: "melincue",
-
-    name: "Laguna Melincué",
-
-    category: [
-        "Lagunas",
-        "Naturaleza",
-        "Reservas Naturales",
-        "Animales"
-    ],
-
-    description:
-        "Gran humedal santafesino reconocido por su biodiversidad, presencia de flamencos y paisajes naturales únicos del sur provincial.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Jh3cmSfRxuQoM0-LdPFTlXmPfnDQ-bVR95yIHCB_5o5doxdBXUZL9pI&s=10"
-},
-
-
-{
-    id: "casino-melincue",
-
-    city: "melincue",
-
-    name: "Casino Melincué",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Complejo turístico asociado a la historia del antiguo desarrollo turístico de Melincué y su laguna.",
-
-    image: "https://www.ellitoral.com/images/2022/03/08/X_NgeyQWT_1300x655__1.jpg"
-},
-
-{
-    id: "ruinas-hotel-balneario-melincue",
-
-    city: "melincue",
-
-    name: "Ruinas del Hotel Balneario Melincué",
-
-    category: [
-        "Historia",
-        "Arquitectura",
-        "Paranormal",
-        "Naturaleza",
-        "Ruinas"
-    ],
-
-    description:
-        "Restos del antiguo Hotel Balneario Melincué, un lujoso complejo turístico inaugurado en el siglo XX que quedó abandonado luego de las grandes inundaciones de la Laguna Melincué. Hoy sus ruinas emergen como uno de los paisajes más particulares y misteriosos de Santa Fe.",
-
-    image: "https://media.lacapital.com.ar/p/42013a8d762666cb166d8ef70c97a370/adjuntos/203/imagenes/100/027/0100027519/642x0/smart/imagepng.png"
-},
-
-{
-    id: "palacio-san-jose-cdu",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Palacio San José",
-
-    category: [
-        "Historia",
-        "Arquitectura",
-        "Museo"
-    ],
-
-    description:
-        "Residencia histórica de Justo José de Urquiza, primer presidente constitucional argentino. Es uno de los monumentos históricos más importantes del país, con salones, jardines y objetos originales de la época.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO99QUAyXIe12Me7bE2QF5VwlWopEd3n2JBXBNH7B9Zh5y08QM93f97-k&s=10"
-},
-
-
-{
-    id: "isla-del-puerto-concepcion",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Isla del Puerto",
-
-    category: [
-        "Playas",
-        "Naturaleza",
-        "Costaneras"
-    ],
-
-    description:
-        "Complejo turístico ubicado sobre el río Uruguay con playas, espacios verdes, gastronomía y vistas panorámicas del río.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXWztv-swde980WI6ReIcB6oSrGluvcv332j-dgubogSCq9pdWEiXeoA&s=10"
-},
-
-
-{
-    id: "basílica-inmaculada-concepcion",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Basílica de la Inmaculada Concepción",
-
-    category: [
-        "Religión",
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Templo histórico de la ciudad donde descansan los restos de Justo José de Urquiza. Es uno de los edificios religiosos más importantes de Entre Ríos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5MwRBiZNqU6YylhcrgYvhe33VxJiuLpeCGWmkt66UwNuvCtpy-iBUJyu&s=10"
-},
-
-
-{
-    id: "colegio-del-uruguay",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Colegio del Uruguay Justo José de Urquiza",
-
-    category: [
-        "Historia",
-        "Arquitectura",
-        "Museo"
-    ],
-
-    description:
-        "Institución educativa histórica fundada por Urquiza en 1849, considerada una de las más antiguas e importantes del país.",
-
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/7d/96/c0/patio-central.jpg?w=900&h=500&s=1"
-},
-
-
-{
-    id: "plaza-francisco-ramirez",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Plaza Francisco Ramírez",
-
-    category: [
-        "Plaza",
-        "Historia"
-    ],
-
-    description:
-        "Plaza principal de la ciudad, ubicada en el centro histórico y rodeada por edificios emblemáticos como la Basílica y el Colegio del Uruguay.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMd2Q54FYXxpkLyVH8xVVyd9SlvwTqouB7Zs1KhHjPWQgl-w5v_9clOc&s=10"
-},
-
-
-{
-    id: "puerto-concepcion-del-uruguay",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Puerto de Concepción del Uruguay",
-
-    category: [
-        "Costaneras",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Puerto histórico sobre el río Uruguay, fundamental para el desarrollo comercial de la ciudad y actualmente un atractivo del paseo costero.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS96NphOLSk6q86Ud-huBVkcYoxMurb5PpM-tpGshkpPpQNBgF7p9ataAh&s=10"
-},
-
-
-{
-    id: "balneario-la-camila",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Balneario La Toma",
-
-    category: [
-        "Playas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Espacio recreativo junto al río Uruguay con playa y sectores para disfrutar del paisaje costero.",
-
-    image: "https://www.turismoentrerios.com/cdeluruguay/img/itape.jpg"
-},
-
-
-{
-    id: "termas-concepcion-del-uruguay",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Termas de Concepción del Uruguay",
-
-    category: [
-        "Termas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Complejo termal con piscinas de aguas termales, espacios recreativos y servicios turísticos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhpXRL1YtkgTlwb42HdJ9Iqkh79wQ8pto4y9sVg-LcJ-ShXIrJQymink&s=10"
-},
-
-
-{
-    id: "carnaval-concepcion-del-uruguay",
-
-    city: "concepcion-del-uruguay",
-
-    name: "Carnaval de Concepción del Uruguay",
-
-    category: [
-        "Carnaval",
-        "Fiesta Nacional"
-    ],
-
-    description:
-        "Celebración popular con comparsas, música y espectáculos que forman parte de la identidad cultural de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyGWq_ihwLNNFHPKw6ioLLPphY-jUAr51fbXowGTUUdxhwFJIrTnDmjHY&s=10"
-},
-
-{
-    id: "termas-san-jose",
-
-    city: "san-jose-entre-rios",
-
-    name: "Termas de San José",
-
-    category: [
-        "Termas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Complejo termal con piscinas de aguas termales, espacios recreativos y servicios turísticos, uno de los principales atractivos de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPiDzP54JyEGJkg8vFWQoIQW45zsbNj-2rNZ0f7Q3vQ&s=10"
-},
-
-{
-    id: "museo-historico-colonial-san-jose",
-
-    city: "san-jose-entre-rios",
-
-    name: "Museo Histórico Regional de la Colonia San José",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo que muestra la historia de la Colonia San José fundada por inmigrantes europeos, con objetos, herramientas y documentos históricos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsyor4TauGOqGh8G1DW0mRvx9Nnbjxb9t745_Jf_hXSIca-7U6b87jOxS&s=10"
-},
-
-
-{
-    id: "playa-san-jose",
-
-    city: "san-jose-entre-rios",
-
-    name: "Playa de San José",
-
-    category: [
-        "Playas",
-        "Naturaleza",
-        "Costaneras"
-    ],
-
-    description:
-        "Playa sobre el río Uruguay con arena, servicios turísticos y espacios ideales para disfrutar durante el verano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8Orxx-YZ6qIroybiDB0UlL_ScHR-JxSkhtJvKKHSSco0m5Bqw4JJ-D8&s=10"
-},
-
-
-{
-    id: "fiesta-nacional-colonia-san-jose",
-
-    city: "san-jose-entre-rios",
-
-    name: "Fiesta Nacional de la Colonización",
-
-    category: [
-        "Fiesta Nacional",
-        "Historia"
-    ],
-
-    description:
-        "Celebración que homenajea a los inmigrantes fundadores de la Colonia San José con desfiles, espectáculos y tradiciones culturales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI65BH31OW7pfTrJFWZMne5BLDeZQvaJOKHsKp07oEK-9iI04H-DVMujKL&s=10"
-},
-
-{
-    id: "termas-de-la-paz",
-
-    city: "la-paz-entre-rios",
-
-    name: "Termas de La Paz",
-
-    category: [
-        "Termas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Complejo termal ubicado frente al río Paraná, uno de los principales atractivos turísticos de La Paz, con piscinas de aguas termales y espacios recreativos.",
-
-    image: "https://www.lapazentrerios.tur.ar/imagenes/20200313143424-termas-de-la-paz.jpg"
-},
-
-
-{
-    id: "costanera-la-paz",
-
-    city: "la-paz-entre-rios",
-
-    name: "Costanera de La Paz",
-
-    category: [
-        "Costaneras",
-        "Naturaleza",
-        "Parques"
-    ],
-
-    description:
-        "Paseo ribereño sobre el río Paraná con miradores, espacios verdes y vistas panorámicas del paisaje del litoral entrerriano.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60-PYilSOZwHKs6jWLe0uyrtf5hKxWF_rv7n09xCZ7Enn8RvMcBRie5A&s=10"
-},
-
-{
-    id: "parque-la-curtiembre",
-
-    city: "la-paz-entre-rios",
-
-    name: "Parque La Curtiembre",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Espacio recreativo de la ciudad con sectores verdes y lugares para disfrutar del entorno natural.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThTDOG-wMlLdIz61JOjOQwfx0rqs-b5MzgfB6fL5T-KbbKuKV-nYSebPI&s=10"
-},
-
-
-{
-    id: "fiesta-provincial-dorado-la-paz",
-
-    city: "la-paz-entre-rios",
-
-    name: "Fiesta Provincial del Dorado",
-
-    category: [
-        "Fiesta Nacional",
-        "Deporte",
-        "Aventura"
-    ],
-
-    description:
-        "Evento tradicional de pesca deportiva que reúne participantes de todo el país y celebra la importancia del dorado en la identidad de La Paz.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRACZ0chHlp_iikxF6akOfg09otUMW-fZpt0HBHoMuGiQ&s=10"
-},
-
-
-{
-    id: "iglesia-nuestra-senora-la-paz",
-
-    city: "la-paz-entre-rios",
-
-    name: "Iglesia Nuestra Señora de La Paz",
-
-    category: [
-        "Religión",
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Templo histórico de la ciudad vinculado a la identidad religiosa y cultural de La Paz.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiubs2rfgadF-bYZ6nM-174hNeNe8qICbDbAelsXL_IKhyxoVjc38whdc&s=10"
-},
-
-{
-    id: "parque-de-la-democracia-resistencia",
-
-    city: "resistencia",
-
-    name: "Parque de la Democracia",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Gran espacio verde de la ciudad con lagunas, senderos y sectores recreativos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lZmcaOSBQGAhy691_bft01oOkeaTc7EFtuqiOemUiQ&s=10"
-},
-
-
-{
-    id: "laguna-arguelles",
-
-    city: "resistencia",
-
-    name: "Laguna Argüello",
-
-    category: [
-        "Lagunas",
-        "Naturaleza"
-    ],
-
-    description:
-        "Laguna urbana histórica utilizada como espacio recreativo y de esparcimiento.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtOx3gYnXgdWPunFIhtaxILVsPMUwfohd3TroljOUUQ&s=10"
-},
-
-{
-    id: "parque-nacional-el-impenetrable",
-
-    city: "juan-jose-castelli",
-
-    name: "Parque Nacional El Impenetrable",
-
-    category: [
-        "Parques Nacionales",
-        "Naturaleza",
-        "Bosques",
         "Animales",
         "Aventura"
     ],
 
     description:
-        "Área protegida de más de 128 mil hectáreas que conserva bosques chaqueños, fauna autóctona y paisajes únicos del Gran Chaco.",
+        "Sector del Bañado La Estrella ubicado a 45 km de Las Lomitas, sobre la Ruta Provincial 28. El viaducto permite observar el humedal, aves, carpinchos y yacarés, además de realizar navegación en canoa y pesca.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQlhDgtflNDePXiroUpZpOAnbICBNeKOO6-uwBL_WhPA&s=10"
-},
-
-
-{
-    id: "rio-bermejo-impenetrable",
-
-    city: "juan-jose-castelli",
-
-    name: "Río Bermejo",
-
-    category: [
-        "Naturaleza",
-        "Aventura"
-    ],
-
-    description:
-        "Río que atraviesa la región del Impenetrable y forma parte de los paisajes naturales más destacados del Chaco.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wqwKF54w7goHBZVuGSvbFy8vWj8SMVIWFqckDx9APw&s=10"
+    image: "https://afona.org.ar/wp-content/uploads/2023/08/64e4fc78a93f9-1024x768.jpg"
 },
 
 {
-    id: "balneario-villa-rio-bermejito",
+    id: "parque-acuatico-miguel-angel-negro-medina",
+    city: "las-lomitas",
 
-    city: "villa-rio-bermejito",
-
-    name: "Balneario Villa Río Bermejito",
+    name: "Parque Acuático Miguel Ángel 'Negro' Medina",
 
     category: [
-        "Playas",
-        "Naturaleza"
+        "Aventura",
+        "Deporte"
     ],
 
     description:
-        "Balneario sobre el río Bermejo utilizado como destino turístico de verano por sus playas y paisajes naturales.",
+        "Complejo acuático municipal de Las Lomitas destinado a la recreación y actividades de verano.",
 
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLP0Cq95bGKQqxbQsgOSYZLhAF_BoVPbaeqz_ONs8ER7peJ5dZTosSPsO&s=10"
-},
-
-{
-    id: "parque-provincial-isla-del-cerrito",
-
-    city: "isla-del-cerrito",
-
-    name: "Parque Provincial Isla del Cerrito",
-
-    category: [
-        "Naturaleza",
-        "Reservas Naturales",
-        "Bosques",
-        "Animales"
-    ],
-
-    description:
-        "Área natural protegida con bosques, humedales y gran diversidad de aves junto a los ríos Paraná y Paraguay.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYhTWYLGxSUpVjCi_PXOy8h2YEtkhST7f2rD8cEbQlIg&s=10"
-},
-
-{
-    id: "plaza-25-de-mayo-resistencia",
-
-    city: "resistencia",
-
-    name: "Plaza 25 de Mayo",
-
-    category: [
-        "Plaza",
-        "Historia",
-        "Monumento"
-    ],
-
-    description:
-        "Plaza principal de Resistencia y corazón histórico de la ciudad, rodeada por edificios emblemáticos y numerosas esculturas urbanas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlfD7vxccs_J6-8SyfEGbMTXSrxY22S1LlFSJhvGSLzQ&s=10"
-},
-
-
-{
-    id: "catedral-san-fernando-resistencia",
-
-    city: "resistencia",
-
-    name: "Catedral San Fernando Rey",
-
-    category: [
-        "Religión",
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Templo histórico de Resistencia inaugurado en el siglo XIX, ubicado frente a la Plaza 25 de Mayo.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zGPW3ZTR9PgJWyVir-UMXmHcJ5gHzrgx_cDa-Iegi4MEykreAP42ovSy&s=10"
-},
-
-
-{
-    id: "casa-gobierno-chaco",
-
-    city: "resistencia",
-
-    name: "Casa de Gobierno del Chaco",
-
-    category: [
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Edificio institucional destacado de la ciudad que conserva obras de artistas argentinos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIt1e9-CF_uZINL4QsDL5Ur31-l7wHDvGYgKT2aMx0w7599S-reCZq9l0&s=10"
-},
-
-
-{
-    id: "casa-de-las-culturas-resistencia",
-
-    city: "resistencia",
-
-    name: "Casa de las Culturas",
-
-    category: [
-        "Museo",
-        "Teatro",
-        "Arquitectura"
-    ],
-
-    description:
-        "Centro cultural provincial con exposiciones, actividades artísticas y espacios dedicados a las artes chaqueñas.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqy5WUpdS4FrF8feB2etoGDcqMZkjVjU2AdppboYmLRw4rEwz4Dr0a-4B&s=10"
-},
-
-
-{
-    id: "muba-resistencia",
-
-    city: "resistencia",
-
-    name: "Museo Provincial de Bellas Artes René Brusau",
-
-    category: [
-        "Museo",
-        "Arte"
-    ],
-
-    description:
-        "Museo que reúne obras de artistas chaqueños y nacionales, formando parte del patrimonio cultural de la provincia.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3bEQjtrDeli-hu6ScPVg1d2FbaYrLbSxDNqzAk9fDmGeRI64URwHZcw&s=10"
-},
-
-
-{
-    id: "museo-hombre-chaqueno",
-
-    city: "resistencia",
-
-    name: "Museo del Hombre Chaqueño",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia y cultura del Chaco, incluyendo pueblos originarios, inmigrantes y tradiciones regionales.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFaFtK--o07c2ATZGFiRPUxw00pOroC4hQ7dtIanC2w&s=10"
-},
-
-
-{
-    id: "museo-ciencias-naturales-augusto-schulz",
-
-    city: "resistencia",
-
-    name: "Museo de Ciencias Naturales Augusto Schulz",
-
-    category: [
-        "Museo",
-        "Naturaleza",
-        "Animales"
-    ],
-
-    description:
-        "Museo dedicado a la biodiversidad chaqueña, con colecciones de fauna, flora y patrimonio natural.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLgcUXwaW1bFkTTQqk7xPyuAe6hMkU0fAQDvaIhyspO9zzUP2CLE4ZNU&s=10"
-},
-
-
-{
-    id: "fogon-de-los-arrieros",
-
-    city: "resistencia",
-
-    name: "Fogón de los Arrieros",
-
-    category: [
-        "Museo",
-        "Historia",
-        "Arquitectura"
-    ],
-
-    description:
-        "Espacio cultural histórico con obras de arte, objetos antiguos, esculturas y colecciones particulares.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOVHzQIGGjKsdGqg0k9Fjndfqzjn1WSkLtf15dnIologTWk6kErxdqpQ&s=10"
-},
-
-
-{
-    id: "parque-2-febrero-resistencia",
-
-    city: "resistencia",
-
-    name: "Parque 2 de Febrero",
-
-    category: [
-        "Parques",
-        "Naturaleza"
-    ],
-
-    description:
-        "Principal espacio verde de Resistencia, con sectores recreativos, esculturas, anfiteatro y el Domo del Centenario.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GS5BXYrloZWuaAjlYcsuyg8tZknbFaWQvGOuRhmSdsp5IFEJRPXZPLU&s=10"
-},
-
-
-{
-    id: "domo-del-centenario",
-
-    city: "resistencia",
-
-    name: "Domo del Centenario Zitto Segovia",
-
-    category: [
-        "Arquitectura",
-        "Teatro"
-    ],
-
-    description:
-        "Espacio cultural y de espectáculos ubicado dentro del Parque 2 de Febrero, sede de importantes eventos.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13jc1PUE6o3VeDzYhO2fDnkOYImD2jWvHI1xecde2HQ5f-cuIJnH5QLFn&s=10"
-},
-
-{
-    id: "paseo-artistas-artesanos",
-
-    city: "resistencia",
-
-    name: "Paseo de Artistas y Artesanos",
-
-    category: [
-        "Shopping",
-        "Historia"
-    ],
-
-    description:
-        "Feria donde se encuentran artesanías regionales, productos culturales y trabajos de artistas chaqueños.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPkgSUHvktH2VSa5LnwVezTYihJyy_tJrbZ_2j79X9Q&s=10"
-},
-
-
-{
-    id: "bienal-escultura-resistencia",
-
-    city: "resistencia",
-
-    name: "Bienal Internacional de Escultura",
-
-    category: [
-        "Fiesta Nacional",
-        "Arte",
-        "Monumento"
-    ],
-
-    description:
-        "Evento internacional de arte que transforma a Resistencia en una gran galería al aire libre y deja esculturas como patrimonio permanente.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxJ5EPFBL-w6wSR0jGNcoy71GtSZDt1M9rUGf52HUdp0Xw7dlIeYC3jQU&s=10"
-},
-
-
-{
-    id: "museo-a-cielo-abierto-resistencia",
-
-    city: "resistencia",
-
-    name: "Museo a Cielo Abierto de Resistencia",
-
-    category: [
-        "Monumento",
-        "Arquitectura"
-    ],
-
-    description:
-        "Recorrido urbano formado por cientos de esculturas instaladas en calles, plazas y espacios públicos de la ciudad.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBdQ_L3H5BPmmsaJ3FyBltTa6h3mPnisO8WrAlUOUkN_ZIs_Wd-otdGMNd&s=10"
-},
-
-
-{
-    id: "encuentro-internacional-escultores-impenetrable",
-
-    city: "juan-jose-castelli",
-
-    name: "Encuentro Internacional de Escultores del Impenetrable",
-
-    category: [
-        "Fiesta Nacional",
-        "Monumento",
-        "Arte"
-    ],
-
-    description:
-        "Evento cultural que reúne escultores y deja obras de arte público en la localidad, combinando naturaleza, identidad chaqueña y cultura.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5evF4PhWswcQIymp4q34tN7nk1qwMNINu-97mDw0QehX27d2A0TOh9lq&s=10"
-},
-
-
-{
-    id: "la-fidelidad",
-
-    city: "juan-jose-castelli",
-
-    name: "Estancia La Fidelidad",
-
-    category: [
-        "Naturaleza",
-        "Historia",
-        "Reservas Naturales"
-    ],
-
-    description:
-        "Antigua estancia cuya conservación permitió la creación del Parque Nacional El Impenetrable. Es uno de los lugares claves para la protección del bosque chaqueño.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlaVo6YA6Zdk406tnwFEUoWneyV49T4sdqhwTK7YK4u0r_8McjLxpQNxAI&s=10"
-},
-
-{
-    id: "parque-nacional-chaco",
-
-    city: "capitan-solari",
-
-    name: "Parque Nacional Chaco",
-
-    category: [
-        "Parques Nacionales",
-        "Naturaleza",
-        "Bosques",
-        "Animales",
-        "Aventura"
-    ],
-
-    description:
-        "Área protegida del Chaco Húmedo con montes, sabanas, esteros y lagunas. Conserva grandes extensiones de quebracho colorado y una enorme biodiversidad con más de 300 especies de aves.",
-
-    image: "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/03/31163214/gran-chaco-argentina-13-PN-Chaco-Foto-Parques-Nacionales-04-768x481.jpg"
-},
-
-{
-    id: "la-cangaye",
-
-    city: "villa-rio-bermejito",
-
-    name: "Reducción La Cangayé",
-
-    category: [
-        "Historia",
-    ],
-
-    description:
-        "Restos históricos de una antigua reducción jesuítica donde convivieron españoles y pueblos originarios, uno de los sitios históricos más relevantes de la zona.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRml7L4mbXNeqADwf1RaDwQUi7r9VEz2pBd8TLspR_MHeHUzhJSICiuSTlo&s=10"
-},
-
-{
-    id: "confluencia-parana-paraguay",
-
-    city: "isla-del-cerrito",
-
-    name: "Confluencia de los ríos Paraná y Paraguay",
-
-    category: [
-        "Naturaleza",
-    ],
-
-    description:
-        "Punto natural donde se encuentran dos de los grandes ríos del litoral argentino, rodeado de islas, bosques y paisajes ribereños.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cv6L797-UDPL9lMCJFl-9rWwEwtZzlqNb9uUQfJZM7hushFi4J4yS30&s=10"
-},
-
-{
-    id: "museo-historico-isla-del-cerrito",
-
-    city: "isla-del-cerrito",
-
-    name: "Museo Histórico de Isla del Cerrito",
-
-    category: [
-        "Museo",
-        "Historia"
-    ],
-
-    description:
-        "Museo dedicado a la historia de la isla y su importancia durante la Guerra de la Triple Alianza.",
-
-    image: "https://cultura.chaco.gob.ar/uploads/files/img-20260521-wa0066-1-6a0f799a5f309785873478.jpg"
-},
-
-{
-    id: "capilla-virgen-del-pilar",
-
-    city: "isla-del-cerrito",
-
-    name: "Capilla Virgen del Pilar",
-
-    category: [
-        "Religión",
-        "Arquitectura",
-        "Historia"
-    ],
-
-    description:
-        "Capilla histórica ubicada sobre la isla, uno de los símbolos culturales y arquitectónicos del lugar.",
-
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovWuDzPwS-rxIRt-3kanFZ43a1g03rCiOI0K0Df27-Anr0oV4db0lH9Jb&s=10"
-},
+    image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2026/01/PARQUE-ACUATICO-LAS-LOMITAS-1.jpg"
+}
 
 ]
