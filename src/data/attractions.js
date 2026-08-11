@@ -21080,23 +21080,6 @@ export const attractions = [
     description:
         "Museo dedicado a preservar la memoria histórica y cultural de Eldorado y de sus primeros pobladores.",
 
-    image: ""
-},
-
-{
-    id: "obelisco-eldorado",
-    city: "eldorado",
-
-    name: "Monumento al Colono",
-
-    category: [
-        "Monumento",
-        "Historia"
-    ],
-
-    description:
-        "Monumento relacionado con la historia de los colonos y con el proceso de formación de Eldorado como colonia agrícola y forestal.",
-
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5YH4vcgz3kcgEluF57TGhYz1O6xenfY8SJeF_s-cHA&s=10"
 },
 
