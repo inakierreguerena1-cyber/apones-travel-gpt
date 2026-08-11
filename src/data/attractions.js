@@ -20479,6 +20479,1198 @@ export const attractions = [
         "Complejo acuático municipal de Las Lomitas destinado a la recreación y actividades de verano.",
 
     image: "https://www.formosahermosa.gob.ar/wp-content/uploads/2026/01/PARQUE-ACUATICO-LAS-LOMITAS-1.jpg"
+},
+
+{
+    id: "costanera-posadas",
+    city: "posadas",
+
+    name: "Costanera de Posadas",
+
+    category: [
+        "Naturaleza",
+        "Costaneras",
+        "Deporte",
+        "Gastronomía"
+    ],
+
+    description:
+        "Paseo costero de más de 10 kilómetros sobre el río Paraná, con miradores, espacios verdes, senderos, ciclovías, gastronomía y vistas panorámicas hacia Encarnación, Paraguay.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Fq_mwmRAO4ODW-nVBkY3NL3eWol2TvjdbkfI8faiXDevJBTs5QKnUFLM&s=10"
+},
+
+{
+    id: "playa-costa-sur-posadas",
+    city: "posadas",
+
+    name: "Playa Costa Sur",
+
+    category: [
+        "Playas",
+        "Naturaleza",
+        "Deporte",
+        "Gastronomía"
+    ],
+
+    description:
+        "Balneario sobre el río Paraná con playa de arena, quinchos, espacios de descanso, gastronomía y propuestas deportivas y náuticas.",
+
+    image: "https://i0.wp.com/enfoquemisiones.com/wp-content/uploads/2023/01/Costa-Sur.jpeg?fit=500%2C335&ssl=1"
+},
+
+{
+    id: "jardin-botanico-alberto-roth",
+    city: "posadas",
+
+    name: "Jardín Botánico Alberto Roth",
+
+    category: [
+        "Jardines",
+        "Naturaleza",
+        "Bosques"
+    ],
+
+    description:
+        "Reserva ecológica de aproximadamente 11 hectáreas con senderos, especies autóctonas y exóticas, orquideario y espacios para recorrer el ambiente natural misionero.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMTOCzX-t1-hT8JNQhfU-bgr6IZoBNBmnmK9mU6xiVHicMUC-EPfL4LCkD&s=10"
+},
+
+{
+    id: "parque-republica-del-paraguay",
+    city: "posadas",
+
+    name: "Parque República del Paraguay",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Museo"
+    ],
+
+    description:
+        "Uno de los principales espacios verdes de Posadas, ubicado en una zona elevada de la ciudad y asociado al Museo Regional Aníbal Cambas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_D3ZuvoArbx578vArL0mauMMIKn9F4juoeQpRKAC3czJgTkW8c1YZ3Qe&s=10"
+},
+
+{
+    id: "monumento-andresito-guacurari",
+    city: "posadas",
+
+    name: "Monumento a Andrés Guacurarí",
+
+    category: [
+        "Monumento",
+        "Historia"
+    ],
+
+    description:
+        "Monumental escultura dedicada a Andrés Guacurarí y Artigas, uno de los principales símbolos históricos de Misiones, ubicada sobre la Costanera frente al río Paraná.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRG_aqwBOWl2ZgiI2zFjXE4JoYHbMgSLPIzZ6Ba9zGtDVNduZMHkAHAhgx&s=10"
+},
+
+{
+    id: "museo-regional-anibal-cambas",
+    city: "posadas",
+
+    name: "Museo Regional Aníbal Cambas",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a la historia regional, con colecciones arqueológicas, culturales y etnográficas que abarcan las culturas indígenas, el período jesuítico-guaraní y la historia contemporánea de Misiones.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzG5KOS9ikaNumpq7j4D40Wq8nhbrTiFvOEznRAoxt-2AuP-ME5BiVLf8&s=10"
+},
+
+{
+    id: "bajada-vieja-posadas",
+    city: "posadas",
+
+    name: "Bajada Vieja",
+
+    category: [
+        "Historia",
+        "Arquitectura"
+    ],
+
+    description:
+        "Histórico sector de Posadas vinculado con los antiguos trabajadores portuarios, pescadores y mensúes. Fue uno de los principales caminos que comunicaban la ciudad con el antiguo puerto sobre el Paraná.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEufhawCw7kji9fxwSwmfwJ014XdVevG0E39Mk8-znvg&s=10"
+},
+
+{
+    id: "anfiteatro-manuel-antonio-ramirez",
+    city: "posadas",
+
+    name: "Anfiteatro Manuel Antonio Ramírez",
+
+    category: [
+        "Teatro",
+        "Historia"
+    ],
+
+    description:
+        "Anfiteatro ubicado frente al río Paraná, escenario tradicional de grandes eventos culturales de Posadas y del Festival Nacional de la Música del Litoral.",
+
+    image: "https://i0.wp.com/enfoquemisiones.com/wp-content/uploads/2022/02/El-Anfiteatro-Manuel-Antonio-Ramirez-cumple-60-anos-abrazando-la-identidad-e1645100795745.jpeg?fit=1280%2C636&ssl=1"
+},
+
+{
+    id: "placita-del-puente-posadas",
+    city: "posadas",
+
+    name: "La Placita del Puente",
+
+    category: [
+        "Shopping",
+        "Gastronomía"
+    ],
+
+    description:
+        "Tradicional mercado de Posadas ubicado cerca del acceso al Puente Internacional San Roque González de Santa Cruz, con puestos de productos, indumentaria, artesanías y artículos regionales.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg2g9w41HmK0uBqffRUzUZ9EbPIZnQCTlRLrR_mMrSA&s=10"
+},
+
+{
+    id: "catedral-san-jose-posadas",
+    city: "posadas",
+
+    name: "Catedral San José",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Principal templo católico de Posadas, ubicado frente a la Plaza 9 de Julio. Su arquitectura y sus torres forman parte del patrimonio religioso y urbano del centro de la ciudad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKaEXEqBKWUyaeZx4Jow3aRf6Qi8LjB_vSJrIEuOXAlT6eW5RC_u0Qhzg8&s=10"
+},
+
+{
+    id: "parque-nacional-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Parque Nacional Iguazú",
+
+    category: [
+        "Naturaleza",
+        "Animales",
+        "Aventura",
+        "Parques Nacionales",
+        "Bosques"
+    ],
+
+    description:
+        "Área protegida creada en 1934 para conservar una de las regiones más importantes de la Selva Misionera. Dentro del parque se encuentran las Cataratas del Iguazú, además de una extraordinaria diversidad de flora y fauna.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYs0AYYzxs0VPofezk1kljZYONp_giEcuBRqr0OXI53w&s=10"
+},
+
+{
+    id: "cataratas-del-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Cataratas del Iguazú",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+    ],
+
+    description:
+        "Conjunto de aproximadamente 275 saltos de agua distribuidos a lo largo del río Iguazú, rodeados por la Selva Misionera. Constituyen el principal atractivo turístico de Puerto Iguazú y fueron declaradas una de las Siete Maravillas Naturales del Mundo.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61pUMANnUN-3twKNqtmmQ8zP0uy83c629NIKT4MypRLwxWYmQ-2-Q5Ww&s=10"
+},
+
+{
+    id: "garganta-del-diablo",
+    city: "puerto-iguazu",
+
+    name: "Garganta del Diablo",
+
+    category: [
+        "Naturaleza",
+        "Aventura",    ],
+
+    description:
+        "El salto más imponente de las Cataratas del Iguazú, con una caída de aproximadamente 80 metros. Se accede mediante una pasarela de 1.100 metros sobre el río Iguazú Superior, que conduce hasta el gran mirador frente a la caída.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHojhbCFODAIn9dq-rWl9oUyGQ5gmxaUQXATbhO1naJs22G4V-1MjyLmc&s=10"
+},
+
+{
+    id: "circuito-superior-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Circuito Superior",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+    ],
+
+    description:
+        "Recorrido de aproximadamente 1.850 metros por pasarelas elevadas que atraviesan el sector superior de las Cataratas y permiten observar distintos saltos y panorámicas del cañadón del río Iguazú.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYsZhY1ySSOgIyIkqNvZIFvHfMCx4OfoXy7EtN8Zoew&s=10"
+},
+
+{
+    id: "circuito-inferior-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Circuito Inferior",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+    ],
+
+    description:
+        "Recorrido de aproximadamente 2.900 metros por pasarelas que permiten acercarse a la base de distintos saltos de las Cataratas y experimentar la fuerza del agua desde una perspectiva cercana.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgx7e53RGiTfNY0DEnt2ANjZnIsaQi6osIN_QWt1feVr-FH6mcZ4N3uWU&s=10"
+},
+
+{
+    id: "sendero-verde-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Sendero Verde",
+
+    category: [
+        "Naturaleza",
+        "Animales",
+        "Bosques"
+    ],
+
+    description:
+        "Sendero accesible de aproximadamente 650 metros que atraviesa la Selva Misionera y conecta el área de acceso con los circuitos de las Cataratas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnNO4u2kZGEDqPHMUV1NavJxD6S9zNMRavWrxE93GRQ&s=10"
+},
+
+{
+    id: "sendero-macuco",
+    city: "puerto-iguazu",
+
+    name: "Sendero Macuco",
+
+    category: [
+        "Naturaleza",
+        "Animales",
+        "Aventura",
+        "Bosques"
+    ],
+
+    description:
+        "Sendero agreste de aproximadamente 7 kilómetros entre ida y vuelta que permite internarse en la Selva Misionera y observar aves, flora y fauna autóctona.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjE-cCFqAgCUO-86zsut_1l4AWRq6qIcMzgc0pOMuvg&s=10"
+},
+
+{
+    id: "tren-ecologico-de-la-selva",
+    city: "puerto-iguazu",
+
+    name: "Tren Ecológico de la Selva",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+    ],
+
+    description:
+        "Tren de bajo impacto ambiental que conecta la Estación Central con las estaciones Cataratas y Garganta del Diablo, atravesando la selva del Parque Nacional Iguazú.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScBbhgY6NOhYbcHqJ5r0FBEB_wPIM80Khhri4J-E0WdA&s=10"
+},
+
+{
+    id: "hito-tres-fronteras",
+    city: "puerto-iguazu",
+
+    name: "Hito Tres Fronteras",
+
+    category: [
+        "Monumento",
+        "Naturaleza",
+        "Costaneras"
+    ],
+
+    description:
+        "Punto panorámico de Puerto Iguazú desde donde se observa la confluencia de los ríos Paraná e Iguazú y las costas de Argentina, Brasil y Paraguay. Cada país posee un hito que identifica su territorio.",
+
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/eb/2d/62/caption.jpg?w=1200&h=-1&s=1"
+},
+
+{
+    id: "la-aripuca",
+    city: "puerto-iguazu",
+
+    name: "La Aripuca",
+
+    category: [
+        "Naturaleza",
+        "Historia",
+        "Arquitectura",
+        "Gastronomía"
+    ],
+
+    description:
+        "Parque temático y proyecto de agroecoturismo dedicado a la conservación de la selva misionera. Su estructura principal reproduce a gran escala una aripuca, antigua trampa utilizada por los pueblos guaraníes para capturar animales sin lastimarlos.",
+
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/f3/3e/db/la-aripuca.jpg?w=1200&h=-1&s=1"
+},
+
+{
+    id: "guira-oga",
+    city: "puerto-iguazu",
+
+    name: "Güirá Oga",
+
+    category: [
+        "Animales",
+        "Naturaleza",
+        "Reservas Naturales",
+        "Bosques"
+    ],
+
+    description:
+        "Refugio de animales silvestres dedicado al rescate, rehabilitación y conservación de fauna de la Selva Misionera. El predio cuenta con aproximadamente 19 hectáreas de selva protegida y funciona también como espacio educativo.",
+
+    image: "https://guiraoga.com.ar/wp-content/uploads/2025/03/visitenos1.png"
+},
+
+{
+    id: "jardin-de-los-picaflores",
+    city: "puerto-iguazu",
+
+    name: "Jardín de los Picaflores",
+
+    category: [
+        "Animales",
+        "Naturaleza",
+        "Jardines"
+    ],
+
+    description:
+        "Espacio dedicado a la observación de picaflores y otras aves que visitan el jardín, ubicado dentro del área urbana de Puerto Iguazú.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWPIaMQI-6QBd-6O8fkSA93wY7nWxUd19dQ1YtjP-kNtCpxIZmnmhUXmf&s=10"
+},
+
+{
+    id: "casa-de-las-botellas",
+    city: "puerto-iguazu",
+
+    name: "La Casa de las Botellas",
+
+    category: [
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Construcción realizada principalmente con materiales reutilizados, entre ellos botellas, envases y otros elementos recuperados. El espacio muestra distintas posibilidades de reutilización y reciclaje.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmBDOgfPGcKorevL69eU-j95ieLmXuzt0ktEKxWQLTg&s=10"
+},
+
+{
+    id: "santuario-nuestra-senora-del-yguazu",
+    city: "puerto-iguazu",
+
+    name: "Santuario Nuestra Señora del Iguazú",
+
+    category: [
+        "Religión",
+        "Arquitectura"
+    ],
+
+    description:
+        "Santuario católico de Puerto Iguazú dedicado a Nuestra Señora del Iguazú, vinculado con la identidad religiosa y cultural de la ciudad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjetHQjGrtlTfKXA6PcsKpbM7h-i1z-HlIIufr4sZs1kTQaY7LG9WX_Zp&s=10"
+},
+
+{
+    id: "orquideario-del-parque-nacional-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Orquideario del Parque Nacional Iguazú",
+
+    category: [
+        "Jardines",
+        "Naturaleza",
+    ],
+
+    description:
+        "Espacio dedicado a la conservación y observación de especies de orquídeas y otras plantas características de la Selva Misionera.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyoTll7IC5ZCvwrk1D6wcSwil11lyqbb7HpbdOBUjgr_dJVWnDlxBVY4&s=10"
+},
+
+{
+    id: "puerto-iguazu-costanera",
+    city: "puerto-iguazu",
+
+    name: "Costanera de Puerto Iguazú",
+
+    category: [
+        "Costaneras",
+        "Naturaleza",
+        "Gastronomía"
+    ],
+
+    description:
+        "Paseo costero junto a los ríos Paraná e Iguazú, con espacios para caminar y contemplar el paisaje de la Triple Frontera.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEjqs2cMe2f-cFEdjIceBOle4zS5qpjW9euDe5e-Y0sQ&s=10"
+},
+
+{
+    id: "icebar-iguazu",
+    city: "puerto-iguazu",
+
+    name: "Icebar Iguazú",
+
+    category: [
+        "Aventura"
+    ],
+
+    description:
+        "Bar temático construido en hielo, con una experiencia de visita basada en un ambiente completamente refrigerado y esculturas de hielo.",
+
+    image: "https://d6myp1633h7qr.cloudfront.net/products/90f5cd09-5554-4aed-b45e-e018255657b4_desktop.webp"
+},
+
+{
+    id: "parque-salto-encantado-eldorado",
+    city: "eldorado",
+
+    name: "Parque Natural Municipal Salto Küppers",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+        "Parques",
+        "Bosques"
+    ],
+
+    description:
+        "Área natural protegida de Eldorado donde se encuentra el Salto Küppers, una caída de agua rodeada por vegetación de la Selva Misionera. El lugar cuenta con senderos y espacios destinados a la contemplación del paisaje.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIMQnzQxth27itH598ujSLgkfcmBxFdr9Vd9zqpcWjVB_oamnJs_z4Mwm&s=10"
+},
+
+{
+    id: "salto-kupperts",
+    city: "eldorado",
+
+    name: "Salto Küppers",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+        "Bosques"
+    ],
+
+    description:
+        "Salto de agua ubicado dentro del área natural municipal de Eldorado, rodeado de selva y afloramientos rocosos. Es uno de los principales atractivos naturales de la ciudad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplwyQQdhjrZ3NUEAXxMjoZWdFL_4Y9WDVAQt_DGg1f2a7F7beTV-0ssM&s=10"
+},
+
+{
+    id: "costanera-eldorado",
+    city: "eldorado",
+
+    name: "Costanera de Eldorado",
+
+    category: [
+        "Costaneras",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Paseo ubicado junto al río Paraná, con espacios verdes y sectores destinados al descanso y la recreación. Es uno de los principales puntos de contacto de Eldorado con el río.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF0p8oAoGdn3yhl3oT7SUt_L4Vccx8lyC5nsXQV2CHo9F_bJxMj0d7gn_&s=10"
+},
+
+{
+    id: "puerto-eldorado",
+    city: "eldorado",
+
+    name: "Puerto Eldorado",
+
+    category: [
+        "Naturaleza",
+        "Costaneras",
+        "Historia"
+    ],
+
+    description:
+        "Antiguo sector portuario de Eldorado sobre el río Paraná, vinculado con los primeros años de desarrollo de la colonia y con la actividad fluvial de la zona.",
+
+    image: "https://elterritorio1.cdn.net.ar/252/elterritorio1/images/01/60/94/1609451_e5e88a5f4d30c1afa7d7493dc05acac737911fc4a6eb7552bc85f00974c0b133/md.webp"
+},
+
+{
+    id: "parque-schwelm",
+    city: "eldorado",
+
+    name: "Parque Schwelm",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Historia"
+    ],
+
+    description:
+        "Espacio verde histórico de Eldorado vinculado con la familia Schwelm y con los primeros tiempos de la colonización de la ciudad. Conserva áreas arboladas y sectores recreativos.",
+
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Parque_Municipal_Adolfo_Schwelm%2C_Eldorado.jpg"
+},
+
+{
+    id: "museo-cooperativo-eldorado",
+    city: "eldorado",
+
+    name: "Museo Cooperativo de Eldorado",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Espacio dedicado a conservar y difundir la historia de Eldorado y de su desarrollo productivo y cooperativo, con objetos y documentación relacionados con la vida de la comunidad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ebaJu4QLaSwVqQk7wn90_JurpxLS3LgMSj9MsiC854HWXbGDa8tSlNY&s=10"
+},
+
+{
+    id: "museo-municipal-eldorado",
+    city: "eldorado",
+
+    name: "Museo Municipal de Eldorado",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a preservar la memoria histórica y cultural de Eldorado y de sus primeros pobladores.",
+
+    image: ""
+},
+
+{
+    id: "obelisco-eldorado",
+    city: "eldorado",
+
+    name: "Monumento al Colono",
+
+    category: [
+        "Monumento",
+        "Historia"
+    ],
+
+    description:
+        "Monumento relacionado con la historia de los colonos y con el proceso de formación de Eldorado como colonia agrícola y forestal.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY5YH4vcgz3kcgEluF57TGhYz1O6xenfY8SJeF_s-cHA&s=10"
+},
+
+{
+    id: "iglesia-san-miguel-eldorado",
+    city: "eldorado",
+
+    name: "Iglesia San Miguel Arcángel",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Templo católico histórico de Eldorado dedicado a San Miguel Arcángel y vinculado con la vida religiosa de la comunidad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1n7JcGvYaa8Jl-xKKH2yTWbO_qDMyIF7zBmLXq3oxZqO4w-kls9eeJ0s&s=10"
+},
+
+{
+    id: "parque-de-las-naciones-obera",
+    city: "obera",
+
+    name: "Parque de las Naciones",
+
+    category: [
+        "Parques",
+        "Historia",
+    ],
+
+    description:
+        "Complejo cultural y recreativo donde se encuentran las casas típicas de las colectividades de Oberá. Es la sede permanente de la Fiesta Nacional del Inmigrante y uno de los principales espacios culturales y turísticos de la ciudad.",
+
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/26/38/9c/img-20181024-094530-largejpg.jpg?w=1200&h=-1&s=1"
+},
+
+{
+    id: "fiesta-nacional-del-inmigrante",
+    city: "obera",
+
+    name: "Fiesta Nacional del Inmigrante",
+
+    category: [
+        "Fiesta Nacional",
+        "Gastronomía",
+        "Historia"
+    ],
+
+    description:
+        "Fiesta nacional que celebra las raíces de las colectividades que formaron la comunidad de Oberá. Se realiza anualmente en el Parque de las Naciones, con gastronomía, música, danzas, vestimentas y tradiciones de distintos países.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS56t2DC2RYSkA-8rMfl-LFSH3r2XKeCBoR9eJUOattqQ&s=10"
+},
+
+{
+    id: "jardin-de-los-pajaros-obera",
+    city: "obera",
+
+    name: "Jardín de los Pájaros",
+
+    category: [
+        "Animales",
+        "Naturaleza",
+        "Jardines"
+    ],
+
+    description:
+        "Espacio de conservación y educación ambiental dedicado a las aves de la Selva Misionera. Cuenta con senderos y sectores donde pueden observarse distintas especies de aves autóctonas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxWS72LNEOTtQ5gF8_StQ2flNvwt4PB7pbhL8EhOgBrxH73jtur3z8Q4&s=10"
+},
+
+{
+    id: "salto-berrondo-obera",
+    city: "obera",
+
+    name: "Salto Berrondo",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+        "Parques",
+        "Bosques"
+    ],
+
+    description:
+        "Salto de agua ubicado en un entorno de selva a pocos kilómetros de Oberá. El área cuenta con senderos, espacios recreativos y sectores para disfrutar del paisaje natural y del arroyo.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUjeUe0BLF9YrUCqp2LrQZd1EjH2YlV4dkv0jan3Mug&s=10"
+},
+
+
+{
+    id: "parque-de-la-selva-obera",
+    city: "obera",
+
+    name: "Parque de la Selva",
+
+    category: [
+        "Deporte"
+    ],
+
+    description:
+        "Complejo recreativo y deportivo de Oberá que cuenta con piletas y espacios destinados a actividades acuáticas y recreativas.",
+
+    image: "https://obera.gob.ar/wp-content/uploads/2021/09/Parque-de-la-Selva-Obera-Misiones-3.jpg"
+},
+
+
+
+{
+    id: "jardin-botanico-obera",
+    city: "obera",
+
+    name: "Jardín Botánico de Oberá",
+
+    category: [
+        "Jardines",
+        "Naturaleza",
+        "Bosques"
+    ],
+
+    description:
+        "Espacio dedicado a la conservación y observación de especies vegetales de la región, con sectores de vegetación autóctona y senderos para recorrer el entorno natural.",
+
+    image: "https://obera.gob.ar/wp-content/uploads/2022/03/Jardin-Botanico_Mesa-de-trabajo-1-copia-58.jpg"
+},
+
+{
+    id: "monumento-al-inmigrante-obera",
+    city: "obera",
+
+    name: "Monumento al Inmigrante",
+
+    category: [
+        "Monumento",
+        "Historia"
+    ],
+
+    description:
+        "Monumento dedicado a las comunidades de inmigrantes que contribuyeron a la formación de Oberá y de la identidad cultural de la región.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrTmhOmcYsBzFSw1W-Kf3iG3ec5RJ3ZYzAqFHlsznXdLy4Y6U2YtXBuaY&s=10"
+},
+
+{
+    id: "catedral-san-antonio-obera",
+    city: "obera",
+
+    name: "Catedral San Antonio de Padua",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Principal templo católico de Oberá, dedicado a San Antonio de Padua. Es uno de los edificios religiosos más importantes de la ciudad.",
+
+    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/49/46/e8/vista-frontal-de-la-catedral.jpg?w=1200&h=-1&s=1"
+},
+
+{
+    id: "museo-historico-obera",
+    city: "obera",
+
+    name: "Museo Histórico y de Ciencias Naturales",
+
+    category: [
+        "Museo",
+        "Historia",
+        "Naturaleza"
+    ],
+
+    description:
+        "Espacio dedicado a preservar y mostrar aspectos de la historia de Oberá y de su entorno natural, con objetos, documentos y elementos vinculados al patrimonio local.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEr7YPH-Y0cZonVjZq2O_vg8VweCZh9_xEsL_Vtvymozjfdi6HLQkvv8&s=10"
+},
+
+{
+    id: "casa-tipica-ucraniana-obera",
+    city: "obera",
+
+    name: "Casa Típica Ucraniana",
+
+    category: [
+        "Arquitectura",
+        "Historia",
+        "Gastronomía"
+    ],
+
+    description:
+        "Casa representativa de la colectividad ucraniana ubicada en el Parque de las Naciones, donde se conservan elementos de su arquitectura, cultura y gastronomía tradicional.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1l5asOpZ4cTalmu2kAh0FDhYz8EYufB3iZYDDAF-6fw&s=10"
+},
+
+{
+    id: "casa-tipica-polaca-obera",
+    city: "obera",
+
+    name: "Casa Típica Polaca",
+
+    category: [
+        "Arquitectura",
+        "Historia",
+        "Gastronomía"
+    ],
+
+    description:
+        "Casa representativa de la colectividad polaca dentro del Parque de las Naciones, utilizada para preservar y difundir tradiciones culturales y gastronómicas de la comunidad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxDM7GfX0fo1bmnaQfTO89us_LvYwObMksf8F_XroEWg&s=10"
+},
+
+{
+    id: "casa-tipica-alemana-obera",
+    city: "obera",
+
+    name: "Casa Típica Alemana",
+
+    category: [
+        "Arquitectura",
+        "Historia",
+        "Gastronomía"
+    ],
+
+    description:
+        "Casa representativa de la colectividad alemana dentro del Parque de las Naciones, donde se muestran tradiciones culturales y gastronómicas de la comunidad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wzEH29nYy0QO_sm4mMiGgbi8FDQ14J5Jnw1CG0KSirRwNGKMD9VMeU6E&s=10"
+},
+
+{
+    id: "ruinas-san-ignacio-mini",
+    city: "san-ignacio",
+
+    name: "Ruinas de San Ignacio Miní",
+
+    category: [
+        "Ruinas",
+        "Historia",
+        "Arquitectura"
+    ],
+
+    description:
+        "Conjunto de ruinas de una antigua reducción jesuítico-guaraní fundada en el siglo XVII. Es uno de los testimonios mejor conservados de la arquitectura jesuítica de la región y forma parte del conjunto declarado Patrimonio Mundial por la UNESCO.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9OPX_l1mYXL2GAcNKcXz-0d5yIbxSYTd6AjTpHvFPg&s=10"
+},
+
+{
+    id: "centro-interpretacion-san-ignacio-mini",
+    city: "san-ignacio",
+
+    name: "Centro de Interpretación de San Ignacio Miní",
+
+    category: [
+        "Museo",
+        "Historia",
+        "Ruinas"
+    ],
+
+    description:
+        "Espacio de interpretación ubicado junto al conjunto jesuítico de San Ignacio Miní, dedicado a explicar la historia de la reducción, la cultura guaraní y el proceso de las misiones jesuíticas.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGBjd104gf7KlHpL85ySEeZvFZCkMtlTCuvLCjH-6peL2RYXAT4YnJ5k&s=10"
+},
+
+{
+    id: "casa-museo-horacio-quiroga",
+    city: "san-ignacio",
+
+    name: "Casa Museo Horacio Quiroga",
+
+    category: [
+        "Museo",
+        "Historia",
+        "Arquitectura"
+    ],
+
+    description:
+        "Casa donde vivió el escritor uruguayo Horacio Quiroga durante sus años en San Ignacio. Actualmente funciona como museo y conserva objetos, documentos y elementos relacionados con su vida y obra.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3NL6CGEBrsVYpSnsqQNvp4u6ha-smC6n24Ov7t7ssp4emgDgUgJ704dwH&s=10"
+},
+
+{
+    id: "tierra-roja-san-ignacio",
+    city: "san-ignacio",
+
+    name: "Parque Provincial Teyú Cuaré",
+
+    category: [
+        "Naturaleza",
+        "Aventura",
+        "Parques",
+        "Bosques"
+    ],
+
+    description:
+        "Área natural protegida ubicada sobre el río Paraná, caracterizada por sus afloramientos de arenisca, senderos, selva y miradores naturales. El parque conserva ambientes de gran valor paisajístico y biodiversidad.",
+
+    image: "https://tripin.travel/wp-content/uploads/2014/10/teyu-cuare-3-1024x589.jpg"
+},
+
+{
+    id: "balneario-del-parana-san-ignacio",
+    city: "san-ignacio",
+
+    name: "Balneario del Paraná",
+
+    category: [
+        "Playas",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Zona recreativa sobre el río Paraná utilizada durante la temporada de verano para disfrutar del entorno ribereño y realizar actividades al aire libre.",
+
+    image: "https://media-cdn.tripadvisor.com/media/photo-s/0c/16/96/68/playa-sobre-el-rio-parana.jpg"
+},
+
+{
+    id: "costanera-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Costanera de Puerto Rico",
+
+    category: [
+        "Costaneras",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Paseo ribereño de Puerto Rico ubicado sobre el río Paraná, con espacios verdes, sectores de descanso y vistas hacia el paisaje fluvial.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAD1TspR5z6FBq6GL15VUynLIo3VGsLAntlokQ_kM6ct0KYeoXvWeBxcU&s=10"
+},
+
+{
+    id: "balneario-el-azul-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Balneario El Azul",
+
+    category: [
+        "Playas",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Área recreativa de Puerto Rico asociada al arroyo León, utilizada durante la temporada de verano para actividades acuáticas y descanso en un entorno natural.",
+
+    image: "https://static.misionesonline.news/wp-content/uploads/2017/01/6666-7t009fpmulc0.jpg"
+},
+
+{
+    id: "salto-capiovi-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Salto Capioví",
+
+    category: [
+        "Naturaleza",
+        "Aventura"
+    ],
+
+    description:
+        "Salto de agua ubicado sobre el arroyo Capioví, en un entorno de vegetación misionera y afloramientos rocosos.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-x-593RO-vMsE04lW2BBG8Z2zhCLQWK5G6KRZC73gyWLhjwHIRPC5ztM&s=10"
+},
+
+{
+    id: "parque-municipal-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Parque Municipal de Puerto Rico",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Espacio verde municipal destinado a la recreación y al contacto con la naturaleza, con sectores para actividades deportivas y de esparcimiento.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYXCXr0vkLfvG1wjj7qU_9UiKPZ6cYBG5D8zc85NUh50k1VwxVFJwBmMK&s=10"
+},
+
+{
+    id: "museo-facundo-alvarez-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Museo Histórico y Arqueológico Andrés Guacurarí",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a conservar objetos y testimonios relacionados con la historia de Puerto Rico y de la región, incluyendo elementos vinculados con sus primeros pobladores y el desarrollo de la colonia.",
+
+    image: "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Museo_Hist%C3%B3rico_y_Arqueol%C3%B3gico_Andr%C3%A9s_Guacurar%C3%AD.jpg/3840px-Museo_Hist%C3%B3rico_y_Arqueol%C3%B3gico_Andr%C3%A9s_Guacurar%C3%AD.jpg"
+},
+
+{
+    id: "iglesia-san-alberto-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Iglesia San Alberto Magno",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Templo católico de Puerto Rico dedicado a San Alberto Magno, integrante del patrimonio religioso y arquitectónico de la ciudad.",
+
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2yMFnu8eOZyP8IpOu2VRL_yymKH6cpEY_if7isj4MUJroJng5BcJ0gU&s=10"
+},
+
+{
+    id: "parque-tematico-araucaria-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Parque Temático de la Araucaria",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Historia"
+    ],
+
+    description:
+        "Espacio recreativo y cultural dedicado a la identidad de Puerto Rico y a su patrimonio natural, con áreas verdes y elementos relacionados con la historia de la comunidad.",
+
+    image: ""
+},
+
+{
+    id: "costanera-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Costanera de Puerto Rico",
+
+    category: [
+        "Costaneras",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Paseo ribereño de Puerto Rico ubicado sobre el río Paraná, con espacios verdes, sectores de descanso y vistas hacia el paisaje fluvial.",
+
+    image: ""
+},
+
+{
+    id: "balneario-el-azul-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Balneario El Azul",
+
+    category: [
+        "Playas",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Área recreativa de Puerto Rico asociada al arroyo León, utilizada durante la temporada de verano para actividades acuáticas y descanso en un entorno natural.",
+
+    image: ""
+},
+
+{
+    id: "salto-capiovi-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Salto Capioví",
+
+    category: [
+        "Naturaleza",
+        "Aventura"
+    ],
+
+    description:
+        "Salto de agua ubicado sobre el arroyo Capioví, en un entorno de vegetación misionera y afloramientos rocosos.",
+
+    image: ""
+},
+
+{
+    id: "parque-municipal-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Parque Municipal de Puerto Rico",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Deporte"
+    ],
+
+    description:
+        "Espacio verde municipal destinado a la recreación y al contacto con la naturaleza, con sectores para actividades deportivas y de esparcimiento.",
+
+    image: ""
+},
+
+{
+    id: "museo-facundo-alvarez-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Museo Histórico y Arqueológico Andrés Guacurarí",
+
+    category: [
+        "Museo",
+        "Historia"
+    ],
+
+    description:
+        "Museo dedicado a conservar objetos y testimonios relacionados con la historia de Puerto Rico y de la región, incluyendo elementos vinculados con sus primeros pobladores y el desarrollo de la colonia.",
+
+    image: ""
+},
+
+{
+    id: "iglesia-san-alberto-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Iglesia San Alberto Magno",
+
+    category: [
+        "Religión",
+        "Arquitectura",
+        "Historia"
+    ],
+
+    description:
+        "Templo católico de Puerto Rico dedicado a San Alberto Magno, integrante del patrimonio religioso y arquitectónico de la ciudad.",
+
+    image: ""
+},
+
+{
+    id: "parque-tematico-araucaria-puerto-rico",
+    city: "puerto-rico",
+
+    name: "Parque Temático de la Araucaria",
+
+    category: [
+        "Parques",
+        "Naturaleza",
+        "Historia"
+    ],
+
+    description:
+        "Espacio recreativo y cultural dedicado a la identidad de Puerto Rico y a su patrimonio natural, con áreas verdes y elementos relacionados con la historia de la comunidad.",
+
+    image: ""
 }
 
 ]
