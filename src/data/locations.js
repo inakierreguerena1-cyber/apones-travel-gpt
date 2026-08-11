@@ -6170,7 +6170,7 @@ export const locations = [
 },
 
 {
-    id: "san-pedro",
+    id: "san-pedro-mnes",
     name: "San Pedro",
     country: {
         name: "Argentina",

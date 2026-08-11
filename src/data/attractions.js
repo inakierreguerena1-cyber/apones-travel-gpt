@@ -20696,7 +20696,7 @@ export const attractions = [
 },
 
 {
-    id: "garganta-del-diablo",
+    id: "garganta-del-diablo-iguazu",
     city: "puerto-iguazu",
 
     name: "Garganta del Diablo",
